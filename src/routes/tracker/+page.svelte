@@ -324,22 +324,22 @@
 			</button>
 		</section>
 
-		<!-- Privacy Note -->
-		<a aria-hidden="true" id="privacy"></a>
-		<aside class="rounded-lg bg-secondary-50 p-4 text-sm dark:bg-secondary-900/30">
-			<p class="font-medium text-secondary-800 dark:text-secondary-300">Your data stays with you.</p>
-			<p class="mt-2 text-secondary-700 dark:text-secondary-400">
-				Everything you track here is stored only in your browser's local storage. It never travels to any server.
-				No one can see it but you.
-			</p>
-			<p class="mt-2 italic text-secondary-600 dark:text-secondary-500">
-				"I already see your symptoms through your eyes—I don't need a database." — Brigid
-			</p>
-			<p class="mt-6 text-xs text-secondary-600 dark:text-secondary-500">
-				Note: Clearing your browser data or using private/incognito mode will remove your entries.
-			</p>
-		</aside>
 	{/if}
+
+	<!-- Privacy Note -->
+	<aside id="privacy" class="rounded-lg bg-secondary-50 p-4 text-sm dark:bg-secondary-900/30">
+		<p class="font-medium text-secondary-800 dark:text-secondary-300">Your data stays with you.</p>
+		<p class="mt-2 text-secondary-700 dark:text-secondary-400">
+			Everything you track here is stored only in your browser's local storage. It never travels to any server.
+			No one can see it but you.
+		</p>
+		<p class="mt-2 italic text-secondary-600 dark:text-secondary-500">
+			"I already see your symptoms through your eyes—I don't need a database." — Brigid
+		</p>
+		<p class="mt-6 text-xs text-secondary-600 dark:text-secondary-500">
+			Note: Clearing your browser data or using private/incognito mode will remove your entries.
+		</p>
+	</aside>
 </div>
 
 <style>
