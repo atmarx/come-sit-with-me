@@ -23,7 +23,7 @@
 
 <svelte:head>
 	{#if title}
-		<title>{title} | Perimenopause Guide</title>
+		<title>{title} | A Perimenopause Resource</title>
 	{/if}
 	{#if description}
 		<meta name="description" content={description} />
