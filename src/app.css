@@ -39,6 +39,33 @@
 /* Smooth scrolling for anchor links */
 html {
 	scroll-behavior: smooth;
+	overflow-x: hidden;
+}
+
+/* Prevent horizontal overflow on mobile */
+body {
+	overflow-x: hidden;
+	-webkit-text-size-adjust: 100%;
+}
+
+/* Ensure images and media don't overflow */
+img, video, iframe, embed, object {
+	max-width: 100%;
+	height: auto;
+}
+
+/* Prevent tables from causing horizontal overflow */
+.prose table {
+	display: block;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
+/* Prevent code blocks from causing overflow */
+.prose pre, .prose code {
+	max-width: 100%;
+	overflow-x: auto;
+	word-wrap: break-word;
 }
 
 /* Custom scrollbar for sidebar */
@@ -100,8 +127,7 @@ html {
 	background-color: rgba(0, 0, 0, 0.05);
 	border-radius: 1rem;
 	padding: 0.75em 1em;
-	margin-left: -1em;
-	margin-right: -1em;
+	/* No negative margins on mobile to prevent overflow */
 }
 
 .prose h3 {
@@ -111,8 +137,20 @@ html {
 	background-color: rgba(0, 0, 0, 0.03);
 	border-radius: 0.75rem;
 	padding: 0.5em 0.75em;
-	margin-left: -0.75em;
-	margin-right: -0.75em;
+	/* No negative margins on mobile to prevent overflow */
+}
+
+/* Extend h2/h3 backgrounds on larger screens */
+@media (min-width: 640px) {
+	.prose h2 {
+		margin-left: -1em;
+		margin-right: -1em;
+	}
+
+	.prose h3 {
+		margin-left: -0.75em;
+		margin-right: -0.75em;
+	}
 }
 
 /* Reset heading styles inside cards/links (e.g., CardGrid) */
