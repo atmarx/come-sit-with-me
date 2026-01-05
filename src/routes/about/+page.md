@@ -19,7 +19,7 @@ I couldn't fix what was happening in her body. But I could try to fix the inform
 
 ## Who We Are
 
-My name is Andrew. My wife is [Becky](http://www.phillydoulacoop.com/our-doulas.html). We've been together 20 years, and have two (usually) wonderful boys who are just beginning their teenage years.
+My name is [Andrew](https://github.com/atmarx). My wife is [Becky](http://www.phillydoulacoop.com/our-doulas.html). We've been together 20 years, and have two (usually) wonderful boys who are just beginning their teenage years.
 
 This isn't our first rodeo with hormonal chaos. Postpartum was brutal—and I didn't always handle it well. I didn't understand what was happening. I took things personally that weren't personal. I tried to logic my way through situations that needed patience and presence. I failed her in ways I still regret.
 
