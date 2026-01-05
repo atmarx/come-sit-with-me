@@ -115,6 +115,18 @@ html {
 	margin-right: -0.75em;
 }
 
+/* Reset heading styles inside cards/links (e.g., CardGrid) */
+.prose a h2,
+.prose a h3,
+.prose a h4 {
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	border-radius: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
 .prose h4 {
 	margin-top: 1.5em;
 	margin-bottom: 0.5em;
