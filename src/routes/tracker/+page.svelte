@@ -324,7 +324,7 @@
 			</button>
 		</section>
 
-		<br /><a id="privacy" />
+		<br /><a id="privacy"></a>
 		<!-- Privacy Note -->
 		<aside class="rounded-lg bg-secondary-50 p-4 text-sm dark:bg-secondary-900/30">
 			<p class="font-medium text-secondary-800 dark:text-secondary-300">Your data stays with you.</p>
