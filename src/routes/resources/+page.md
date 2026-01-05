@@ -39,53 +39,53 @@ For evidence on complementary approaches—herbs, supplements, mind-body practic
 
 The research you should know about:
 
-**Women's Health Initiative (WHI)** — The 2002 study that terrified everyone, and its subsequent reanalyses that changed the picture. Essential for understanding [the hormone therapy controversy](/support/hormone-therapy).
+**[Women's Health Initiative (WHI)](https://www.whi.org)** — The 2002 study that terrified everyone, and its subsequent reanalyses that changed the picture. Essential for understanding [the hormone therapy controversy](/support/hormone-therapy).
 
-**SWAN** (Study of Women's Health Across the Nation) — Long-running study tracking women through the menopause transition. Much of what we know about the experience comes from here.
+**[SWAN](https://www.swanstudy.org)** (Study of Women's Health Across the Nation) — Long-running study tracking women through the menopause transition. Much of what we know about the experience comes from here.
 
-**KEEPS** (Kronos Early Estrogen Prevention Study) — Helped establish the [timing hypothesis](/support/hormone-therapy).
+**[KEEPS](https://www.keepstudy.org)** (Kronos Early Estrogen Prevention Study) — Helped establish the [timing hypothesis](/support/hormone-therapy).
 
-**ELITE** (Early versus Late Intervention Trial with Estradiol) — More evidence for timing mattering.
+**[ELITE](https://clinicaltrials.gov/study/NCT00114517)** (Early versus Late Intervention Trial with Estradiol) — More evidence for timing mattering.
 
-**2022 NAMS Position Statement** on hormone therapy — Current consensus from the major professional society.
+**[2022 NAMS Position Statement](https://journals.lww.com/menopausejournal/fulltext/2022/07000/the_2022_hormone_therapy_position_statement_of_the.4.aspx)** on hormone therapy — Current consensus from the major professional society.
 
-**2023 NAMS Nonhormone Therapy Position Statement** — Guidance on non-hormonal options.
+**[2023 NAMS Nonhormone Therapy Position Statement](https://journals.lww.com/menopausejournal/fulltext/2023/06000/the_2023_nonhormone_therapy_position_statement_of.5.aspx)** — Guidance on non-hormonal options.
 
 **2025 Korean Society of Menopause Guidelines** — Part of the recent reassessment and modernization of guidance.
 
-**SKYLIGHT and OASIS trials** — Clinical trials for the new NK3 receptor antagonists (fezolinetant, elinzanetant).
+**SKYLIGHT and OASIS trials** — Clinical trials for the new NK3 receptor antagonists ([fezolinetant](https://clinicaltrials.gov/search?cond=Menopause&intr=fezolinetant), [elinzanetant](https://clinicaltrials.gov/search?cond=Menopause&intr=elinzanetant)).
 
 ## Books Worth Reading
 
-**The Menopause Manifesto** — Dr. Jen Gunter
+**[The Menopause Manifesto](https://bookshop.org/p/books/the-menopause-manifesto-own-your-health-with-facts-and-feminism-jen-gunter/15542432)** — Dr. Jen Gunter
 Straightforward, evidence-based, with the right mix of science and sass. A good place to start.
 
-**Estrogen Matters** — Avrum Bluming, MD & Carol Tavris, PhD
+**[Estrogen Matters](https://bookshop.org/p/books/estrogen-matters-why-taking-hormones-in-menopause-can-improve-women-s-well-being-and-lengthen-their-lives-without-raising-the-risk-of-breast-cancer-a/8757336)** — Avrum Bluming, MD & Carol Tavris, PhD
 Deep dive into the hormone therapy controversy and the evidence for benefits. Particularly good for understanding the WHI fallout.
 
-**The New Menopause** — Mary Claire Haver, MD
+**[The New Menopause](https://bookshop.org/p/books/the-new-menopause-navigating-your-path-through-hormonal-change-with-purpose-power-and-facts-mary-claire-haver/20216189)** — Mary Claire Haver, MD
 Recent, accessible, covers the range of symptoms and options.
 
-**Come As You Are** — Emily Nagoski, PhD
+**[Come As You Are](https://bookshop.org/p/books/come-as-you-are-revised-and-updated-the-surprising-new-science-that-will-transform-your-sex-life-emily-nagoski/18465554)** — Emily Nagoski, PhD
 Not specifically about menopause, but essential reading for understanding desire, arousal, and the spontaneous/responsive desire distinction. Life-changing for many women (and their [partners](/for-partners)).
 
 ## For Deeper Exploration
 
 **Herbal resources:**
-- *The Menopause Herbal* — Amanda McQuade Crawford
-- *Herbal Healing for Women* — Rosemary Gladstar
-- *The Web That Has No Weaver* — Ted Kaptchuk (for understanding TCM)
-- *Adaptogens* — David Winston
+- [*The Menopause Herbal*](https://bookshop.org/p/books/the-natural-menopause-handbook-herbs-nutrition-other-natural-therapies-amanda-mcquade-crawford/8644652) — Amanda McQuade Crawford
+- [*Herbal Healing for Women*](https://bookshop.org/p/books/herbal-healing-for-women-rosemary-gladstar/7363134) — Rosemary Gladstar
+- [*The Web That Has No Weaver*](https://bookshop.org/p/books/the-web-that-has-no-weaver-understanding-chinese-medicine-ted-kaptchuk/6435638) — Ted Kaptchuk (for understanding TCM)
+- [*Adaptogens*](https://bookshop.org/p/books/adaptogens-herbs-for-strength-stamina-and-stress-relief-david-winston/8501498) — David Winston
 
 **Finding practitioners:**
-- American Herbalists Guild (herbalists)
-- NCCAOM (acupuncturists/TCM)
-- National Ayurvedic Medical Association (Ayurveda)
+- [American Herbalists Guild](https://www.americanherbalistsguild.com/find-an-herbalist) (herbalists)
+- [NCCAOM](https://www.nccaom.org/find-a-practitioner-directory/) (acupuncturists/TCM)
+- [National Ayurvedic Medical Association](https://www.ayurvedanama.org/find-a-professional) (Ayurveda)
 
 **Quality verification for supplements:**
-- [ConsumerLab.com](https://consumerlab.com) (independent testing)
-- USP Verified supplements
-- NSF International certification
+- [ConsumerLab.com](https://www.consumerlab.com) (independent testing)
+- [USP Verified](https://www.usp.org/verification-services/verified-mark) supplements
+- [NSF International](https://www.nsf.org/consumer-resources/articles/dietary-supplements) certification
 
 ## A Note on Online Information
 

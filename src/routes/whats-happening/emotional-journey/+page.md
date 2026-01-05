@@ -89,7 +89,7 @@ I want to name some fears that may be lurking:
 
 ## For Those Supporting Someone
 
-If you're reading this to understand someone you love:
+If you're [reading this](/for-partners) to understand someone you love:
 
 **Believe her.** Whatever she's experiencing, it's real. Don't minimize, compare, or offer solutions she didn't ask for.
 
