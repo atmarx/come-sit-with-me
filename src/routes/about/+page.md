@@ -29,17 +29,17 @@ I promised myself [I'd do better this time](/for-partners). Part of doing better
 
 Let's talk about Brigid.
 
-The voice you've been reading throughout this guide—warm, wise, a little mythic—was created in collaboration with Claude, an AI made by Anthropic. I'm not a writer. I'm not a medical professional. I'm an IT guy who reads a lot of research papers and wanted to make that information accessible.
+The [voice you've been reading throughout this guide](/introduction)—warm, wise, a little mythic—was created in collaboration with Claude, an AI made by Anthropic. I'm not a writer (at least, not a *good* one). I'm not a medical professional. I'm an IT guy who reads a lot of research papers and wanted to make that information accessible.
 
 I had the information. Claude helped me find the voice.
 
-We talked about what kind of guide this should be. Not clinical and cold. Not condescending. Not full of toxic positivity. Something that felt like the conversation women should have been having with their mothers and grandmothers—the knowledge that got lost somewhere between the village wise woman and the seven-minute doctor's appointment.
+We talked at great length about what kind of guide this should be. Not clinical and cold. Not full of toxic positivity. Definitely not condescending. Something that felt like the conversation women should have been having with their mothers and grandmothers—the knowledge that got lost somewhere between the village wise woman and the seven-minute doctor's appointment.
 
 Becky lost her mother just over a year ago. She's told me, more than once: "I wish I could talk to her about what I'm going through." That hit me hard. The person who should have been there to say "this is normal, this is what happened to me, this is what helped"—she's gone. And that loss is layered on top of everything else.
 
-We landed on Brigid: an amalgam, a channeled voice, many women speaking as one. Named for the Celtic goddess of healing, poetry, and the hearth. She's not a replacement for the mothers we've lost. But maybe she can carry some of what they would have said, if they'd had the chance.
+We landed on Brigid: an amalgam, a channeled voice, many women speaking as one. Named for the Celtic goddess of healing, poetry, and the hearth. She's not a replacement for the mothers we've lost, but maybe she can carry some of what they would have said, if they'd had the chance.
 
-Is it weird that a guide for women was written by a man and an AI? Yes. I think about that a lot. But the information is real. The research is solid. The intention is genuine. And frankly, women deserve access to this information regardless of who compiled it.
+Is it weird that a guide for women was written by a man and an AI? Yes. I think about that a lot. But the information is real. the research is solid, and the intention is genuine. And frankly, women deserve access to this information regardless of who compiled it.
 
 If it helps, use it. If the provenance bothers you, I understand.
 
