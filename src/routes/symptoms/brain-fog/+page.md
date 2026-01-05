@@ -56,7 +56,7 @@ The fog is typically temporary. It doesn't mean you're declining. It means your 
 Some women find [hormone therapy](/support/hormone-therapy) helps with cognitive symptoms, though the research is mixed. It seems to help most when started during perimenopause rather than years after menopause.
 
 **Compensate strategically:**
-- Write things down. Use lists. Set reminders.
+- Write things down. Use lists. Set reminders. A [symptom tracker](/tracker) can help you spot patterns over time.
 - Give yourself more time for tasks that require concentration.
 - Reduce multitasking—your brain is already working hard.
 - Be patient with yourself.

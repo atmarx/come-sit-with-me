@@ -69,7 +69,7 @@ You may need to advocate for yourself more than feels fair. Some strategies:
 - What makes them better or worse
 - How they affect your life
 
-Bring this documentation. Written records are harder to dismiss than verbal complaints.
+Our [symptom tracker](/tracker) can help with this—it stores everything locally on your device and lets you export a summary for your doctor. Written records are harder to dismiss than verbal complaints.
 
 **Be specific about impact.** "I'm having hot flashes" may not convey the same urgency as "I'm waking drenched four times a night, I haven't slept properly in six months, and I'm barely functioning at work."
 
