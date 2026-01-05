@@ -16,7 +16,6 @@
 </script>
 
 <svelte:head>
-	<title>Come Sit With Me: A Perimenopause Resource</title>
 	<meta name="description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches" />
 </svelte:head>
 
