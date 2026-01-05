@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(cwebp:*)",
+      "Bash(npm create svelte@latest:*)",
+      "Bash(source:*)",
+      "Bash(npx sv create:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(for f in hot-flashes sleep-wont-come brain-fog aches dryness)",
+      "Bash(do head -3 \"$f/+page.md\")",
+      "Bash(done)"
+    ]
+  }
+}
