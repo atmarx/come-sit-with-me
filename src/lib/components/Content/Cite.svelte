@@ -8,7 +8,6 @@
 	}
 
 	let { id, tooltip, children }: Props = $props();
-	let showTooltip = $state(false);
 </script>
 
 <a
@@ -16,17 +15,8 @@
 	class="cite-text"
 	role="doc-noteref"
 	aria-describedby="tooltip-{id}"
-	onmouseenter={() => (showTooltip = true)}
-	onmouseleave={() => (showTooltip = false)}
-	onfocus={() => (showTooltip = true)}
-	onblur={() => (showTooltip = false)}
 >
-	{@render children()}
-	{#if showTooltip}
-		<span class="cite-tooltip" id="tooltip-{id}" role="tooltip">
-			{tooltip}
-		</span>
-	{/if}
+	{@render children()}<span class="cite-tooltip" id="tooltip-{id}" role="tooltip">{tooltip}</span>
 </a>
 
 <style>
@@ -69,6 +59,18 @@
 			0 4px 6px -1px rgb(0 0 0 / 0.1),
 			0 2px 4px -2px rgb(0 0 0 / 0.1);
 		pointer-events: none;
+		/* Hidden by default, shown on hover/focus */
+		opacity: 0;
+		visibility: hidden;
+		transition:
+			opacity 0.15s ease,
+			visibility 0.15s ease;
+	}
+
+	.cite-text:hover .cite-tooltip,
+	.cite-text:focus .cite-tooltip {
+		opacity: 1;
+		visibility: visible;
 	}
 
 	/* Arrow */

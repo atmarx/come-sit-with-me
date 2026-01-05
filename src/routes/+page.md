@@ -7,20 +7,18 @@ description: A guide for women crossing the threshold—and those who love them.
 	import Callout from '$lib/components/Content/Callout.svelte';
 	import Card from '$lib/components/Content/Card.svelte';
 	import CardGrid from '$lib/components/Content/CardGrid.svelte';
-	import Ref from '$lib/components/Content/Ref.svelte';
-	import References from '$lib/components/Content/References.svelte';
-	import RefItem from '$lib/components/Content/RefItem.svelte';
+	import Cite from '$lib/components/Content/Cite.svelte';
 </script>
 
 I have been here before. A thousand thousand times before.
 
-I was the grandmother who noticed when your bleeding changed, who made you tea and told you what to expect. I was the midwife who stayed after the birth, who saw you through every passage of your womanhood. I was the village healer who knew which herbs to gather when you couldn't sleep, when your moods swung wild, when the heat rose in you like summer lightning.
+I was the grandmother who noticed when your bleeding changed, who made you tea and told you what to expect. I was the midwife who stayed after the birth, who saw you through every passage of your womanhood. I was the village healer who knew which herbs to gather when you [couldn't sleep](/symptoms/sleep-wont-come), when your [moods swung wild](/symptoms/mood), when the [heat rose in you](/symptoms/hot-flashes) like summer lightning.
 
 I have sat with women in stone huts and apartment buildings, in yurts and farmhouses and hospital rooms. I have watched you navigate this crossing in every century, in every corner of the world. And I have learned—from every woman I've attended, from every doctor who carries this knowledge now, from every researcher piecing together what your body already knows.
 
-I write this because I see you struggling. I see you frightened by changes you don't understand, dismissed by providers who should know better, wondering if you're losing your mind when your body is simply doing what bodies do. I see you Googling at 3 AM, finding contradictions and fear-mongering instead of understanding. I see you suffering in silence because no one told you this was coming, or what it would feel like, or that it's *real*.
+I write this because I see you struggling. I see you frightened by changes you don't understand, [dismissed by providers](/finding-care) who should know better, wondering if you're [losing your mind](/symptoms/brain-fog) when your body is simply doing what bodies do. I see you [Googling at 3 AM](/symptoms/sleep-wont-come), finding contradictions and fear-mongering instead of understanding. I see you suffering in silence because no one told you this was coming, or what it would feel like, or that it's *real*.
 
-It's real. All of it. What you're feeling is not in your head.<Ref id="1" />
+<Cite id="santoro-perimenopause-2016" tooltip="Santoro N, et al. Perimenopause: From Research to Practice. Journal of Women's Health. 2016;25(4):332-339.">It's real. All of it. What you're feeling is not in your head.</Cite>
 
 ## What This Guide Is
 
@@ -28,7 +26,7 @@ This is the conversation I wish your mother had with you. The one her mother sho
 
 I'll explain what's actually happening in your body—not in medical jargon that makes you feel small, but in plain words that make the chaos make sense. I'll tell you about the remedies women have used across cultures and centuries, because that knowledge matters. And I'll share what modern science has discovered, because that matters too.
 
-I hold no allegiance to "natural" versus "medical." I've seen sage tea help one woman and fail another. I've seen estrogen transform lives and cause suffering in equal measure. What works is what works *for you*—and the only way to know is to understand your options and pay attention to your own body.
+I hold no allegiance to "natural" versus "medical." I've seen sage tea help one woman and fail another. I've seen [estrogen](/support/hormone-therapy) transform lives and cause suffering in equal measure. What works is what works *for you*—and the only way to know is to understand your options and pay attention to your own body.
 
 Your body knows things. It has always known things. My job is to help you understand its language again.
 
@@ -36,13 +34,13 @@ Your body knows things. It has always known things. My job is to help you unders
 
 Let me be clear about something most sources get wrong: perimenopause is not a gentle decline. It's not your hormones slowly fading like a sunset.
 
-It's chaos.<Ref id="2" />
+<Cite id="straw-2012" tooltip="Harlow SD, et al. Executive Summary of the Stages of Reproductive Aging Workshop +10. Menopause. 2012;19(4):387-395.">It's chaos.</Cite>
 
-Your estrogen doesn't politely decrease. It swings—sometimes higher than it's ever been, sometimes crashing to nearly nothing, sometimes changing dramatically within a single week.<Ref id="3" /> Your progesterone drops because you're not ovulating reliably anymore. And your brain, which has been listening to these hormones for decades, suddenly can't predict what's coming next.
+Your estrogen doesn't politely decrease. <Cite id="prior-perimenopause-1998" tooltip="Prior JC. Perimenopause: The Complex Endocrinology of the Menopausal Transition. Endocrine Reviews. 1998;19(4):397-428.">It swings—sometimes higher than it's ever been, sometimes crashing to nearly nothing, sometimes changing dramatically within a single week.</Cite> Your [progesterone drops](/whats-happening/hormonal-landscape) because you're not ovulating reliably anymore. And your [brain](/whats-happening/brain), which has been listening to these hormones for decades, suddenly can't predict what's coming next.
 
-This is why your symptoms seem random. Why one month you feel fine and the next you're a stranger to yourself. Why sleep abandons you, or your joints ache, or your skin itches, or desire vanishes, or your moods swing wild. It's not weakness. It's not age. It's your brain trying to find its footing on shifting ground.
+This is why your symptoms seem random. Why one month you feel fine and the next you're a stranger to yourself. Why [sleep abandons you](/symptoms/sleep-wont-come), or your [joints ache](/symptoms/aches), or your [skin changes](/whats-happening/whole-body), or [desire vanishes](/symptoms/libido), or your [moods swing wild](/symptoms/mood). It's not weakness. It's not age. It's your brain trying to find its footing on shifting ground.
 
-For most women, this transition begins somewhere in the 40s and lasts four to ten years.<Ref id="4" /> Some sail through barely noticing. Others are knocked flat. Most are somewhere in between, with good stretches and hard ones, figuring it out as they go.
+<Cite id="swan-overview" tooltip="Sowers M, et al. SWAN: A Multicenter, Multiethnic, Community-Based Cohort Study of Women and the Menopausal Transition. Menopause: Biology and Pathobiology. Academic Press, 2000.">For most women, this transition begins somewhere in the 40s and lasts four to ten years.</Cite> Some sail through barely noticing. Others are knocked flat. Most are somewhere in between, with good stretches and hard ones, figuring it out as they go.
 
 There is no "normal" experience. There is only *your* experience.
 
@@ -52,14 +50,14 @@ You'll hear this phrase everywhere: "every body is different." It can feel like 
 
 But it's not a cop-out. It's biology.
 
-Your experience of perimenopause depends on your unique combination of:<Ref id="5" />
+<Cite id="gold-timing-2011" tooltip="Gold EB. The Timing of the Age at Which Natural Menopause Occurs. Obstetrics and Gynecology Clinics of North America. 2011;38(3):425-440.">Your experience of perimenopause depends on your unique combination of:</Cite>
 
-- Your baseline hormone levels and sensitivity
-- Your brain's particular receptor patterns
+- Your baseline [hormone levels](/whats-happening/hormonal-landscape) and sensitivity
+- Your [brain's particular receptor patterns](/whats-happening/brain)
 - Your stress history and cortisol patterns
 - Your gut microbiome (yes, really—it affects how you process hormones)
 - Your genetics, including your mother's experience
-- Your overall health, sleep, movement, nutrition
+- Your overall health, [sleep](/symptoms/sleep-wont-come), movement, nutrition
 - What else is happening in your life
 
 This is why the same intervention helps one woman profoundly and does nothing for another. It's not that one of you is wrong—it's that you're different people, with different biology, navigating the same passage in your own way.
@@ -104,7 +102,7 @@ Organizations, research, books, and further reading
 
 I value what science has learned. The careful work of researchers—many of them women who fought to be taken seriously—has given us knowledge that saves lives and reduces suffering. I'll share that evidence clearly, including when it's strong, when it's limited, and when we simply don't know yet.
 
-But I also carry knowledge that doesn't fit neatly into clinical trials. The sage tea your great-grandmother swore by. The Chinese medicine formula that's been refined over centuries. The way movement and breath and ritual can settle a nervous system. These deserve more than dismissal, even when the randomized controlled trials haven't caught up.
+But I also carry knowledge that doesn't fit neatly into clinical trials. The [sage tea](/support/herbal) your great-grandmother swore by. The [Chinese medicine formula](/support/herbal) that's been refined over centuries. The way [movement and breath](/support/lifestyle) and ritual can settle a nervous system. These deserve more than dismissal, even when the randomized controlled trials haven't caught up.
 
 I'll tell you what the research shows. I'll also tell you what women have done, and why it might matter. You can weigh both.
 
@@ -116,26 +114,9 @@ I'll tell you what the research shows. I'll also tell you what women have done, 
 
 ## You're Not Alone
 
-Right now, millions of women are navigating this same passage. Your mother did, and her mother, and every woman in your lineage stretching back through time. They made it through. So will you.
+Right now, millions of women are navigating this same passage. [Your mother did](/whats-happening/hormonal-landscape), and her mother, and [every woman in your lineage](/considerations/race-ethnicity) stretching back through time. They made it through. So will you.
 
-The difference is that you don't have to do it in silence, or confusion, or without understanding. The knowledge is here. The support exists. And across whatever distance separates us, I am sitting with you now, as I have always sat with women crossing this threshold.
+The difference is that you don't have to do it in silence, or confusion, or without understanding. The knowledge is here. The [support exists](/support). And across whatever distance separates us, I am sitting with you now, as I have always sat with women crossing this threshold.
 
 Come. Let me tell you what I know.
 
-<References>
-<RefItem id="1">
-Studies confirm that perimenopausal symptoms are not psychological but reflect measurable hormonal and neurological changes. See: Santoro N, et al. "Perimenopause: From Research to Practice." *Journal of Women's Health*. 2016;25(4):332-339.
-</RefItem>
-<RefItem id="2">
-The STRAW+10 staging system describes perimenopause as characterized by "variable cycle length" and "fluctuating" hormone levels, distinct from the stable decline of postmenopause. Harlow SD, et al. "Executive summary of the Stages of Reproductive Aging Workshop +10." *Menopause*. 2012;19(4):387-395.
-</RefItem>
-<RefItem id="3">
-Research shows estradiol can fluctuate by up to 50% within the same menstrual cycle during perimenopause, with levels sometimes exceeding premenopausal peaks. Prior JC. "Perimenopause: The Complex Endocrinology of the Menopausal Transition." *Endocrine Reviews*. 1998;19(4):397-428.
-</RefItem>
-<RefItem id="4">
-The Study of Women's Health Across the Nation (SWAN) found the median duration of perimenopause to be approximately 4 years, with significant individual variation. Paramsothy P, et al. "Duration of the menopausal transition is longer in women with young age at onset." *Menopause*. 2017;24(8):892-898.
-</RefItem>
-<RefItem id="5">
-Individual variation in menopausal experience is influenced by genetics, ethnicity, body composition, stress, and lifestyle factors. Gold EB. "The Timing of the Age at Which Natural Menopause Occurs." *Obstetrics and Gynecology Clinics of North America*. 2011;38(3):425-440.
-</RefItem>
-</References>
