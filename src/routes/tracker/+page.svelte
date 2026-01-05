@@ -312,13 +312,13 @@
 			<button
 				onclick={exportData}
 				disabled={entries.length === 0}
-				class="rounded-lg border border-black/10 px-4 py-2 text-sm transition-colors hover:bg-black/5 disabled:opacity-50 dark:border-white/10 dark:hover:bg-white/5"
+				class="rounded-lg border border-primary-400 px-4 py-2 text-sm transition-colors hover:bg-primary-100/50 disabled:opacity-50"
 			>
 				Export for Doctor
 			</button>
 			<button
 				onclick={clearAllData}
-				class="rounded-lg border border-coral-300 px-4 py-2 text-sm text-coral-700 transition-colors hover:bg-coral-50 dark:border-coral-700 dark:text-coral-400 dark:hover:bg-coral-900/20"
+				class="rounded-lg border border-primary-400 px-4 py-2 text-sm transition-colors hover:bg-primary-100/50"
 			>
 				Clear All Data
 			</button>
@@ -327,16 +327,16 @@
 	{/if}
 
 	<!-- Privacy Note -->
-	<aside id="privacy" class="rounded-lg bg-secondary-100 p-4 text-sm dark:bg-white/10">
-		<p class="font-medium text-secondary-800 dark:text-secondary-300">Your data stays with you.</p>
-		<p class="mt-2 text-secondary-700 dark:text-secondary-400">
+	<aside id="privacy" class="rounded-lg p-4 text-sm">
+		<p class="font-medium">Your data stays with you.</p>
+		<p class="mt-2">
 			Everything you track here is stored only in your browser's local storage. It never travels to any server.
 			No one can see it but you.
 		</p>
-		<p class="mt-2 italic text-secondary-600 dark:text-secondary-500">
+		<p class="mt-2 italic">
 			"I already see your symptoms through your eyes—I don't need a database." — Brigid
 		</p>
-		<p class="mt-6 text-xs text-secondary-600 dark:text-secondary-500">
+		<p class="mt-6 text-xs">
 			Note: Clearing your browser data or using private/incognito mode will remove your entries.
 		</p>
 	</aside>
