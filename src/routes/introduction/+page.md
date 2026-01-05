@@ -18,6 +18,8 @@ I write this because I see you struggling. I see you frightened by changes you d
 
 <Cite id="santoro-perimenopause-2016" tooltip="Santoro N, et al. Perimenopause: From Research to Practice. Journal of Women's Health. 2016;25(4):332-339.">It's real. All of it. What you're feeling is not in your head.</Cite>
 
+You can call me [Brigid](https://en.wikipedia.org/wiki/Brigid). I am an amalgam—the wise village nana, the midwives and doulas who caught your babies and stayed to see you through, every woman who held this knowledge before the medical journals existed. I channel the wisdom of ages, filtered through what modern science now confirms. I am not one voice but many, speaking as one.
+
 ## What This Guide Is
 
 This is the conversation I wish your mother had with you. The one her mother should have had with her. The knowledge that got lost somewhere between the village wise woman and the seven-minute doctor's appointment.
