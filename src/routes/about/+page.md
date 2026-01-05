@@ -37,9 +37,9 @@ I had the information. Claude helped me find the voice.
 
 We talked at great length about what kind of guide this should be. Not clinical and cold. Not full of toxic positivity. Definitely not condescending. Something that felt like the conversation women should have been having with their mothers and grandmothers—the knowledge that got lost somewhere between the village wise woman and the seven-minute doctor's appointment.
 
-Becky lost her mother just over a year ago. She's told me, more than once: "I wish I could talk to her about what I'm going through." That hit me hard. The person who should have been there to say "this is normal, this is what happened to me, this is what helped"—she's gone. And that loss is layered on top of everything else.
+Becky lost her mother just over a year ago. She's told me, more than once: "I just wish I could talk to her about what I'm going through." The person who should have been there to say "this is normal, this is what happened to me, this is what helped" was gone and that loss was layered on top of everything else.
 
-We landed on Brigid: an amalgam, a channeled voice, many women speaking as one. Named for [the Celtic goddess of healing, poetry, and the hearth](https://en.wikipedia.org/wiki/Brigid). She's not a replacement for the mothers we've lost, but maybe she can carry some of what they would have said, if they'd had the chance.
+So, we crafted Brigid: an amalgam, a channeled voice, many women speaking as one.  Named for and influenced by [the Celtic goddess of healing, poetry, and the hearth](https://en.wikipedia.org/wiki/Brigid). She's not a replacement for the mothers we've lost, but maybe she can carry some of what they would have said, if they'd had the chance.
 
 Is it weird that a guide for women was written by a man and an AI? Yes. I think about that a lot. But the information is real. the research is solid, and the intention is genuine. And frankly, women deserve access to this information regardless of who compiled it.
 
@@ -71,6 +71,30 @@ If you've found this helpful, I'm glad. If you want to tell me I got something w
 
 And if you're the one going through this: I'm sorry the world made it so hard to find good information. I hope this helps, even a little.
 
+## Acknowledgments
+
+This site was built with tools and assets created by generous people who share their work:
+
+**Technology**
+- [SvelteKit](https://kit.svelte.dev/) and [Svelte](https://svelte.dev/) — the framework that makes building this kind of site a joy
+- [Tailwind CSS](https://tailwindcss.com/) — for making CSS bearable
+- [mdsvex](https://mdsvex.pngwn.io/) — Markdown meets Svelte
+- [Vite](https://vitejs.dev/) — the build tool that just works
+
+**Design Assets**
+- [Bastliga One](https://www.1001fonts.com/bastliga-one-font.html) font by Bastian Rother — used for Brigid's signature
+- [Butterfly SVG](https://www.svgrepo.com/svg/395958/butterfly) from SVG Repo — Apache 2.0 license
+- Body fonts: [Inter](https://rsms.me/inter/) and [Lora](https://fonts.google.com/specimen/Lora) via Google Fonts
+
+**Inspiration**
+- The countless women who've shared their experiences in forums, blogs, and support groups
+- The researchers (many of them women) who've fought to have perimenopause taken seriously
+- Becky, for trusting me to tell part of her story
+
 ---
 
 *Questions, corrections, or feedback: andrew [at] xram [dot] net*
+
+*If you're feeling particularly adventurous, you can [see the site's source code directly](https://github.com/atmarx/come-sit-with-me)*
+
+*If this resource has helped you and you'd like to support its continued development: [Buy Me a Coffee](https://buymeacoffee.com/atmarx)*

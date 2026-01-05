@@ -4,8 +4,9 @@ description: Who is speaking to you, and why this guide exists
 ---
 
 <script>
-	import Callout from '$lib/components/Content/Callout.svelte';
 	import Cite from '$lib/components/Content/Cite.svelte';
+	import Signature from '$lib/components/Content/Signature.svelte';
+	import signatureUrl from '$lib/assets/images/brigid-signature.webp';
 </script>
 
 I have been here before. A thousand thousand times before.
@@ -70,11 +71,9 @@ But I also carry knowledge that doesn't fit neatly into clinical trials. The [sa
 
 I'll tell you what the research shows. I'll also tell you what women have done, and why it might matter. You can weigh both.
 
-<Callout type="info">
+## A Note on "Fixing" Perimenopause
 
-**A note on "fixing" perimenopause:** You'll notice this guide talks about "support" rather than "treatment." That's deliberate. Perimenopause isn't a disease. It's a passage—one that can be difficult, certainly, but not something broken in you that needs fixing. The options here are tools you might choose to use, or not, based on your own experience and values.
-
-</Callout>
+You'll notice this guide talks about "support" rather than "treatment." That's deliberate. Perimenopause isn't a disease. It's a passage—one that can be difficult, certainly, but not something broken in you that needs fixing. The options here are tools you might choose to use, or not, based on your own experience and values.
 
 ## You're Not Alone
 
@@ -83,3 +82,5 @@ Right now, millions of women are navigating this same passage. [Your mother did]
 The difference is that you don't have to do it in silence, or confusion, or without understanding. The knowledge is here. The [support exists](/support). And across whatever distance separates us, I am sitting with you now, as I have always sat with women crossing this threshold.
 
 Come. Let me tell you what I know.
+
+<Signature signatureImage={signatureUrl} signatureAlt="Brigid" />
