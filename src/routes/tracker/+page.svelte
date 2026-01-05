@@ -232,11 +232,10 @@
 			</div>
 
 			<button onclick={saveToday} class="save-btn">
-				{hasEntryToday ? 'Update Today' : 'Save Today'}
+				{hasEntryToday ? "Update Today's Notes" : "Save Today's Notes"}
 			</button>
 		</section>
 		
-		<br />
 		<!-- Weekly Summary -->
 		{#if weeklyAverages.length > 0 && entries.length > 0}
 			<section class="mb-12">
@@ -265,7 +264,7 @@
 				</div>
 			</section>
 		{/if}
-		<br />
+
 		<!-- History -->
 		<section class="mb-12 mt-16">
 			<button
