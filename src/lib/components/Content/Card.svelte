@@ -4,7 +4,7 @@
 	interface Props {
 		href: string;
 		title: string;
-		variant?: 'primary' | 'secondary';
+		variant?: 'primary' | 'secondary' | 'amber' | 'teal' | 'coral' | 'lavender';
 		span?: boolean;
 		children: Snippet;
 	}
@@ -12,24 +12,22 @@
 	let { href, title, variant = 'primary', span = false, children }: Props = $props();
 
 	const styles = {
-		primary: {
-			border: 'border-primary-100 hover:border-primary-300',
-			title: 'text-primary-700'
-		},
-		secondary: {
-			border: 'border-secondary-100 hover:border-secondary-300',
-			title: 'text-secondary-700'
-		}
+		primary: 'text-primary-700',
+		secondary: 'text-secondary-700',
+		amber: 'text-amber-700',
+		teal: 'text-teal-700',
+		coral: 'text-coral-700',
+		lavender: 'text-lavender-700'
 	};
 
-	let style = $derived(styles[variant]);
+	let titleColor = $derived(styles[variant]);
 </script>
 
 <a
 	{href}
-	class="block rounded-xl border bg-surface p-6 transition-all hover:shadow-md {style.border} {span ? 'sm:col-span-2' : ''}"
+	class="block rounded-xl border border-black/10 bg-surface p-6 transition-all hover:border-black/20 hover:shadow-md {span ? 'sm:col-span-2' : ''}"
 >
-	<h3 class="font-serif text-lg font-semibold {style.title}">{title}</h3>
+	<h3 class="font-serif text-lg font-semibold {titleColor}">{title}</h3>
 	<p class="mt-2 text-sm text-text-muted">
 		{@render children()}
 	</p>
