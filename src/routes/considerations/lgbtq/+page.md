@@ -30,7 +30,7 @@ Not all healthcare providers are LGBTQ+-competent. You may face:
 - Providers who don't understand how to counsel you about your specific concerns
 - The exhausting work of educating providers about your identity during a medical appointment
 
-Look for LGBTQ+-friendly providers. GLMA (Health Professionals Advancing LGBTQ+ Equality) maintains a provider directory. Planned Parenthood locations are often knowledgeable.
+Look for LGBTQ+-friendly providers. [GLMA (Health Professionals Advancing LGBTQ+ Equality)](https://www.glma.org/find-a-provider) maintains a provider directory. [Planned Parenthood](https://www.plannedparenthood.org/) locations are often knowledgeable.
 
 ### Hormone Therapy Decisions
 
@@ -82,7 +82,7 @@ If you were assigned male at birth and are on estrogen-based feminizing hormone 
 - Not all menopause providers understand trans health
 - Not all trans health providers understand menopause
 - You may need to advocate for understanding both aspects of your care
-- UCSF's Center of Excellence for Transgender Health has good clinical resources
+- [UCSF's Center of Excellence for Transgender Health](https://transcare.ucsf.edu/) has good clinical resources
 
 ### Nonbinary People
 

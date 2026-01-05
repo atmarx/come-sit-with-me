@@ -11,7 +11,7 @@ You snapped at your partner for no reason. Again.
 
 Or you cried at a commercial. Or you felt a darkness settle over you that you can't explain. Or the anxiety that once stayed in its corner now runs the whole show.
 
-If your mood feels like it's been hijacked, you're not imagining things. Depression risk is **40% higher** during perimenopause than before.<Cite id="depression-40-percent">Freeman EW, et al. "Hormones and Menopausal Status as Predictors of Depression in Women in Transition to Menopause." *Archives of General Psychiatry.* 2004;61(1):62-70.</Cite> First-time bipolar disorder is twice as likely to emerge during this transition than at other times. This isn't weakness. It isn't a character flaw. It's biology.
+If your mood feels like it's been hijacked, you're not imagining things. <Cite id="depression-40-percent" tooltip="Freeman EW, et al. Hormones and Menopausal Status as Predictors of Depression in Women in Transition to Menopause. Archives of General Psychiatry. 2004;61(1):62-70.">Depression risk is **40% higher** during perimenopause than before.</Cite> First-time bipolar disorder is twice as likely to emerge during this transition than at other times. This isn't weakness. It isn't a character flaw. It's biology.
 
 ## Who's Most at Risk
 

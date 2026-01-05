@@ -13,11 +13,11 @@ Both of these realities matter. Both deserve acknowledgment.
 
 ## What the Research Shows
 
-The Study of Women's Health Across the Nation (SWAN)—the largest, longest-running study of women and menopause—has documented significant differences in how women of different racial and ethnic backgrounds experience this transition.<Cite id="swan-overview">Sowers M, et al. "SWAN: A Multicenter, Multiethnic, Community-Based Cohort Study of Women and the Menopausal Transition." In: *Menopause: Biology and Pathobiology.* Academic Press, 2000.</Cite>
+<Cite id="swan-overview" tooltip="Sowers M, et al. SWAN: A Multicenter, Multiethnic, Community-Based Cohort Study of Women and the Menopausal Transition. In: Menopause: Biology and Pathobiology. Academic Press, 2000.">The Study of Women's Health Across the Nation (SWAN)—the largest, longest-running study of women and menopause—has documented significant differences in how women of different racial and ethnic backgrounds experience this transition.</Cite>
 
 ### Timing Differences
 
-**Black and Hispanic women tend to reach menopause earlier.** The median age of menopause in the US is about 51. Black women reach menopause around age 49—two years earlier. Hispanic/Latina women similarly experience earlier menopause.<Cite id="swan-race-timing">Gold EB, et al. "Factors Related to Age at Natural Menopause: Longitudinal Analyses From SWAN." *American Journal of Epidemiology.* 2013;178(1):70-83.</Cite>
+<Cite id="swan-race-timing" tooltip="Gold EB, et al. Factors Related to Age at Natural Menopause: Longitudinal Analyses From SWAN. American Journal of Epidemiology. 2013;178(1):70-83.">**Black and Hispanic women tend to reach menopause earlier.**</Cite> The median age of menopause in the US is about 51. Black women reach menopause around age 49—two years earlier. Hispanic/Latina women similarly experience earlier menopause.
 
 **Chinese and Japanese women tend to reach menopause slightly later** than white women.
 
@@ -32,7 +32,7 @@ Earlier menopause means more years of living with lower estrogen—which affects
 - These differences persist even after adjusting for other factors
 
 **Duration of symptoms:**
-The duration of vasomotor symptoms varies dramatically:<Cite id="swan-race-duration-2015">Freeman EW, et al. "Duration of Menopausal Hot Flushes and Associated Risk Factors." *Obstetrics & Gynecology.* 2011;117(5):1095-1104.</Cite>
+<Cite id="swan-race-duration-2015" tooltip="Freeman EW, et al. Duration of Menopausal Hot Flushes and Associated Risk Factors. Obstetrics & Gynecology. 2011;117(5):1095-1104.">The duration of vasomotor symptoms varies dramatically:</Cite>
 - White women: average 6.5 years
 - Hispanic/Latina women: average 8.9 years
 - Black women: average **10 years**
@@ -72,7 +72,7 @@ If white women struggle to be believed about their perimenopause symptoms—and 
 
 ### Unconscious Bias in the Exam Room
 
-Research has documented that healthcare providers:<Cite id="pain-bias">Hoffman KM, et al. "Racial Bias in Pain Assessment and Treatment Recommendations, and False Beliefs About Biological Differences Between Blacks and Whites." *PNAS.* 2016;113(16):4296-4301.</Cite>
+<Cite id="pain-bias" tooltip="Hoffman KM, et al. Racial Bias in Pain Assessment and Treatment Recommendations, and False Beliefs About Biological Differences Between Blacks and Whites. PNAS. 2016;113(16):4296-4301.">Research has documented that healthcare providers:</Cite>
 - Rate Black patients' pain as less severe than white patients' with identical complaints
 - Recommend less pain medication for Black patients
 - Hold false beliefs about biological differences (including myths about pain tolerance)
