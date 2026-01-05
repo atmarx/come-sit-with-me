@@ -64,6 +64,10 @@ Incontinence, prolapse, and why trampolines aren't fun anymore. More common than
 <Card href="/symptoms/sleep-apnea" title="Sleep Apnea">
 Risk increases dramatically after menopause—and often goes undiagnosed in women. It's not just snoring.
 </Card>
+
+<Card href="/tracker" title="Symptom Tracker">
+Track your symptoms over time. Find patterns. Bring data to your doctor. Everything stays private on your device.
+</Card>
 </CardGrid>
 
 ## Something Important to Understand
@@ -80,7 +84,7 @@ The chaos has a pattern. The pattern has an end.
 
 You may experience some of these, all of these, or symptoms not listed here at all. Your friend's experience may look nothing like yours. This isn't because one of you is doing something wrong—it's because individual variation in this transition is enormous.
 
-The purpose of understanding what's happening isn't to fit yourself into a box. It's to have language for your experience. It's to know you're not alone. It's to have knowledge for conversations with [providers who may not understand](/finding-care).
+The purpose of understanding what's happening isn't to fit yourself into a box. It's to have language for your experience. It's to know you're not alone. It's to have knowledge for conversations with [providers who may not understand](/finding-care). If it helps, you can [track your symptoms over time](/tracker)—patterns often emerge that aren't obvious day-to-day.
 
 Right now, millions of women are navigating this same passage. Your mother did, and her mother, and every woman in your lineage stretching back through time.
 

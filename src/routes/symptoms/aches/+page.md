@@ -100,4 +100,4 @@ This grief is real. And for many women, the pain does improve—either with [sup
 
 Your body isn't broken. It's changing. That doesn't make the experience less hard.
 
-What I can tell you: you're not imagining this. You're not just getting old. And you don't have to simply accept it without trying things that might help.
+What I can tell you: you're not imagining this. You're not just getting old. And you don't have to simply accept it without trying things that might help. [Tracking your symptoms](/tracker) can help you identify patterns—which days are better, what makes things worse—and bring that information to your provider.

@@ -45,7 +45,7 @@ Many women notice patterns:
 - Warm environments
 - Hot beverages
 
-Tracking your own triggers can help—not to eliminate the flashes entirely, but to have some sense of agency in when they happen.
+[Tracking your own triggers](/tracker) can help—not to eliminate the flashes entirely, but to have some sense of agency in when they happen.
 
 ## The Night Sweat Problem
 

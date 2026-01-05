@@ -86,7 +86,7 @@ You deserve a provider who:
 - Discusses all options, including hormone therapy
 - Treats you as a partner in your care
 
-See [Finding Care](/finding-care) for how to advocate for yourself.
+[Tracking your symptoms](/tracker) can help you see patterns and bring data to appointments. See [Finding Care](/finding-care) for how to advocate for yourself.
 
 ---
 

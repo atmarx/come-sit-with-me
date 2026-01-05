@@ -47,7 +47,7 @@ Poor sleep doesn't stay contained. It bleeds into:
 - Pain sensitivity—[aches](/symptoms/aches) feel worse when you're exhausted
 - Patience, relationships, work, everything
 
-This is why sleep isn't a minor concern. It's foundational.
+This is why sleep isn't a minor concern. It's foundational. [Tracking your symptoms](/tracker) over time can help you see how sleep connects to everything else.
 
 ## What Might Help
 

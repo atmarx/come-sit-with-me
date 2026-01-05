@@ -38,7 +38,8 @@ export const navigation: NavItem[] = [
 			{ title: 'Dryness & Discomfort', href: '/symptoms/dryness' },
 			{ title: 'Pelvic Floor', href: '/symptoms/pelvic-floor' },
 			{ title: 'Weight & Body Changes', href: '/symptoms/weight' },
-			{ title: 'Menstrual Changes', href: '/symptoms/menstrual' }
+			{ title: 'Menstrual Changes', href: '/symptoms/menstrual' },
+			{ title: 'Symptom Tracker', href: '/tracker' }
 		]
 	},
 	{
