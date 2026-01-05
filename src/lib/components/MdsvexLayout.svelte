@@ -10,6 +10,7 @@
 </script>
 
 <script lang="ts">
+	import { page } from '$app/stores';
 	import type { Snippet } from 'svelte';
 
 	interface Props {
@@ -19,12 +20,20 @@
 	}
 
 	let { title, description, children }: Props = $props();
+
+	let pageTitle = $derived.by(() => {
+		if (!title) return 'Come Sit With Me | A Perimenopause Resource';
+		// Homepage gets simpler format
+		if ($page.url.pathname === '/') {
+			return 'Come Sit With Me | A Perimenopause Resource';
+		}
+		// Subpages get "Page Title - Come Sit With Me | A Perimenopause Resource"
+		return `${title} - Come Sit With Me | A Perimenopause Resource`;
+	});
 </script>
 
 <svelte:head>
-	{#if title}
-		<title>{title} | A Perimenopause Resource</title>
-	{/if}
+	<title>{pageTitle}</title>
 	{#if description}
 		<meta name="description" content={description} />
 	{/if}
