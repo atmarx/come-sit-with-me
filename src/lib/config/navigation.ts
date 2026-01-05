@@ -6,8 +6,12 @@ export interface NavItem {
 
 export const navigation: NavItem[] = [
 	{
-		title: 'Introduction',
+		title: 'Home',
 		href: '/'
+	},
+	{
+		title: 'Introduction',
+		href: '/introduction'
 	},
 	{
 		title: "What's Actually Happening",
@@ -15,7 +19,8 @@ export const navigation: NavItem[] = [
 		children: [
 			{ title: 'The Hormonal Landscape', href: '/whats-happening/hormonal-landscape' },
 			{ title: 'What Your Brain Is Doing', href: '/whats-happening/brain' },
-			{ title: 'Your Whole Body', href: '/whats-happening/whole-body' }
+			{ title: 'Your Whole Body', href: '/whats-happening/whole-body' },
+			{ title: 'The Emotional Journey', href: '/whats-happening/emotional-journey' }
 		]
 	},
 	{
@@ -24,12 +29,15 @@ export const navigation: NavItem[] = [
 		children: [
 			{ title: 'Hot Flashes & Night Sweats', href: '/symptoms/hot-flashes' },
 			{ title: 'When Sleep Won\'t Come', href: '/symptoms/sleep-wont-come' },
+			{ title: 'Sleep Apnea', href: '/symptoms/sleep-apnea' },
 			{ title: 'Mood Changes', href: '/symptoms/mood' },
 			{ title: 'Brain Fog & Memory', href: '/symptoms/brain-fog' },
 			{ title: 'Sexual Desire & Libido', href: '/symptoms/libido' },
 			{ title: 'Skin & Hair Changes', href: '/symptoms/skin' },
 			{ title: 'Aches & Joint Pain', href: '/symptoms/aches' },
 			{ title: 'Dryness & Discomfort', href: '/symptoms/dryness' },
+			{ title: 'Pelvic Floor', href: '/symptoms/pelvic-floor' },
+			{ title: 'Weight & Body Changes', href: '/symptoms/weight' },
 			{ title: 'Menstrual Changes', href: '/symptoms/menstrual' }
 		]
 	},
@@ -48,6 +56,8 @@ export const navigation: NavItem[] = [
 		title: 'Special Considerations',
 		href: '/considerations',
 		children: [
+			{ title: 'Race & Ethnicity', href: '/considerations/race-ethnicity' },
+			{ title: 'LGBTQ+', href: '/considerations/lgbtq' },
 			{ title: 'Contraception', href: '/considerations/contraception' },
 			{ title: 'Cancer History', href: '/considerations/cancer-history' },
 			{ title: 'Surgical Menopause', href: '/considerations/surgical-menopause' },

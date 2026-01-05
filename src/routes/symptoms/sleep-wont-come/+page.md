@@ -11,7 +11,7 @@ description: Night sweats, racing thoughts, and why rest becomes elusive
 
 Maybe you're drenched in sweat, throwing off covers that felt essential twenty minutes ago. Maybe your mind started running and won't stop—replaying the day, rehearsing tomorrow, circling anxieties you thought you'd resolved. Maybe you simply... woke, and now sleep has retreated somewhere you can't reach.
 
-About 40% of perimenopausal women struggle with sleep.<Cite id="sleep-40-percent">Baker FC, et al. "Sleep Problems During the Menopausal Transition: Prevalence, Impact, and Management Challenges." *Nature and Science of Sleep.* 2018;10:73-95.</Cite> You're not alone in the dark.
+<Cite id="sleep-40-percent" tooltip="Baker FC, et al. Sleep Problems During the Menopausal Transition: Prevalence, Impact, and Management Challenges. Nature and Science of Sleep. 2018;10:73-95.">About 40% of perimenopausal women struggle with sleep.</Cite> You're not alone in the dark.
 
 ## Why This Is Happening
 

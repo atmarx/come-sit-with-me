@@ -9,7 +9,7 @@ description: Understanding the heat that rises without warning, and what's happe
 
 The heat rises in you like summer lightning—sudden, fierce, and then gone, leaving you flushed and wondering if anyone noticed.
 
-About 75% of us experience this.<Cite id="vasomotor-prevalence">Freeman EW, Sherif K. "Prevalence of Hot Flushes and Night Sweats Around the World: A Systematic Review." *Climacteric.* 2007;10(3):197-214.</Cite> The median duration is 7 years—though for some women, it's much longer.<Cite id="swan-vasomotor-duration-2015">Avis NE, et al. "Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition." *JAMA Internal Medicine.* 2015;175(4):531-539.</Cite> This isn't a minor inconvenience. It disrupts sleep (94% of women report this), concentration (84%), mood (85%), energy (77%), and yes, sexual function (61%).
+<Cite id="vasomotor-prevalence" tooltip="Freeman EW, Sherif K. Prevalence of Hot Flushes and Night Sweats Around the World: A Systematic Review. Climacteric. 2007;10(3):197-214.">About 75% of us experience this.</Cite> <Cite id="swan-vasomotor-duration-2015" tooltip="Avis NE, et al. Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition. JAMA Internal Medicine. 2015;175(4):531-539.">The median duration is 7 years</Cite>—though for some women, it's much longer. This isn't a minor inconvenience. It disrupts sleep (94% of women report this), concentration (84%), mood (85%), energy (77%), and yes, sexual function (61%).
 
 It's real. It's physiological. And we finally understand why it happens.
 
@@ -19,7 +19,7 @@ Deep in your brain, in a region called the hypothalamus, there's a thermostat. N
 
 During perimenopause, that range shrinks to nearly nothing.
 
-Why? Because of neurons called [KNDy neurons](/whats-happening/brain) that sit right next to your thermostat.<Cite id="kndy-neurons-2010">Rance NE, et al. "Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy (Kisspeptin, Neurokinin B and Dynorphin) Neurons." *Frontiers in Neuroendocrinology.* 2013;34(3):211-227.</Cite> When estrogen is stable, these neurons stay calm. When estrogen drops—or fluctuates wildly—they become hyperactive. They flood your temperature control center with signals, narrowing your comfort zone until the slightest shift triggers a full heat-dissipation response.
+Why? <Cite id="kndy-neurons-2010" tooltip="Rance NE, et al. Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy (Kisspeptin, Neurokinin B and Dynorphin) Neurons. Frontiers in Neuroendocrinology. 2013;34(3):211-227.">Because of neurons called [KNDy neurons](/whats-happening/brain) that sit right next to your thermostat.</Cite> When estrogen is stable, these neurons stay calm. When estrogen drops—or fluctuates wildly—they become hyperactive. They flood your temperature control center with signals, narrowing your comfort zone until the slightest shift triggers a full heat-dissipation response.
 
 Your blood vessels dilate. Your skin flushes. You sweat. Your body is desperately trying to cool down from heat that doesn't actually exist.
 
