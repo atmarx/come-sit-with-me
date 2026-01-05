@@ -32,8 +32,8 @@
 <nav class="sidebar-scroll h-full overflow-y-auto px-4 py-6">
 	<div class="mb-8">
 		<a href="/" class="block">
-			<h1 class="font-serif text-xl font-semibold text-primary-700">Perimenopause</h1>
-			<p class="text-sm text-text-muted">A Comprehensive Guide</p>
+			<h1 class="font-serif text-xl font-semibold text-primary-700">Come Sit With Me</h1>
+			<p class="text-sm text-text-muted">A Perimenopause Resource</p>
 		</a>
 	</div>
 

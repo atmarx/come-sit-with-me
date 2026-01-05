@@ -16,8 +16,8 @@
 </script>
 
 <svelte:head>
-	<title>Perimenopause: A Comprehensive Guide</title>
-	<meta name="description" content="Evidence-based perimenopause guide integrating conventional and complementary approaches" />
+	<title>Come Sit With Me: A Perimenopause Resource</title>
+	<meta name="description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches" />
 </svelte:head>
 
 <div class="flex min-h-screen">
@@ -56,7 +56,11 @@
 		</main>
 
 		<footer class="border-t border-primary-100 px-4 py-6 text-center text-sm text-text-muted lg:px-8">
-			<p>Last updated: January 2026 | Sources current as of January 2026</p>
+			<p>Last updated: January 2026 | <a href="/about" class="hover:text-primary-600">About This Project</a></p>
+			<p class="mt-2">
+				© 2026 <a href="https://github.com/atmarx" class="hover:text-primary-600" target="_blank" rel="noopener">Andrew Marx</a> |
+				<a href="https://creativecommons.org/licenses/by-nc/4.0/" class="hover:text-primary-600" target="_blank" rel="noopener">CC BY-NC 4.0</a>
+			</p>
 		</footer>
 	</div>
 </div>

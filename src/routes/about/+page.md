@@ -1,0 +1,74 @@
+---
+title: About This Project
+description: Who made this, why, and how
+---
+
+## The Irony
+
+There's a section in this guide called [For Partners](/for-partners). In it, you'll find advice like "don't try to fix things" and "sometimes she just needs you to listen."
+
+I made this entire website.
+
+So yes, I'm aware of the irony. A man, watching his wife navigate perimenopause, responding to her struggles by... building an elaborate information architecture about hormonal fluctuations. Peak "let me fix this" energy.
+
+But here's the thing: I didn't build this *instead* of listening. I built it *because* I listened. Because I heard her say, over and over, that she couldn't find good information. That she felt like she was losing her mind and no one would tell her if this was normal. That she was doom-scrolling at 1 AM and finding fear-mongering or condescension or both.
+
+She has a great doctor now—a woman who listens and takes her seriously. But it took a while to find her. And in one of those ironic twists, it was actually a *male* gynecologist (seen by accident due to a scheduling mix-up) who first really heard her and validated what she was experiencing. Good care is out there. It just shouldn't be this hard to find.
+
+I couldn't fix what was happening in her body. But I could try to fix the information problem.
+
+## Who We Are
+
+My name is Andrew. My wife is [Becky](http://www.phillydoulacoop.com/our-doulas.html). We've been together 20 years, and have two (usually) wonderful boys who are just beginning their teenage years.
+
+This isn't our first rodeo with hormonal chaos. Postpartum was brutal—and I didn't always handle it well. I didn't understand what was happening. I took things personally that weren't personal. I tried to logic my way through situations that needed patience and presence. I failed her in ways I still regret.
+
+I promised myself [I'd do better this time](/for-partners). Part of doing better is understanding what's actually happening. Hence: research. Hence: this site.
+
+## The AI in the Room
+
+Let's talk about Brigid.
+
+The voice you've been reading throughout this guide—warm, wise, a little mythic—was created in collaboration with Claude, an AI made by Anthropic. I'm not a writer. I'm not a medical professional. I'm an IT guy who reads a lot of research papers and wanted to make that information accessible.
+
+I had the information. Claude helped me find the voice.
+
+We talked about what kind of guide this should be. Not clinical and cold. Not condescending. Not full of toxic positivity. Something that felt like the conversation women should have been having with their mothers and grandmothers—the knowledge that got lost somewhere between the village wise woman and the seven-minute doctor's appointment.
+
+Becky lost her mother just over a year ago. She's told me, more than once: "I wish I could talk to her about what I'm going through." That hit me hard. The person who should have been there to say "this is normal, this is what happened to me, this is what helped"—she's gone. And that loss is layered on top of everything else.
+
+We landed on Brigid: an amalgam, a channeled voice, many women speaking as one. Named for the Celtic goddess of healing, poetry, and the hearth. She's not a replacement for the mothers we've lost. But maybe she can carry some of what they would have said, if they'd had the chance.
+
+Is it weird that a guide for women was written by a man and an AI? Yes. I think about that a lot. But the information is real. The research is solid. The intention is genuine. And frankly, women deserve access to this information regardless of who compiled it.
+
+If it helps, use it. If the provenance bothers you, I understand.
+
+## What This Is (And Isn't)
+
+This site is:
+- A synthesis of current research on perimenopause
+- An attempt to make that research accessible and human
+- A labor of love from someone watching someone he loves struggle
+- Free, with no ads, no affiliate links, no data collection beyond basic analytics
+
+This site is not:
+- Medical advice (please see [Finding Care](/finding-care))
+- A replacement for working with healthcare providers
+- Comprehensive or perfect
+- The final word on anything
+
+I've tried to cite sources where possible. I've tried to be honest about uncertainty. I've tried to present options without pushing agendas. I've almost certainly made mistakes.
+
+## Why I'm Telling You This
+
+Transparency matters. You deserve to know who's behind the information you're reading—especially health information, especially on the internet.
+
+You also deserve to know that this site exists because someone loves someone who's going through this. That feels like it matters, even if it doesn't change the content.
+
+If you've found this helpful, I'm glad. If you want to tell me I got something wrong, I want to hear it. If you're a partner who landed here trying to understand what your person is going through—I see you. It's hard to watch someone you love struggle. Keep showing up.
+
+And if you're the one going through this: I'm sorry the world made it so hard to find good information. I hope this helps, even a little.
+
+---
+
+*Questions, corrections, or feedback: andrew [at] xram [dot] net*
