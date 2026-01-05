@@ -25,6 +25,8 @@ This isn't our first rodeo with hormonal chaos. Postpartum was brutal—and I di
 
 I promised myself [I'd do better this time](/for-partners). Part of doing better is understanding what's actually happening. Hence: research. Hence: this site.
 
+<a id="brigid" />
+
 ## The AI in the Room
 
 Let's talk about Brigid.
@@ -37,7 +39,7 @@ We talked at great length about what kind of guide this should be. Not clinical 
 
 Becky lost her mother just over a year ago. She's told me, more than once: "I wish I could talk to her about what I'm going through." That hit me hard. The person who should have been there to say "this is normal, this is what happened to me, this is what helped"—she's gone. And that loss is layered on top of everything else.
 
-We landed on Brigid: an amalgam, a channeled voice, many women speaking as one. Named for the Celtic goddess of healing, poetry, and the hearth. She's not a replacement for the mothers we've lost, but maybe she can carry some of what they would have said, if they'd had the chance.
+We landed on Brigid: an amalgam, a channeled voice, many women speaking as one. Named for [the Celtic goddess of healing, poetry, and the hearth](https://en.wikipedia.org/wiki/Brigid). She's not a replacement for the mothers we've lost, but maybe she can carry some of what they would have said, if they'd had the chance.
 
 Is it weird that a guide for women was written by a man and an AI? Yes. I think about that a lot. But the information is real. the research is solid, and the intention is genuine. And frankly, women deserve access to this information regardless of who compiled it.
 
