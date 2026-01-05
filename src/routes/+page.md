@@ -1,6 +1,6 @@
 ---
 title: Come Sit With Me
-description: A guide for women crossing the threshold—and those who love them.
+description: A resource for women crossing the threshold—and those who love them.
 ---
 
 <script>
