@@ -8,9 +8,7 @@ description: A guide for women crossing the threshold—and those who love them.
 	import CardGrid from '$lib/components/Content/CardGrid.svelte';
 </script>
 
-A guide to perimenopause—what's actually happening, why you feel the way you do, and what might help.
-
-Start where you're hurting. Follow what calls to you.
+However you arrived here—searching at 3 AM, desperate for answers, wondering if what you're feeling is real—you're welcome. You don't need to read this in order. Start where you're hurting. Follow what calls to you.
 
 <CardGrid>
 <Card href="/whats-happening" title="What's Actually Happening">
