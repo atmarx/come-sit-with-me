@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { navigation, type NavItem } from '$lib/config/navigation';
+	import butterflyUrl from '$lib/assets/images/butterfly-svgrepo-com.svg';
 
 	let expandedSections = $state<Set<string>>(new Set());
 
@@ -32,7 +33,10 @@
 <nav class="sidebar-scroll h-full overflow-y-auto px-4 py-6">
 	<div class="mb-8">
 		<a href="/" class="block">
-			<h1 class="font-serif text-xl font-semibold text-primary-700">Come Sit With Me</h1>
+			<div class="flex items-center gap-2">
+				<img src={butterflyUrl} alt="" class="h-7 w-7" aria-hidden="true" />
+				<h1 class="font-serif text-xl font-semibold text-primary-700">Come Sit With Me</h1>
+			</div>
 			<p class="text-sm text-text-muted">A Perimenopause Resource</p>
 		</a>
 	</div>

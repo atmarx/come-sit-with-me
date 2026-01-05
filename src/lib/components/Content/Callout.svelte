@@ -56,17 +56,15 @@
 </script>
 
 <aside class="not-prose my-6 rounded-xl border-l-4 p-4 {style.bg} {style.border}">
-	<div class="flex gap-3">
-		<svg class="mt-0.5 h-5 w-5 shrink-0 {style.icon}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-			{@html icon}
-		</svg>
-		<div>
-			{#if displayTitle}
-				<p class="mb-1 font-semibold {style.title}">{displayTitle}</p>
-			{/if}
-			<div class="text-text [&>p]:mb-2 [&>p:last-child]:mb-0">
-				{@render children()}
-			</div>
+	{#if displayTitle}
+		<div class="mb-2 flex items-center gap-2">
+			<svg class="h-5 w-5 shrink-0 {style.icon}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+				{@html icon}
+			</svg>
+			<p class="font-semibold {style.title}">{displayTitle}</p>
 		</div>
+	{/if}
+	<div class="text-text [&>p]:mb-2 [&>p:last-child]:mb-0">
+		{@render children()}
 	</div>
 </aside>

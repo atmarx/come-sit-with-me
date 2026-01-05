@@ -102,11 +102,51 @@ Partners often feel helpless, rejected, or confused. They deserve understanding 
 
 Brigid values truth. She cites her sources, but in a way that doesn't break the flow of her voice.
 
-- Footnotes/references go at the bottom of pages
-- In-text, use the `<Ref id="1" />` component for superscript citations
+### The Citation System
+
+We use inline citations that wrap the text being cited. This keeps the reading experience seamless while providing attribution on hover and linking to full references.
+
+**Import the component:**
+```svelte
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+```
+
+**Use it to wrap cited text:**
+```svelte
+<Cite id="swan-vasomotor-duration-2015" tooltip="Avis NE, et al. Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition. JAMA Internal Medicine. 2015;175(4):531-539.">
+Hot flashes can persist for a median of 7.4 years.
+</Cite>
+```
+
+**What this produces:**
+- The text gets a subtle highlighted background
+- Hovering shows the tooltip with the full citation
+- Clicking links to `/resources/references#swan-vasomotor-duration-2015`
+
+### Adding New References
+
+When citing a new source:
+
+1. Add an anchor to `/src/routes/resources/references/+page.md`:
+   ```markdown
+   <a aria-hidden="true" id="your-reference-id"></a>
+
+   **Author Name, et al.** ["Title of Paper."](https://doi.org/...) *Journal Name.* Year;Volume(Issue):Pages.
+   *Key finding: What makes this citation notable.*
+   ```
+
+2. Use a consistent `id` format: `topic-descriptor-year` (e.g., `swan-cognition-2009`, `bone-loss-perimenopause`)
+
+3. The `tooltip` prop should contain a brief citation (Author, Title, Journal, Year) that fits in ~320px
+
+### Citation Guidelines
+
 - References should be real, verifiable sources
 - When evidence is strong, say so; when it's limited, say that too
 - Traditional knowledge gets respect, not dismissal—but also not false equivalence with clinical trials
+- Cite the specific claim, not general knowledge (wrap just the sentence or phrase that needs attribution)
 
 ## Writing Checklist
 

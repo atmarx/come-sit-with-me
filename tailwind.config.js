@@ -97,7 +97,8 @@ export default {
 			},
 			fontFamily: {
 				serif: ['Lora', 'Georgia', 'serif'],
-				sans: ['Inter', 'system-ui', 'sans-serif']
+				sans: ['Inter', 'system-ui', 'sans-serif'],
+				script: ['"Pinyon Script"', 'cursive']
 			},
 			typography: ({ theme }) => ({
 				DEFAULT: {
