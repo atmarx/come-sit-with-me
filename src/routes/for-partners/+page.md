@@ -11,11 +11,11 @@ This section is an attempt to help you understand what's happening—and what ac
 
 ## The Hard Truth First
 
-Your partner isn't choosing this. She can't will herself to feel differently. The changes in her [mood](/symptoms/mood), energy, [desire](/symptoms/libido), and body are physiological, not personal—even when they feel very personal to you.
+Your partner **isn't choosing this**. She **can't will herself to feel differently**. The changes in her [mood](/symptoms/mood), energy, [desire](/symptoms/libido), and body are physiological, not personal—even when they feel very personal to you.
 
-This isn't about you. And also: your experience matters too.
+*This isn't about you.* And also: *your experience matters too*.
 
-Both things are true.
+**Both things are true.**
 
 ## If You've Been Here Before
 
