@@ -1,38 +1,41 @@
-# sv
+# Come Sit With Me
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A perimenopause resource that integrates evidence-based medical information with traditional wisdom. The site aims to be what many women wish they had: a knowledgeable, compassionate guide through a transition that affects half the population yet remains poorly understood and rarely discussed.
 
-## Creating a project
+## About
 
-If you're seeing this, you've probably already done this step. Congrats!
+This project provides comprehensive information about perimenopause—the transitional years leading to menopause—covering symptoms, treatment options, lifestyle approaches, and the science behind what's happening in the body. Content bridges conventional medicine and complementary approaches, always grounded in evidence while respecting traditional knowledge.
+
+The site is written in the voice of Brigid, a persona inspired by the Celtic goddess of healing, poetry, and the hearth. She speaks as a wise grandmother who has also read the research—warm and direct, never clinical or condescending. For more on the voice and content guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Tech Stack
+
+- **Framework**: [SvelteKit](https://kit.svelte.dev/) with Svelte 5
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) v4
+- **Content**: Markdown with [mdsvex](https://mdsvex.pngwn.io/)
+- **Deployment**: Static adapter for static site generation
+- **Analytics**: [GoatCounter](https://www.goatcounter.com/) (privacy-friendly)
+
+## Development
 
 ```sh
-# create a new project in the current directory
-npx sv create
+# Install dependencies
+npm install
 
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
+# Start development server
 npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
+# Build for production
 npm run build
+
+# Preview production build
+npm run preview
 ```
 
-You can preview the production build with `npm run preview`.
+## Contributing
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on voice, tone, and content standards.
+
+## License
+
+Content is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
