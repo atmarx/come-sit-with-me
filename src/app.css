@@ -46,6 +46,8 @@ html {
 body {
 	overflow-x: hidden;
 	-webkit-text-size-adjust: 100%;
+	background-color: #FDF8F5;
+	background-color: var(--color-cream);
 }
 
 /* Ensure images and media don't overflow */
