@@ -311,3 +311,59 @@ img, video, iframe, embed, object {
 	background-color: rgba(180, 152, 152, 0.15);
 	border-left-color: #b49898;
 }
+
+/* ==========================================
+   TARGET HIGHLIGHTING (for reference links)
+   ========================================== */
+
+/* Give targeted elements some scroll margin so they're not hidden under header */
+:target {
+	scroll-margin-top: 2rem;
+}
+
+/* Highlight the element following a targeted anchor */
+a[aria-hidden]:target + p,
+a[aria-hidden]:target + h2,
+a[aria-hidden]:target + h3 {
+	animation: highlight-fade 10s ease-out;
+	border-radius: 0.5rem;
+}
+
+@keyframes highlight-fade {
+	0% {
+		background-color: transparent;
+	}
+	5% {
+		background-color: rgba(196, 164, 164, 0.4);
+	}
+	25% {
+		background-color: rgba(196, 164, 164, 0.35);
+	}
+	100% {
+		background-color: transparent;
+	}
+}
+
+.dark a[aria-hidden]:target + p,
+.dark a[aria-hidden]:target + h2,
+.dark a[aria-hidden]:target + h3 {
+	animation: highlight-fade-dark 10s ease-out;
+}
+
+@keyframes highlight-fade-dark {
+	0% {
+		background-color: transparent;
+	}
+	3% {
+		background-color: rgba(180, 152, 152, 0.5);
+	}
+	6% {
+		background-color: rgba(180, 152, 152, 0.3);
+	}
+	9% {
+		background-color: rgba(180, 152, 152, 0.4);
+	}
+	100% {
+		background-color: transparent;
+	}
+}
