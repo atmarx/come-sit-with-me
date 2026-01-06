@@ -83,7 +83,7 @@ This site was built with tools and assets created by generous people who share t
 
 **Design Assets**
 - [Bastliga One](https://www.1001fonts.com/bastliga-one-font.html) font by Bastian Rother — used for Brigid's signature
-- [Butterfly SVG](https://www.svgrepo.com/svg/395958/butterfly) from SVG Repo — Apache 2.0 license
+- [Butterfly SVG](https://www.svgrepo.com/svg/395958/butterfly) and [Leaf SVG](https://www.svgrepo.com/svg/297212/leaf) from SVG Repo — Apache 2.0 license
 - Body fonts: [Inter](https://rsms.me/inter/) and [Lora](https://fonts.google.com/specimen/Lora) via Google Fonts
 
 **Inspiration**

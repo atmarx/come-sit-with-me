@@ -3,6 +3,7 @@
 	import Sidebar from '$lib/components/Layout/Sidebar.svelte';
 	import Header from '$lib/components/Layout/Header.svelte';
 	import butterflyUrl from '$lib/assets/images/butterfly-svgrepo-com.svg';
+	import leafUrl from '$lib/assets/images/leaf-svgrepo-com.svg';
 
 	let { children } = $props();
 	let mobileMenuOpen = $state(false);
@@ -21,6 +22,14 @@
 </svelte:head>
 
 <div class="flex min-h-screen">
+	<!-- Decorative leaf background -->
+	<img
+		src={leafUrl}
+		alt=""
+		class="pointer-events-none fixed -right-16 top-8 hidden h-96 w-96 -rotate-45 opacity-[0.07] lg:block"
+		aria-hidden="true"
+	/>
+
 	<!-- Desktop sidebar -->
 	<aside class="hidden w-64 shrink-0 border-r border-primary-100 bg-surface lg:block">
 		<div class="sticky top-0 h-screen">
