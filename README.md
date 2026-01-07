@@ -6,7 +6,7 @@ A perimenopause resource that integrates evidence-based medical information with
 
 This project provides comprehensive information about perimenopause—the transitional years leading to menopause—covering symptoms, treatment options, lifestyle approaches, and the science behind what's happening in the body. Content bridges conventional medicine and complementary approaches, always grounded in evidence while respecting traditional knowledge.
 
-The site is written in the voice of Brigid, a persona inspired by the Celtic goddess of healing, poetry, and the hearth. She speaks as a wise grandmother who has also read the research—warm and direct, never clinical or condescending. For more on the voice and content guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+The site is written in the voice of Brighid, a persona inspired by the Celtic goddess of healing, poetry, and the hearth. She speaks as a wise grandmother who has also read the research—warm and direct, never clinical or condescending. For more on the voice and content guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Tech Stack
 

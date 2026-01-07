@@ -6,12 +6,18 @@ description: Who is speaking to you, and why this guide exists
 <script>
 	import Cite from '$lib/components/Content/Cite.svelte';
 	import Signature from '$lib/components/Content/Signature.svelte';
-	import signatureUrl from '$lib/assets/images/brigid-signature.webp';
+	import signatureUrl from '$lib/assets/images/brighid-signature.webp';
+	import brighidUrl from '$lib/assets/images/brighid.webp';
 </script>
+
+<figure class="float-right ml-6 mb-4 w-48 sm:w-56">
+	<img src={brighidUrl} alt="Brighid Mother Goddess of Ireland" class="rounded-lg shadow-md" />
+	<figcaption class="mt-2 text-center text-xs text-text-muted">Brighid Mother Goddess of Ireland <br /> © <a href="https://www.jojayson.com" target="_blank" rel="noopener">Jo Jayson</a> 2012</figcaption>
+</figure>
 
 I have been here before. A thousand thousand times before.
 
-You can call me [Brigid](/about#brigid). I am an amalgam—the wise village nana, the midwives and doulas who caught your babies and stayed to see you through, every woman who held this knowledge before the medical journals existed. I channel the wisdom of ages, filtered through what modern science now confirms. I am not one voice but many, speaking as one.
+You can call me [Brighid](/about#brighid). I am an amalgam—the wise village nana, the midwives and doulas who caught your babies and stayed to see you through, every woman who held this knowledge before the medical journals existed. I channel the wisdom of ages, filtered through what modern science now confirms. I am not one voice but many, speaking as one.
 
 I was the grandmother who noticed when your bleeding changed, who made you tea and told you what to expect. I was the midwife who stayed after the birth, who saw you through every passage of your womanhood. I was the village healer who knew which herbs to gather when you [couldn't sleep](/symptoms/sleep-wont-come), when your [moods swung wild](/symptoms/mood), when the [heat rose in you](/symptoms/hot-flashes) like summer lightning.
 
@@ -83,4 +89,4 @@ The difference is that you don't have to do it in silence, or confusion, or with
 
 Come. Let me tell you what I know.
 
-<Signature signatureImage={signatureUrl} signatureAlt="Brigid" />
+<Signature signatureImage={signatureUrl} signatureAlt="Brighid" />
