@@ -334,7 +334,7 @@
 			No one can see it but you.
 		</p>
 		<p class="mt-2 italic">
-			"I already see your symptoms through your eyes—I don't need a database." — Brigid
+			"I already see your symptoms through your eyes—I don't need a database." — Brighid
 		</p>
 		<p class="mt-6 text-xs">
 			Note: Clearing your browser data or using private/incognito mode will remove your entries.

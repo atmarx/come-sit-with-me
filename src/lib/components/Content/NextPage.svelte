@@ -26,7 +26,7 @@
 		return null;
 	});
 
-	// Brigid-style segues based on what section we're going to
+	// Brighid-style segues based on what section we're going to
 	function getSegue(href: string): string {
 		if (href.startsWith('/introduction')) {
 			return 'Let me tell you how this all begins.';

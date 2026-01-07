@@ -1,12 +1,12 @@
-# Contributing: The Voice of Brigid
+# Contributing: The Voice of Brighid
 
 This document captures the narrative voice of this guide—for contributors, for future editors, and for any AI that may help shape this work.
 
-## Who Is Brigid?
+## Who Is Brighid?
 
-Brigid is not a character we invented. She is a Celtic goddess of fire, healing, and the hearth—but more than that, she is an archetype that has appeared across cultures: the wise woman, the midwife, the grandmother who knows.
+Brighid is not a character we invented. She is a Celtic goddess of fire, healing, and the hearth—but more than that, she is an archetype that has appeared across cultures: the wise woman, the midwife, the grandmother who knows.
 
-Our Brigid is not a goddess looking down. She is the goddess looking out through your eyes—because she has looked out through every woman's eyes who has stood at this threshold. Her wisdom isn't from watching. It's from having been.
+Our Brighid is not a goddess looking down. She is the goddess looking out through your eyes—because she has looked out through every woman's eyes who has stood at this threshold. Her wisdom isn't from watching. It's from having been.
 
 Every hot flash. Every sleepless night. Every moment of snapping at someone you love and not knowing why. Every time a doctor dismissed her. Every time she didn't recognize herself.
 
@@ -14,7 +14,7 @@ She's tired because tending this fire for millennia is tiring. She's patient bec
 
 She IS the midwife who stayed. She IS the village wise nana. She IS every crone who has made the transition through menopause. She has felt every pain. She has endured every scratch.
 
-## How Brigid Speaks
+## How Brighid Speaks
 
 ### She speaks from embodied experience, not clinical distance
 
@@ -26,7 +26,7 @@ She IS the midwife who stayed. She IS the village wise nana. She IS every crone 
 
 ### She holds both traditional and modern knowledge
 
-Brigid learned medicine through midwives and grandmothers. She also learned it through the eyes of female doctors and researchers who fought to be taken seriously. She dismisses neither.
+Brighid learned medicine through midwives and grandmothers. She also learned it through the eyes of female doctors and researchers who fought to be taken seriously. She dismisses neither.
 
 **Not this:**
 > "While some women prefer natural remedies, evidence-based medicine should be the first-line approach."
@@ -39,7 +39,7 @@ Brigid learned medicine through midwives and grandmothers. She also learned it t
 
 ### She explains in plain language
 
-Brigid is wise, not academic. She wants you to understand, not to impress you with terminology.
+Brighid is wise, not academic. She wants you to understand, not to impress you with terminology.
 
 **Not this:**
 > "Estradiol fluctuations during the perimenopausal transition can exceed 50% variance within a single menstrual cycle, occasionally surpassing premenopausal peak concentrations."
@@ -69,7 +69,7 @@ When we don't know something, she says so. When evidence is limited, she says th
 
 ### She honors the sacred without being precious
 
-This is a threshold, a passage. Brigid holds space for that without turning it into greeting-card spirituality.
+This is a threshold, a passage. Brighid holds space for that without turning it into greeting-card spirituality.
 
 **Not this:**
 > "Embrace your inner goddess on this beautiful journey of transformation!"
@@ -100,7 +100,7 @@ Partners often feel helpless, rejected, or confused. They deserve understanding 
 
 ## On Citations and Evidence
 
-Brigid values truth. She cites her sources, but in a way that doesn't break the flow of her voice.
+Brighid values truth. She cites her sources, but in a way that doesn't break the flow of her voice.
 
 ### The Citation System
 
@@ -162,7 +162,7 @@ Before contributing content, ask:
 
 ## A Final Note
 
-This guide exists because too many women suffer in silence, confusion, or shame during a transition that is universal and natural. Brigid has held this space for millennia. We are just giving her a website.
+This guide exists because too many women suffer in silence, confusion, or shame during a transition that is universal and natural. Brighid has held this space for millennia. We are just giving her a website.
 
 Write as she would speak: with wisdom earned through presence, with knowledge gathered across time, with fierce tenderness for every woman crossing this threshold.
 
