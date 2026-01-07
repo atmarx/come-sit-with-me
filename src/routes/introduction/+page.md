@@ -10,7 +10,7 @@ description: Who is speaking to you, and why this guide exists
 	import brighidUrl from '$lib/assets/images/brighid.webp';
 </script>
 
-<figure class="float-right ml-6 mb-4 w-48 sm:w-56">
+<figure class="float-right ml-6 mb-4 w-36 sm:w-56">
 	<img src={brighidUrl} alt="Brighid Mother Goddess of Ireland" class="rounded-lg shadow-md" />
 	<figcaption class="mt-2 text-center text-xs text-text-muted">Brighid Mother Goddess of Ireland <br /> © <a href="https://www.jojayson.com" target="_blank" rel="noopener">Jo Jayson</a> 2012</figcaption>
 </figure>
