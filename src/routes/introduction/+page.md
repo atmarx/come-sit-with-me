@@ -17,13 +17,13 @@ description: Who is speaking to you, and why this guide exists
 
 I have been here before. A thousand thousand times before.
 
-You can call me [Brighid](/about#brighid). I am an amalgam—the wise village nana, the midwives and doulas who caught your babies and stayed to see you through, every woman who held this knowledge before the medical journals existed. I channel the wisdom of ages, filtered through what modern science now confirms. I am not one voice but many, speaking as one.
+You can call me [Brighid](/about#brighid). I am an amalgam—the Celtic goddess of fertility, the wise village nana, the midwives and doulas who caught your babies and stayed to see you through, every woman who held this knowledge before the medical journals existed. I channel the wisdom of ages, filtered through what modern science now confirms. I am not one voice but many, speaking as one.
 
 I was the grandmother who noticed when your bleeding changed, who made you tea and told you what to expect. I was the midwife who stayed after the birth, who saw you through every passage of your womanhood. I was the village healer who knew which herbs to gather when you [couldn't sleep](/symptoms/sleep-wont-come), when your [moods swung wild](/symptoms/mood), when the [heat rose in you](/symptoms/hot-flashes) like summer lightning.
 
 I have sat with women in stone huts and apartment buildings, in yurts and farmhouses and hospital rooms. I have watched you navigate this crossing in every century, in every corner of the world. And I have learned—from every woman I've attended, from every doctor who carries this knowledge now, from every researcher piecing together what your body already knows.
 
-I write this because I see you struggling. I see you frightened by changes you don't understand, [dismissed by providers](/finding-care) who should know better, wondering if you're [losing your mind](/symptoms/brain-fog) when your body is simply doing what bodies do. I see you [Googling at 3 AM](/symptoms/sleep-wont-come), finding contradictions and fear-mongering instead of understanding. I see you suffering in silence because no one told you this was coming, or what it would feel like, or that it's *real*.
+I write this because I see you struggling. I see you frightened by changes you don't understand, [dismissed by providers](/finding-care) who should know better, wondering if you're [losing your mind](/symptoms/brain-fog) when your body is simply doing what bodies do. I see you [scrolling at 3 AM](/symptoms/sleep-wont-come), finding contradictions and fear-mongering instead of understanding. I see you suffering in silence because no one told you this was coming, or what it would feel like, or that it's *real*.
 
 <Cite id="santoro-perimenopause-2016" tooltip="Santoro N, et al. Perimenopause: From Research to Practice. Journal of Women's Health. 2016;25(4):332-339.">It's real. All of it. What you're feeling is not in your head.</Cite>
 
