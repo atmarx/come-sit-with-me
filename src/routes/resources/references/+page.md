@@ -135,6 +135,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Brown JN, et al.** ["Association of Menopausal Vasomotor Symptom Severity with Sleep and Work Impairments: A US Survey."](https://doi.org/10.1097/GME.0000000000002232) *Menopause.* 2023;30(9):897-904.
 *Key finding: 90.8% of women reported VMS affects sleep; 83.1% reported sleep-related changes in productivity. For severe VMS, 97.7% reported sleep impact.*
 
+<a aria-hidden="true" id="vms-cvd-risk"></a>
+
+**Zhu D, et al.** ["Vasomotor Menopausal Symptoms and Risk of Cardiovascular Disease: A Pooled Analysis of Six Prospective Studies."](https://doi.org/10.1016/j.ajog.2020.06.038) *American Journal of Obstetrics & Gynecology.* 2020;223(6):898.e1-898.e16.
+*Key finding: Severe hot flashes associated with 83% higher CVD risk; night sweats with 59% higher risk. VMS may serve as markers for cardiovascular risk.*
+
+<a aria-hidden="true" id="vms-subclinical-cvd"></a>
+
+**Thurston RC, et al.** ["Hot Flashes and Subclinical Cardiovascular Disease: Findings from the Study of Women's Health Across the Nation Heart Study."](https://doi.org/10.1161/CIRCULATIONAHA.108.776823) *Circulation.* 2008;118(12):1234-1240.
+*Key finding: Women with hot flashes had evidence of poorer endothelial function and higher aortic calcification, suggesting hot flashes may be markers of adverse vascular changes.*
+
 ---
 
 <a aria-hidden="true" id="mood"></a>
@@ -273,6 +283,17 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 ---
 
+<a aria-hidden="true" id="eyes"></a>
+
+## Eyes
+
+<a aria-hidden="true" id="dry-eye-menopause"></a>
+
+**Menopause Society.** ["Dry Eye and Menopause: Mechanisms and Management."](https://menopause.org/for-women/menopauseflashes/eyes-ears-mouth-nose/dry-eye-and-menopause-mechanisms-and-management) *The Menopause Society.* 2025.
+*Key finding: Over 57% of menopausal women report dry eye symptoms, with hormonal changes affecting tear production and tear film composition.*
+
+---
+
 <a aria-hidden="true" id="bone"></a>
 
 ## Bone Health
@@ -351,10 +372,56 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="black-cohosh-review"></a>
 
 **Leach MJ, Moore V.** ["Black Cohosh (Cimicifuga spp.) for Menopausal Symptoms."](https://doi.org/10.1002/14651858.CD007244.pub2) *Cochrane Database of Systematic Reviews.* 2012;(9):CD007244.
+*Key finding: Insufficient evidence to support efficacy; no significant difference from placebo in hot flush frequency, though safe for short-term use.*
 
 <a aria-hidden="true" id="phytoestrogens-review"></a>
 
 **Lethaby A, et al.** ["Phytoestrogens for Menopausal Vasomotor Symptoms."](https://doi.org/10.1002/14651858.CD001395.pub4) *Cochrane Database of Systematic Reviews.* 2013;(12):CD001395.
+
+<a aria-hidden="true" id="red-clover-meta"></a>
+
+**Kanadys W, et al.** ["Evaluation of Clinical Meaningfulness of Red Clover (Trifolium pratense L.) Extract to Relieve Hot Flushes and Menopausal Symptoms in Peri- and Post-Menopausal Women: A Systematic Review and Meta-Analysis."](https://doi.org/10.3390/nu13041258) *Nutrients.* 2021;13(4):1258.
+*Key finding: Statistically significant reduction in hot flushes (−1.73/day vs placebo); more effective at ≥80mg/day isoflavones and in women with ≥5 hot flushes daily.*
+
+<a aria-hidden="true" id="stjohnswort-cochrane"></a>
+
+**Linde K, et al.** ["St John's Wort for Major Depression."](https://doi.org/10.1002/14651858.CD000448.pub3) *Cochrane Database of Systematic Reviews.* 2008;(4):CD000448.
+*Key finding: Superior to placebo for mild-moderate depression; similarly effective as standard antidepressants with fewer side effects. Significant drug interactions.*
+
+<a aria-hidden="true" id="sage-meta"></a>
+
+**Ghazanfarpour M, et al.** ["The Effect of Salvia Officinalis on Hot Flashes in Postmenopausal Women: A Systematic Review and Meta-Analysis."](https://doi.org/10.2147/JMDH.S409431) *Journal of Multidisciplinary Healthcare.* 2023;16:1857-1867.
+*Key finding: Multiple RCTs show significant reduction in hot flash frequency and severity; considered safe for short-term use.*
+
+<a aria-hidden="true" id="ashwagandha-meta"></a>
+
+**Akhgarjand C, et al.** ["Does Ashwagandha Supplementation Have a Beneficial Effect on the Management of Anxiety and Stress? A Systematic Review and Meta-Analysis."](https://doi.org/10.1016/j.jep.2022.115471) *Journal of Ethnopharmacology.* 2022;295:115471.
+*Key finding: Significant reductions in anxiety (SMD: −1.55) and stress levels (SMD: −1.75) vs placebo; also reduces serum cortisol.*
+
+<a aria-hidden="true" id="valerian-meta"></a>
+
+**Bent S, et al.** ["Valerian for Sleep: A Systematic Review and Meta-Analysis."](https://doi.org/10.1016/j.amjmed.2006.02.026) *American Journal of Medicine.* 2006;119(12):1005-1012.
+*Key finding: May improve subjective sleep quality (RR 1.8 for improved sleep); evidence limited by methodological issues.*
+
+<a aria-hidden="true" id="bacopa-meta"></a>
+
+**Kongkeaw C, et al.** ["Meta-Analysis of Randomized Controlled Trials on Cognitive Effects of Bacopa monnieri Extract."](https://doi.org/10.1016/j.jep.2013.11.008) *Journal of Ethnopharmacology.* 2014;151(1):528-535.
+*Key finding: Improved speed of attention and cognitive processing in 9 RCTs (437 subjects); well-tolerated.*
+
+<a aria-hidden="true" id="hops-rct"></a>
+
+**Heyerick A, et al.** ["A First Prospective, Randomized, Double-Blind, Placebo-Controlled Study on the Use of a Standardized Hop Extract to Alleviate Menopausal Discomforts."](https://doi.org/10.1016/j.maturitas.2005.10.005) *Maturitas.* 2006;54(2):164-175.
+*Key finding: 8-prenylnaringenin (100μg) significantly reduced menopausal symptoms vs placebo at 6 weeks; rapid improvement in hot flushes.*
+
+<a aria-hidden="true" id="shatavari-rct"></a>
+
+**Bhosal SK, et al.** ["Efficacy and Safety of Shatavari (Asparagus racemosus) Root Extract for Perimenopause."](https://doi.org/10.2147/IJWH.S544267) *International Journal of Women's Health.* 2025;17:999-1014.
+*Key finding: Significant reduction in Menopausal Rating Scale (51-73% depending on dose); phytoestrogens bind to estrogen receptors.*
+
+<a aria-hidden="true" id="tcm-menopause-review"></a>
+
+**Chen LR, et al.** ["Chinese Herbal Formulae for the Treatment of Menopausal Hot Flushes: A Systematic Review and Meta-Analysis."](https://doi.org/10.1371/journal.pone.0222383) *PLOS ONE.* 2019;14(9):e0222383.
+*Key finding: 19 RCTs (2469 patients); similar effectiveness to HT with fewer adverse events; quality of evidence moderate.*
 
 <a aria-hidden="true" id="cbt-menopause"></a>
 

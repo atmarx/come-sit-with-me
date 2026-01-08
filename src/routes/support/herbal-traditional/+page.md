@@ -3,6 +3,10 @@ title: Herbal & Traditional Approaches
 description: Plant medicines, traditional systems, and what women have done across cultures and centuries
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 Women have been navigating this transition for as long as there have been women. Long before clinical trials, there were grandmothers, midwives, herbalists, and healers passing down knowledge about what helped.
 
 This page explores plant-based and traditional approaches—not just through the lens of "what does the research say," but also "what have people done, and why might it matter?"
@@ -43,9 +47,11 @@ TCM views menopause through the lens of yin, yang, and qi—not as a disease but
 
 ### What the Research Shows
 
-- Small studies suggest TCM formulas may help with VMS and quality of life
+
+
+- <Cite id="tcm-menopause-review" tooltip="Chen LR, et al. Chinese Herbal Formulae for the Treatment of Menopausal Hot Flushes: A Systematic Review and Meta-Analysis. PLOS ONE. 2019;14(9):e0222383.">A systematic review of 19 RCTs (2,469 patients) found TCM formulas similarly effective to hormone therapy for hot flushes</Cite>
 - Hard to study because treatment is individualized
-- Generally considered safe when prescribed by trained practitioners
+- Generally considered safe—adverse events were few and mild
 - Quality control of herbs is a real concern (contaminants, substitutions)
 
 ### Working with TCM
@@ -61,16 +67,16 @@ The traditional medicine of India, Ayurveda views menopause as a transition from
 **Shatavari** (Asparagus racemosus):
 - "She who possesses a hundred husbands"—traditional women's tonic
 - Used for reproductive health, libido, and menopausal symptoms
-- Some modern research suggests estrogenic activity
+- <Cite id="shatavari-rct" tooltip="Bhosal SK, et al. Efficacy and Safety of Shatavari Root Extract for Perimenopause. International Journal of Women's Health. 2025;17:999-1014.">RCTs show 51-73% reduction in menopausal symptoms; contains phytoestrogens that bind to estrogen receptors</Cite>
 
 **Ashwagandha** (Withania somnifera):
 - Adaptogen for stress, fatigue, and anxiety
-- Growing research base for cortisol regulation, sleep
+- <Cite id="ashwagandha-meta" tooltip="Akhgarjand C, et al. Does Ashwagandha Supplementation Have a Beneficial Effect on the Management of Anxiety and Stress? A Systematic Review and Meta-Analysis. Journal of Ethnopharmacology. 2022;295:115471.">Meta-analysis of 12 RCTs shows significant reductions in anxiety and stress; also reduces serum cortisol</Cite>
 - May help with libido and energy
 
 **Brahmi** (Bacopa monnieri):
 - Traditional brain tonic
-- Some evidence for cognitive function and anxiety
+- <Cite id="bacopa-meta" tooltip="Kongkeaw C, et al. Meta-Analysis of Randomized Controlled Trials on Cognitive Effects of Bacopa monnieri Extract. Journal of Ethnopharmacology. 2014;151(1):528-535.">Meta-analysis of 9 RCTs shows improved speed of attention and cognitive processing; also reduces anxiety</Cite>
 
 **Triphala**:
 - Three-fruit formula for digestion and elimination
@@ -93,7 +99,7 @@ European and American herbal traditions have their own approaches to supporting 
 **Black Cohosh** (Actaea racemosa):
 - Native American traditional use
 - Most-studied menopausal herb in Western research
-- May help hot flashes; mechanism unclear (not estrogenic)
+- <Cite id="black-cohosh-review" tooltip="Leach MJ, Moore V. Black Cohosh (Cimicifuga spp.) for Menopausal Symptoms. Cochrane Database of Systematic Reviews. 2012;(9):CD007244.">Cochrane review found insufficient evidence vs placebo, though some studies show benefit; mechanism unclear (not estrogenic)</Cite>
 - Standardized extract (Remifemin) has best evidence
 - Rare liver concerns—discuss with provider
 
@@ -104,17 +110,17 @@ European and American herbal traditions have their own approaches to supporting 
 
 **Red Clover** (Trifolium pratense):
 - Contains isoflavones
-- RCTs show mixed results
+- <Cite id="red-clover-meta" tooltip="Kanadys W, et al. Evaluation of Clinical Meaningfulness of Red Clover Extract to Relieve Hot Flushes. Nutrients. 2021;13(4):1258.">Meta-analysis shows significant reduction in hot flushes (−1.73/day vs placebo); more effective at higher doses (≥80mg isoflavones) and in women with ≥5 hot flushes daily</Cite>
 - Generally safe, but caution with hormone-sensitive conditions
 
 **Hops** (Humulus lupulus):
 - Contains 8-prenylnaringenin, a potent phytoestrogen
 - Traditional use for sleep and anxiety
-- Limited but promising research
+- <Cite id="hops-rct" tooltip="Heyerick A, et al. A First Prospective, Randomized, Double-Blind, Placebo-Controlled Study on the Use of a Standardized Hop Extract. Maturitas. 2006;54(2):164-175.">RCT showed significant improvement in menopausal symptoms vs placebo at 6 weeks; rapid improvement in hot flushes</Cite>
 
 **Sage** (Salvia officinalis):
 - Traditional European remedy specifically for sweating
-- Some small studies support use for hot flashes
+- <Cite id="sage-meta" tooltip="Ghazanfarpour M, et al. The Effect of Salvia Officinalis on Hot Flashes in Postmenopausal Women: A Systematic Review and Meta-Analysis. Journal of Multidisciplinary Healthcare. 2023;16:1857-1867.">Multiple RCTs show significant reduction in hot flash frequency and severity</Cite>
 - Easy to use as tea
 
 **Motherwort** (Leonurus cardiaca):
@@ -123,13 +129,13 @@ European and American herbal traditions have their own approaches to supporting 
 - Limited formal research
 
 **St. John's Wort** (Hypericum perforatum):
-- Well-studied for mild-moderate depression
+- <Cite id="stjohnswort-cochrane" tooltip="Linde K, et al. St John's Wort for Major Depression. Cochrane Database of Systematic Reviews. 2008;(4):CD000448.">Cochrane review: superior to placebo for mild-moderate depression; similarly effective as standard antidepressants with fewer side effects</Cite>
 - **Significant drug interactions**—including with birth control, some medications
 - Not appropriate for everyone
 
 **Valerian** (Valeriana officinalis):
 - Traditional sleep aid
-- Some evidence for sleep quality
+- <Cite id="valerian-meta" tooltip="Bent S, et al. Valerian for Sleep: A Systematic Review and Meta-Analysis. American Journal of Medicine. 2006;119(12):1005-1012.">Meta-analysis suggests may improve subjective sleep quality (RR 1.8), though evidence limited by methodological issues</Cite>
 - May help when sleep disturbance is primary complaint
 
 ### Nervines and Adaptogens
@@ -246,20 +252,23 @@ This isn't foolproof—some traditional remedies are genuinely dangerous—but i
 ## Resources for Further Exploration
 
 **Books**:
-- *The Menopause Herbal* by Amanda McQuade Crawford
-- *Herbal Healing for Women* by Rosemary Gladstar
-- *The Web That Has No Weaver* by Ted Kaptchuk (TCM)
-- *Adaptogens: Herbs for Strength, Stamina, and Stress Relief* by David Winston
+- [*The Menopause Herbal*](https://bookshop.org/p/books/the-natural-menopause-handbook-herbs-nutrition-other-natural-therapies-amanda-mcquade-crawford/8644652) by Amanda McQuade Crawford
+- [*Herbal Healing for Women*](https://bookshop.org/p/books/herbal-healing-for-women-rosemary-gladstar/7363134) by Rosemary Gladstar
+- [*The Web That Has No Weaver*](https://bookshop.org/p/books/the-web-that-has-no-weaver-understanding-chinese-medicine-ted-kaptchuk/6435638) by Ted Kaptchuk (TCM)
+- [*Adaptogens*](https://bookshop.org/p/books/adaptogens-herbs-for-strength-stamina-and-stress-relief-david-winston/8501498) by David Winston
+
+**Web**:
+- [Richard Whelan's Herbal Medicine](https://www.rjwhelan.co.nz/) — Detailed monographs on individual herbs from a respected New Zealand medical herbalist
 
 **Finding practitioners**:
-- American Herbalists Guild (herbalists)
-- NCCAOM (acupuncturists/TCM)
-- National Ayurvedic Medical Association (Ayurveda)
+- [American Herbalists Guild](https://www.americanherbalistsguild.com/find-an-herbalist) (herbalists)
+- [NCCAOM](https://www.nccaom.org/find-a-practitioner-directory/) (acupuncturists/TCM)
+- [National Ayurvedic Medical Association](https://www.ayurvedanama.org/find-a-professional) (Ayurveda)
 
 **Quality verification**:
-- ConsumerLab.com (independent testing)
-- USP Verified supplements
-- NSF International certification
+- [ConsumerLab.com](https://www.consumerlab.com) (independent testing)
+- [USP Verified](https://www.usp.org/verification-services/verified-mark) supplements
+- [NSF International](https://www.nsf.org/consumer-resources/articles/dietary-supplements) certification
 
 ---
 
