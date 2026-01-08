@@ -76,6 +76,7 @@ Not specifically about menopause, but essential reading for understanding desire
 - [*Herbal Healing for Women*](https://bookshop.org/p/books/herbal-healing-for-women-rosemary-gladstar/7363134) — Rosemary Gladstar
 - [*The Web That Has No Weaver*](https://bookshop.org/p/books/the-web-that-has-no-weaver-understanding-chinese-medicine-ted-kaptchuk/6435638) — Ted Kaptchuk (for understanding TCM)
 - [*Adaptogens*](https://bookshop.org/p/books/adaptogens-herbs-for-strength-stamina-and-stress-relief-david-winston/8501498) — David Winston
+- [Richard Whelan's Herbal Medicine](https://www.rjwhelan.co.nz/) — Detailed monographs on individual herbs from a respected New Zealand medical herbalist
 
 **Finding practitioners:**
 - [American Herbalists Guild](https://www.americanherbalistsguild.com/find-an-herbalist) (herbalists)
@@ -86,6 +87,14 @@ Not specifically about menopause, but essential reading for understanding desire
 - [ConsumerLab.com](https://www.consumerlab.com) (independent testing)
 - [USP Verified](https://www.usp.org/verification-services/verified-mark) supplements
 - [NSF International](https://www.nsf.org/consumer-resources/articles/dietary-supplements) certification
+
+## Key Terms
+
+**RCT (Randomized Controlled Trial):** The gold standard for testing medical interventions. Participants are randomly assigned to receive either the treatment being studied or a placebo/comparison treatment. "Double-blind" means neither participants nor researchers know who received what until the study ends—this prevents bias. "Systematic review" and "meta-analysis" combine results from multiple RCTs to get more reliable conclusions.
+
+**Phytoestrogen:** Plant compounds that can weakly bind to estrogen receptors in the body. Found in soy, red clover, hops, and other plants. Much weaker than human estrogen but may provide some hormonal effects.
+
+**Adaptogen:** Herbs traditionally believed to help the body "adapt" to stress by supporting the adrenal system. Examples include ashwagandha, rhodiola, and ginseng.
 
 ## A Note on Online Information
 

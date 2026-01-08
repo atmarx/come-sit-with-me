@@ -22,7 +22,7 @@ Estrogen has been quietly protecting your cardiovascular system for decades:
 
 As estrogen fluctuates and eventually declines, that protection changes. <Cite id="cvd-menopause" tooltip="El Khoudary SR, et al. Menopause Transition and Cardiovascular Disease Risk: Implications for Timing of Early Prevention. A Scientific Statement From the American Heart Association. Circulation. 2020;142(25):e506-e532.">After menopause, cardiovascular disease risk rises to match men's.</Cite> This doesn't mean heart disease is inevitable—it means this is a time to pay attention to heart health if you haven't been.
 
-The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular health is still being studied, but there's growing evidence that frequent vasomotor symptoms may be a marker for cardiovascular risk. Another reason to take these symptoms seriously.
+The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular health is still being studied, but <Cite id="vms-cvd-risk" tooltip="Zhu D, et al. Vasomotor Menopausal Symptoms and Risk of Cardiovascular Disease: A Pooled Analysis of Six Prospective Studies. American Journal of Obstetrics & Gynecology. 2020;223(6):898.e1-898.e16.">there's growing evidence that frequent vasomotor symptoms may be a marker for cardiovascular risk.</Cite> Another reason to take these symptoms seriously.
 
 ## Your Bones
 
@@ -53,7 +53,7 @@ The reassuring news: for most women, cognitive function stabilizes and often imp
 
 ## Your Eyes
 
-If your eyes feel drier, grittier, more irritated—that's not coincidence. About 57% of menopausal women experience dry eye symptoms. Estrogen affects tear production and tear film composition.
+If your eyes feel drier, grittier, more irritated—that's not coincidence. <Cite id="dry-eye-menopause" tooltip="Menopause Society. Dry Eye and Menopause: Mechanisms and Management. 2025. Over 57% of menopausal women report dry eye symptoms.">About 57% of menopausal women experience dry eye symptoms.</Cite> Estrogen affects tear production and tear film composition.
 
 This is one of those symptoms that often gets overlooked or attributed to screens and aging, but the hormonal connection is real.
 
