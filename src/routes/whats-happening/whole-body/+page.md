@@ -3,6 +3,10 @@ title: Your Whole Body
 description: How perimenopause affects your heart, bones, metabolism, eyes, skin—everything
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 If it feels like everything is changing at once, that's because it is.
 
 Estrogen isn't just a reproductive hormone. It has receptors in over 400 tissues throughout your body—your heart, your bones, your brain, your skin, your eyes, your gut, your joints. Every one of those tissues is responding to the hormonal shifts of perimenopause.
@@ -16,17 +20,17 @@ Estrogen has been quietly protecting your cardiovascular system for decades:
 - It helps maintain healthy cholesterol ratios
 - It reduces inflammation in artery walls
 
-As estrogen fluctuates and eventually declines, that protection changes. After menopause, cardiovascular disease risk rises to match men's. This doesn't mean heart disease is inevitable—it means this is a time to pay attention to heart health if you haven't been.
+As estrogen fluctuates and eventually declines, that protection changes. <Cite id="cvd-menopause" tooltip="El Khoudary SR, et al. Menopause Transition and Cardiovascular Disease Risk: Implications for Timing of Early Prevention. A Scientific Statement From the American Heart Association. Circulation. 2020;142(25):e506-e532.">After menopause, cardiovascular disease risk rises to match men's.</Cite> This doesn't mean heart disease is inevitable—it means this is a time to pay attention to heart health if you haven't been.
 
 The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular health is still being studied, but there's growing evidence that frequent vasomotor symptoms may be a marker for cardiovascular risk. Another reason to take these symptoms seriously.
 
 ## Your Bones
 
-Here's something most women don't know: bone loss begins during perimenopause, *before* menopause itself. You don't have to wait until your periods stop to start losing bone density.
+Here's something most women don't know: <Cite id="bone-loss-perimenopause" tooltip="Finkelstein JS, et al. Bone Mineral Density Changes During the Menopause Transition in a Multiethnic Cohort of Women. Journal of Clinical Endocrinology & Metabolism. 2008;93(3):861-868.">bone loss begins during perimenopause, *before* menopause itself.</Cite> You don't have to wait until your periods stop to start losing bone density.
 
 Estrogen helps keep the balance between bone-building cells (osteoblasts) and bone-removing cells (osteoclasts). When estrogen becomes erratic, that balance shifts toward loss.
 
-The most rapid bone loss happens in the years immediately around menopause. This is why the conversation about bone health shouldn't wait until you're postmenopausal.
+<Cite id="bone-loss-perimenopause" tooltip="Finkelstein JS, et al. Bone Mineral Density Changes During the Menopause Transition in a Multiethnic Cohort of Women. Journal of Clinical Endocrinology & Metabolism. 2008;93(3):861-868.">The most rapid bone loss happens in the years immediately around menopause.</Cite> This is why the conversation about bone health shouldn't wait until you're postmenopausal.
 
 ## Your Metabolism
 

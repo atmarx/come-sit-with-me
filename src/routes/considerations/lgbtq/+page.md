@@ -3,6 +3,10 @@ title: LGBTQ+ Considerations
 description: Navigating perimenopause across the spectrum of gender and sexuality
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 Perimenopause resources often assume a particular reader: a cisgender, heterosexual woman in a relationship with a man. If that's not you, you've probably noticed. The pronouns don't fit. The relationship advice doesn't apply. The assumption that you want to preserve fertility or please a husband sits wrong.
 
 You deserve information that sees you as you are.
@@ -119,7 +123,7 @@ Mainstream menopause support groups may not understand your experience. Seek out
 
 ## A Note on Research
 
-There is, frankly, a dearth of research on LGBTQ+ experiences of menopause. A 2025 literature review in *Sociology of Health & Illness* highlighted this gap explicitly.
+<Cite id="lgbtq-research-gap" tooltip="Bryson MK, et al. Menopause and Aging LGBTQ2S+ Canadians: A Scoping Review. Sociology of Health & Illness. 2023;45(4):778-797.">There is, frankly, a dearth of research on LGBTQ+ experiences of menopause. A literature review in *Sociology of Health & Illness* highlighted this gap explicitly.</Cite>
 
 This means:
 - Clinical recommendations may not account for your specific situation

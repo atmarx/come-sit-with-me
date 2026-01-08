@@ -3,6 +3,10 @@ title: Weight & Body Composition
 description: Why your body is redistributing, not just gaining—and what actually helps
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 Your pants don't fit. You haven't changed how you eat. You're doing the same exercise you've always done. And yet.
 
 The weight conversation during perimenopause is loaded with shame and misinformation. So let me tell you what's actually happening—because it's not as simple as "eat less, move more," and understanding the biology matters.
@@ -11,7 +15,7 @@ The weight conversation during perimenopause is loaded with shame and misinforma
 
 Here's what the research shows: the menopausal transition itself doesn't necessarily cause significant weight *gain*. What it does cause is dramatic *redistribution*.
 
-Visceral fat—the fat around your organs, the fat that makes your waist thicker—increases substantially. Studies show visceral fat can go from 5-8% of total body fat before menopause to 15-20% after. That's not a small shift. That's your body fundamentally changing where it stores energy.
+Visceral fat—the fat around your organs, the fat that makes your waist thicker—increases substantially. <Cite id="visceral-fat-shift" tooltip="Lovejoy JC, et al. Increased Visceral Fat and Decreased Energy Expenditure During the Menopausal Transition. International Journal of Obesity. 2008;32(6):949-958.">Studies show visceral fat can go from 5-8% of total body fat before menopause to 15-20% after.</Cite> That's not a small shift. That's your body fundamentally changing where it stores energy.
 
 Meanwhile, you're likely losing muscle mass. This shift—more fat, less muscle—can happen even if the number on the scale barely moves. You weigh the same but your body is different. Your clothes fit differently. Your shape has changed.
 
@@ -21,7 +25,7 @@ This isn't a failure of willpower. It's biology.
 
 **Estrogen affects fat distribution.** When estrogen was higher, your body preferentially stored fat in hips and thighs (the "pear" shape). As estrogen declines, fat redistributes to the abdomen (the "apple" shape). This shift happens regardless of total body weight.
 
-**Your metabolism actually changes.** Research shows activity energy expenditure drops significantly during perimenopause—in some studies, activity counts dropped by half in the years leading up to menopause. Your body is burning fewer calories doing the same activities.
+**Your metabolism actually changes.** <Cite id="visceral-fat-shift" tooltip="Lovejoy JC, et al. Increased Visceral Fat and Decreased Energy Expenditure During the Menopausal Transition. International Journal of Obesity. 2008;32(6):949-958.">Research shows activity energy expenditure drops significantly during perimenopause—in some studies, activity counts dropped by half in the years leading up to menopause.</Cite> Your body is burning fewer calories doing the same activities.
 
 **Insulin sensitivity decreases.** The same foods that didn't affect your blood sugar before may affect it differently now. This contributes to fat storage, particularly abdominal fat.
 
@@ -75,7 +79,7 @@ If you're considering or already using medications like semaglutide (Ozempic, We
 
 What the research shows:
 
-**They work across menopause stages.** A study of tirzepatide found approximately 20% weight reduction regardless of whether women were pre-, peri-, or postmenopausal. Menopause doesn't blunt the effect.
+**They work across menopause stages.** <Cite id="tirzepatide-surmount-menopause" tooltip="Korytkowski MT, et al. Body Weight Reduction in Women Treated with Tirzepatide by Reproductive Stage: A Post Hoc Analysis from the SURMOUNT Program. Diabetes, Obesity & Metabolism. 2025;27(5):2399-2407.">A study of tirzepatide found approximately 20% weight reduction regardless of whether women were pre-, peri-, or postmenopausal.</Cite> Menopause doesn't blunt the effect.
 
 **Combination with hormone therapy may enhance results.** A 2024 study found postmenopausal women on both semaglutide and hormone therapy lost more weight than those on semaglutide alone—16% vs 12% after a year.
 

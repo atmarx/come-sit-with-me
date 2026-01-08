@@ -3,9 +3,13 @@ title: Dryness & Discomfort
 description: Vaginal changes, urinary symptoms, and why this doesn't resolve on its own
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 Let's talk about something that doesn't get talked about enough.
 
-The changes to vaginal and urinary tissues that occur during perimenopause and beyond are among the most common symptoms—affecting about 45% of postmenopausal women—and among the most undertreated. Wrapped in silence. Wrapped in stigma. When they shouldn't be wrapped in anything but honest conversation and effective treatment.
+The changes to vaginal and urinary tissues that occur during perimenopause and beyond are among the most common symptoms—<Cite id="viva-survey-2012" tooltip="Nappi RE, Kokot-Kierepa M. Vaginal Health: Insights, Views and Attitudes (VIVA) Survey. Climacteric. 2012;15(Suppl 1):36-44.">affecting about 45% of postmenopausal women</Cite>—and among the most undertreated. Wrapped in silence. Wrapped in stigma. When they shouldn't be wrapped in anything but honest conversation and effective treatment.
 
 ## What Happens
 
@@ -22,7 +26,7 @@ This constellation of symptoms has a clinical name: Genitourinary Syndrome of Me
 
 ## Why This Is Different
 
-Here's something crucial to understand: **unlike [hot flashes](/symptoms/hot-flashes), these symptoms typically don't improve on their own.**
+Here's something crucial to understand: <Cite id="gsm-progressive" tooltip="Portman DJ, Gass ML. Genitourinary Syndrome of Menopause: New Terminology for Vulvovaginal Atrophy. Menopause. 2014;21(10):1063-1068.">**unlike [hot flashes](/symptoms/hot-flashes), these symptoms typically don't improve on their own.**</Cite>
 
 Hot flashes, for many women, eventually ease as the body adapts to stable postmenopausal hormone levels. Urogenital symptoms tend to do the opposite—they progressively worsen without intervention. The tissues become thinner and less resilient over time, not more.
 

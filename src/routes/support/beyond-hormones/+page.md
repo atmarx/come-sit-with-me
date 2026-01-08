@@ -3,6 +3,10 @@ title: Beyond Hormones
 description: Non-hormonal options—NK3 receptor antagonists, SSRIs, SNRIs, and other pharmaceutical approaches
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 [Hormone therapy](/support/hormone-therapy) isn't right for everyone. Some women can't take it for medical reasons. Some don't want to. Some have tried it and found it didn't work for them. And some simply want to know what else exists.
 
 The good news: there are real alternatives. Some are genuinely new—breakthroughs that didn't exist a few years ago. Others have been around longer but are worth knowing about.
@@ -17,23 +21,31 @@ These drugs don't provide estrogen. They don't affect your hormone levels at all
 
 **FDA approved May 2023**
 
+<Cite id="fezolinetant-skylight" tooltip="Johnson KA, et al. Efficacy and Safety of Fezolinetant in Moderate to Severe Vasomotor Symptoms Associated With Menopause: A Phase 3 RCT. Journal of Clinical Endocrinology & Metabolism. 2023;108(8):1981-1997.">
+
 - First NK3 receptor antagonist approved for hot flashes
 - About 60% reduction in hot flash frequency
 - Works directly on the thermoregulatory neurons
 - 45mg once daily
 - **Important:** Requires liver enzyme monitoring (check before starting and periodically)
 
+</Cite>
+
 For women who can't or won't take hormones but have significant hot flashes, this was the first genuinely new option in decades.
 
 ### Elinzanetant
 
-**FDA approved October 2025**
+<Cite id="elinzanetant-approval-2024" tooltip="FDA News Release. FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause. December 2024.">**FDA approved December 2024**</Cite>
+
+<Cite id="elinzanetant-oasis" tooltip="Depypere H, et al. Efficacy and Safety of Elinzanetant, a Selective Neurokinin Receptor Antagonist for Vasomotor Symptoms. Menopause. 2024;31(1):9-18.">
 
 - Dual NK1/NK3 receptor antagonist—blocks two pathways
 - About 74% reduction in moderate-severe hot flashes by week 12
 - May also help [sleep](/symptoms/sleep-wont-come) and possibly [mood](/symptoms/mood) (it affects substance P, which is involved in pain and stress)
 - Can cause drowsiness—which is a feature if you have insomnia
 - Daily dosing
+
+</Cite>
 
 ### What's Coming
 
@@ -45,11 +57,15 @@ Some antidepressants—SSRIs and SNRIs—reduce hot flash frequency through mech
 
 ### Paroxetine (Brisdelle)
 
+<Cite id="nams-nonhormone-2023" tooltip="The Menopause Society. 2023 Nonhormone Therapy Position Statement. Menopause. 2023;30(6):573-590.">
+
 - The only SSRI FDA-approved specifically for hot flashes
 - Low dose (7.5mg)—lower than antidepressant doses
 - Modest effect—roughly 30-40% reduction in hot flashes
 - Side effects can include nausea, headache, sexual dysfunction
 - **Important:** Do not use with tamoxifen (drug interaction)
+
+</Cite>
 
 ### Venlafaxine (Effexor)
 

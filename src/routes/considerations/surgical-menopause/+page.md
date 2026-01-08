@@ -3,6 +3,10 @@ title: Surgical and Premature Menopause
 description: When menopause comes suddenly or early—unique challenges and approaches
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 Natural perimenopause, for all its chaos, is a gradual transition. Your body has time—years, usually—to adapt to changing hormone levels. The shift happens in waves, with good days mixed among the hard ones.
 
 Surgical menopause is different. When your ovaries are removed (oophorectomy), estrogen and progesterone don't gradually decline—they plummet. Overnight. Without warning or adjustment period.
@@ -25,7 +29,7 @@ Estrogen does more than prevent hot flashes. Extended time without it increases 
 
 - **Cardiovascular disease** — Estrogen protects blood vessel function; early loss of estrogen increases heart disease risk
 - **Osteoporosis** — Bone loss accelerates without estrogen; earlier menopause means more years of accelerated loss
-- **Cognitive changes** — Research suggests early surgical menopause may increase dementia risk if estrogen isn't replaced
+- **Cognitive changes** — <Cite id="surgical-menopause-symptoms" tooltip="Rocca WA, et al. Oophorectomy, Menopause, Estrogen, and Cognitive Aging: The Timing Hypothesis. Neurodegenerative Diseases. 2010;7(1-3):163-166.">Research suggests early surgical menopause may increase dementia risk if estrogen isn't replaced</Cite>
 - **[Genitourinary symptoms](/symptoms/dryness)** — These begin earlier and continue longer
 
 These risks are why hormone therapy is particularly important to consider for surgical and premature menopause—not just for symptom relief, but for long-term health protection.

@@ -3,6 +3,10 @@ title: Brain Fog & Memory
 description: When words escape you and thoughts scatter—what's happening and why it usually passes
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 The word is right there. You can almost see it. You've used it a thousand times. And it simply... won't come.
 
 Or you walk into a room and forget why. Or you lose your train of thought mid-sentence. Or you read the same paragraph three times and still can't retain it.
@@ -13,7 +17,7 @@ Let me tell you what's actually happening.
 
 ## This Is Real
 
-A 2024 analysis of over 9,500 women confirmed what you already know: perimenopausal women perform measurably worse on memory, concentration, and attention assessments compared to their premenopausal selves.
+<Cite id="cognition-perimenopause-meta" tooltip="Kilpi F, et al. Cognitive Functioning in Perimenopause: An Updated Systematic Review and Meta-Analysis. Maturitas. 2024.">A 2024 meta-analysis confirmed what you already know: perimenopausal women perform measurably worse on memory, concentration, and attention assessments compared to their premenopausal selves.</Cite>
 
 What's most affected:
 - **Verbal learning**—taking in new information through words

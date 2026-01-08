@@ -3,6 +3,10 @@ title: Skin & Hair Changes
 description: Itching, dryness, thinning skin, and the changes you might not have expected
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 Nobody warned you about the itching.
 
 Skin changes during perimenopause are real, common, and often dismissed as cosmetic concerns—when they're nothing of the sort. Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
@@ -38,7 +42,7 @@ Products that worked for decades may suddenly not be enough.
 
 ## Skin Thinning
 
-Collagen production decreases with declining estrogen. Studies suggest women lose approximately 30% of skin collagen in the first 5 years after menopause.
+Collagen production decreases with declining estrogen. <Cite id="brincat-collagen-1987" tooltip="Brincat M, et al. A Study of the Decrease of Skin Collagen Content, Skin Thickness, and Bone Mass in the Postmenopausal Woman. Obstetrics & Gynecology. 1987;70(6):840-845.">Studies suggest women lose approximately 30% of skin collagen in the first 5 years after menopause.</Cite>
 
 What this means:
 - Skin becomes thinner and more fragile

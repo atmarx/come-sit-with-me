@@ -3,13 +3,17 @@ title: Neurodivergence and Perimenopause
 description: How autistic women and others with sensory processing differences may experience perimenopause differently
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 If you're autistic, have ADHD, or experience the world through different sensory and cognitive wiring, perimenopause may hit differently than the mainstream descriptions suggest.
 
 The research is only beginning to catch up to what neurodivergent women have been saying for years: this transition can be particularly challenging when your nervous system already processes sensation and emotion intensely.
 
 ## What the Research Is Starting to Show
 
-A 2024 Swansea University study—one of the first to specifically examine this intersection—found that autistic individuals often experience:
+<Cite id="autism-menopause" tooltip="Moseley RL, et al. Autistic Women's Experiences of the Menopause and Perimenopause. Autism. 2024;28(1):254-272.">A 2024 study—one of the first to specifically examine this intersection—found that autistic individuals often experience:</Cite>
 
 - **More severe menopause symptoms overall**
 - **Intensified sensory experiences** of physical symptoms
