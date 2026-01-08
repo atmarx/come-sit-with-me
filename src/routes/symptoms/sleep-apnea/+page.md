@@ -3,6 +3,10 @@ title: Sleep Apnea
 description: The sleep disorder that dramatically increases after menopause—and often goes undiagnosed
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 You're exhausted. You're not [sleeping well](/symptoms/sleep-wont-come). You assume it's the [hot flashes](/symptoms/hot-flashes), the [racing thoughts](/symptoms/mood), the general chaos of perimenopause.
 
 But there's another possibility that often goes unrecognized: sleep apnea.
@@ -13,9 +17,13 @@ Before menopause, women have significantly lower rates of sleep apnea than men. 
 
 The statistics are striking:
 
+<Cite id="sleep-apnea-menopause-prevalence" tooltip="Young T, et al. Menopausal Status and Sleep-Disordered Breathing in the Wisconsin Sleep Cohort Study. American Journal of Respiratory and Critical Care Medicine. 2003;167(9):1181-1185.">
+
 - Sleep apnea is **4.5 times more prevalent** in postmenopausal women than in premenopausal women
 - The Wisconsin Sleep Cohort found a **2.6-fold increased risk** of sleep apnea in postmenopausal versus premenopausal women
 - Surgical menopause carries even higher risk than natural menopause
+
+</Cite>
 
 This isn't a small increase. This is a fundamental shift in risk profile that coincides with the menopausal transition.
 

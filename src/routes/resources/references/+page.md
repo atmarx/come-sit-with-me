@@ -130,6 +130,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Freeman EW, Sherif K.** ["Prevalence of Hot Flushes and Night Sweats Around the World: A Systematic Review."](https://doi.org/10.1080/13697130601181486) *Climacteric.* 2007;10(3):197-214.
 
+<a aria-hidden="true" id="vms-impact-survey"></a>
+
+**Brown JN, et al.** ["Association of Menopausal Vasomotor Symptom Severity with Sleep and Work Impairments: A US Survey."](https://doi.org/10.1097/GME.0000000000002232) *Menopause.* 2023;30(9):897-904.
+*Key finding: 90.8% of women reported VMS affects sleep; 83.1% reported sleep-related changes in productivity. For severe VMS, 97.7% reported sleep impact.*
+
 ---
 
 <a aria-hidden="true" id="mood"></a>
@@ -149,6 +154,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Perich T, et al.** ["Menopause and Illness Course in Bipolar Disorder: A Systematic Review."](https://doi.org/10.1111/bdi.13064) *Bipolar Disorders.* 2021;23(1):29-41.
 
+<a aria-hidden="true" id="bipolar-first-onset"></a>
+
+**Di Florio A, et al.** ["Exploration of First Onsets of Mania, Schizophrenia Spectrum Disorders and Major Depressive Disorder in Perimenopause."](https://doi.org/10.1038/s44220-024-00292-4) *Nature Mental Health.* 2024.
+*Key finding: Women are over twice as likely (112% increase) to develop bipolar disorder for the first time during perimenopause compared to before menopause.*
+
 ---
 
 <a aria-hidden="true" id="cognition"></a>
@@ -158,6 +168,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="brain-fog-real"></a>
 
 **Maki PM, Henderson VW.** ["Cognition and the Menopause Transition."](https://doi.org/10.1097/GME.0000000000000681) *Menopause.* 2016;23(7):803-805.
+
+<a aria-hidden="true" id="cognition-perimenopause-meta"></a>
+
+**Kilpi F, et al.** ["Cognitive Functioning in Perimenopause: An Updated Systematic Review and Meta-Analysis."](https://www.researchgate.net/publication/396374868) *Maturitas.* 2024.
+*Key finding: Perimenopausal women show measurable deficits in verbal memory, processing speed, attention, and working memory compared to premenopausal women.*
 
 <a aria-hidden="true" id="weber-cognition-2014"></a>
 
@@ -183,6 +198,15 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Young T, et al.** ["Predictors of Sleep-Disordered Breathing in Community-Dwelling Adults: The Sleep Heart Health Study."](https://doi.org/10.1001/archinte.162.8.893) *Archives of Internal Medicine.* 2002;162(8):893-900.
 
+<a aria-hidden="true" id="sleep-apnea-menopause-prevalence"></a>
+
+**Young T, et al.** ["Menopausal Status and Sleep-Disordered Breathing in the Wisconsin Sleep Cohort Study."](https://doi.org/10.1164/ajrccm.167.9.1250) *American Journal of Respiratory and Critical Care Medicine.* 2003;167(9):1181-1185.
+*Key finding: Postmenopausal women have significantly higher prevalence of sleep apnea; the Wisconsin Sleep Cohort found 2.6-fold increased risk in postmenopausal vs premenopausal women.*
+
+<a aria-hidden="true" id="sleep-apnea-aha-cardiovascular"></a>
+
+**Peppard PE, et al.** ["Increased Prevalence of Sleep-Disordered Breathing in Adults."](https://doi.org/10.1093/aje/kws342) *American Journal of Epidemiology.* 2013;177(9):1006-1014.
+
 ---
 
 <a aria-hidden="true" id="weight"></a>
@@ -202,6 +226,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Lundgren JR, et al.** ["Healthy Weight Loss Maintenance with Exercise, Liraglutide, or Both Combined."](https://doi.org/10.1056/NEJMoa2028198) *New England Journal of Medicine.* 2021;384(18):1719-1730.
 
+<a aria-hidden="true" id="tirzepatide-surmount-menopause"></a>
+
+**Korytkowski MT, et al.** ["Body Weight Reduction in Women Treated with Tirzepatide by Reproductive Stage: A Post Hoc Analysis from the SURMOUNT Program."](https://pubmed.ncbi.nlm.nih.gov/40074721/) *Diabetes, Obesity & Metabolism.* 2025;27(5):2399-2407.
+*Key finding: Tirzepatide produced approximately 20-23% weight reduction regardless of whether women were pre-, peri-, or postmenopausal.*
+
 ---
 
 <a aria-hidden="true" id="pelvic"></a>
@@ -213,6 +242,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Nygaard I, et al.** ["Prevalence of Symptomatic Pelvic Floor Disorders in US Women."](https://doi.org/10.1001/jama.300.11.1311) *JAMA.* 2008;300(11):1311-1316.
 *Key finding: Nearly 1 in 4 women experience pelvic floor disorders; prevalence increases significantly with menopause.*
 
+<a aria-hidden="true" id="viva-survey-2012"></a>
+
+**Nappi RE, Kokot-Kierepa M.** ["Vaginal Health: Insights, Views and Attitudes (VIVA) Survey."](https://doi.org/10.3109/13697137.2012.688581) *Climacteric.* 2012;15(Suppl 1):36-44.
+*Key finding: 45% of postmenopausal women reported experiencing vaginal symptoms.*
+
+<a aria-hidden="true" id="gsm-progressive"></a>
+
+**Portman DJ, Gass ML.** ["Genitourinary Syndrome of Menopause: New Terminology for Vulvovaginal Atrophy."](https://doi.org/10.1097/GME.0000000000000329) *Menopause.* 2014;21(10):1063-1068.
+*Key finding: Unlike vasomotor symptoms, GSM symptoms are progressive and do not resolve without treatment.*
+
 <a aria-hidden="true" id="prolapse-prevalence"></a>
 
 **Wu JM, et al.** ["Prevalence and Trends of Symptomatic Pelvic Floor Disorders in U.S. Women."](https://doi.org/10.1097/AOG.0000000000000057) *Obstetrics & Gynecology.* 2014;123(1):141-148.
@@ -220,6 +259,17 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="vaginal-estrogen-safety"></a>
 
 **ACOG Committee Opinion No. 659.** ["The Use of Vaginal Estrogen in Women with a History of Estrogen-Dependent Breast Cancer."](https://doi.org/10.1097/AOG.0000000000001351) *Obstetrics & Gynecology.* 2016;127(3):e93-e96.
+
+---
+
+<a aria-hidden="true" id="skin"></a>
+
+## Skin Changes
+
+<a aria-hidden="true" id="brincat-collagen-1987"></a>
+
+**Brincat M, et al.** ["A Study of the Decrease of Skin Collagen Content, Skin Thickness, and Bone Mass in the Postmenopausal Woman."](https://doi.org/10.1097/00006250-198712000-00003) *Obstetrics & Gynecology.* 1987;70(6):840-845.
+*Key finding: Women lose approximately 30% of skin collagen in the first 5 years after menopause, correlating more closely with duration of estrogen deficiency than chronological age.*
 
 ---
 
@@ -370,6 +420,17 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="autism-menopause"></a>
 
 **Moseley RL, et al.** ["Autistic Women's Experiences of the Menopause and Perimenopause."](https://doi.org/10.1177/13623613231195202) *Autism.* 2024;28(1):254-272.
+
+---
+
+<a aria-hidden="true" id="medical-education"></a>
+
+## Medical Education
+
+<a aria-hidden="true" id="menopause-education-gap"></a>
+
+**Kling JM, et al.** ["Needs Assessment of Menopause Education in United States Obstetrics and Gynecology Residency Training Programs."](https://pubmed.ncbi.nlm.nih.gov/37738034/) *Menopause.* 2023;30(11):1102-1108.
+*Key finding: Only 31% of US OB/GYN residency programs have a menopause curriculum; 83.8% of program directors agree they need more menopause educational resources.*
 
 ---
 

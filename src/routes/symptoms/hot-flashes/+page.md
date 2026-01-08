@@ -9,7 +9,7 @@ description: Understanding the heat that rises without warning, and what's happe
 
 The heat rises in you like summer lightning—sudden, fierce, and then gone, leaving you flushed and wondering if anyone noticed.
 
-<Cite id="vasomotor-prevalence" tooltip="Freeman EW, Sherif K. Prevalence of Hot Flushes and Night Sweats Around the World: A Systematic Review. Climacteric. 2007;10(3):197-214.">About 75% of us experience this.</Cite> <Cite id="swan-vasomotor-duration-2015" tooltip="Avis NE, et al. Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition. JAMA Internal Medicine. 2015;175(4):531-539.">The median duration is 7 years</Cite>—though for some women, it's much longer. This isn't a minor inconvenience. It disrupts sleep (94% of women report this), concentration (84%), mood (85%), energy (77%), and yes, sexual function (61%).
+<Cite id="vasomotor-prevalence" tooltip="Freeman EW, Sherif K. Prevalence of Hot Flushes and Night Sweats Around the World: A Systematic Review. Climacteric. 2007;10(3):197-214.">About 75% of us experience this.</Cite> <Cite id="swan-vasomotor-duration-2015" tooltip="Avis NE, et al. Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition. JAMA Internal Medicine. 2015;175(4):531-539.">The median duration is 7 years</Cite>—though for some women, it's much longer. This isn't a minor inconvenience. <Cite id="vms-impact-survey" tooltip="Brown JN, et al. Association of Menopausal Vasomotor Symptom Severity with Sleep and Work Impairments: A US Survey. Menopause. 2023;30(9):897-904.">It disrupts sleep (over 90% of women report this), concentration, mood, energy, and yes, sexual function.</Cite>
 
 It's real. It's physiological. And we finally understand why it happens.
 

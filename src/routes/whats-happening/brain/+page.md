@@ -3,6 +3,10 @@ title: What Your Brain Is Doing
 description: Why your temperature regulation goes haywire, and the surprising mood-hormone connection
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 If you've ever been mid-conversation when the heat rose through you like a wave—sudden, fierce, leaving you flushed and wondering if anyone noticed—I want you to know: we finally understand why.
 
 For decades, hot flashes were dismissed as mysterious, psychosomatic, "just something that happens." But science has caught up to what your body already knew. And the answer lies in a tiny cluster of neurons deep in your brain.
@@ -40,10 +44,10 @@ Here's something else we're learning—and I'll be honest that the research is s
 We used to think depression and anxiety during perimenopause were simply due to estrogen changes. But newer studies (2024-2025) suggest that rising FSH—independent of estrogen levels—correlates with depressive symptoms.
 
 What we know:
-- Perimenopausal women have 2-3 times higher risk of depression than premenopausal women
+- <Cite id="swan-depression-2006" tooltip="Bromberger JT, et al. Depressive Symptoms During the Menopausal Transition: The Study of Women's Health Across the Nation (SWAN). Journal of Affective Disorders. 2007;103(1-3):267-272.">Perimenopausal women have 2-3 times higher risk of depression than premenopausal women</Cite>
 - The longer your perimenopause lasts, the higher your risk
 - Interestingly, a *rapid* rise in FSH may actually be protective—a shorter transition seems easier on mood
-- Women who were sensitive to hormonal mood changes before (severe PMS, postpartum depression) are at higher risk during perimenopause
+- <Cite id="anxiety-perimenopause" tooltip="Bromberger JT, Epperson CN. Depression During and After the Perimenopause: Impact of Hormones, Genetics, and Environmental Determinants of Disease. Obstetrics and Gynecology Clinics of North America. 2018;45(4):663-678.">Women who were sensitive to hormonal mood changes before (severe PMS, postpartum depression) are at higher risk during perimenopause</Cite>
 
 ### The Estradiol Variability Hypothesis
 

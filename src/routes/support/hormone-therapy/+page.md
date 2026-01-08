@@ -3,7 +3,11 @@ title: Hormone Therapy
 description: The WHI controversy, recent reassessment, timing hypothesis, and what you need to know
 ---
 
-Hormone therapy is the most effective treatment for [hot flashes](/symptoms/hot-flashes), [night sweats](/symptoms/sleep-wont-come), and many other symptoms of perimenopause and menopause. And for twenty years, many women who could have benefited from it were denied access—or scared away—because of a study that was badly misinterpreted.
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
+<Cite id="nams-position-2022" tooltip="The Menopause Society. The 2022 Hormone Therapy Position Statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.">Hormone therapy is the most effective treatment</Cite> for [hot flashes](/symptoms/hot-flashes), [night sweats](/symptoms/sleep-wont-come), and many other symptoms of perimenopause and menopause. And for twenty years, many women who could have benefited from it were denied access—or scared away—because of a study that was badly misinterpreted.
 
 Let me tell you what actually happened, and what we now know.
 
@@ -51,11 +55,11 @@ Twenty years of subsequent research, including major analyses from Nature, Yale,
 
 ### Estrogen Delivery
 
-**Transdermal (patches, gels, sprays):** Generally preferred. Lower risk of blood clots because it bypasses the liver. More stable blood levels than oral. Options include patches (Climara, Vivelle-Dot), gels (EstroGel, Divigel), and sprays (Evamist).
+**Transdermal (patches, gels, sprays):** Generally preferred. <Cite id="nams-position-2022" tooltip="The Menopause Society. The 2022 Hormone Therapy Position Statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.">Lower risk of blood clots because it bypasses the liver.</Cite> More stable blood levels than oral. Options include patches (Climara, Vivelle-Dot), gels (EstroGel, Divigel), and sprays (Evamist).
 
 **Oral pills:** Higher risk of blood clots and stroke. Affects liver proteins (including clotting factors). May work better for some women; metabolism varies.
 
-**Vaginal (local):** For [vaginal and urinary symptoms](/symptoms/dryness) specifically. Minimal systemic absorption—safe for many women who can't take systemic hormones, including many breast cancer survivors. Comes as creams, tablets, rings, or suppositories.
+**Vaginal (local):** For [vaginal and urinary symptoms](/symptoms/dryness) specifically. <Cite id="vaginal-estrogen-safety" tooltip="ACOG Committee Opinion No. 659. The Use of Vaginal Estrogen in Women with a History of Estrogen-Dependent Breast Cancer. Obstetrics & Gynecology. 2016;127(3):e93-e96.">Minimal systemic absorption—safe for many women who can't take systemic hormones, including many breast cancer survivors.</Cite> Comes as creams, tablets, rings, or suppositories.
 
 ### Progestogen (required if you have a uterus)
 

@@ -3,6 +3,10 @@ title: Pelvic Floor Changes
 description: Incontinence, prolapse, and why you can't see a trampoline without worry
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 You laugh and leak. You sneeze and leak. You see a trampoline and feel dread instead of joy.
 
 Or maybe it's different for you—a heaviness, a sense that something is *there* that shouldn't be. Or urgency so sudden you're not sure you'll make it in time.
@@ -53,7 +57,7 @@ Prolapse ranges from mild (barely noticeable) to severe. It's graded on a scale,
 
 ## How Common Is This?
 
-Pelvic floor disorders affect up to 40% of postmenopausal women. You are not alone, even though it might feel that way—because who talks about this?
+<Cite id="incontinence-prevalence" tooltip="Nygaard I, et al. Prevalence of Symptomatic Pelvic Floor Disorders in US Women. JAMA. 2008;300(11):1311-1316.">Pelvic floor disorders affect up to 40% of postmenopausal women.</Cite> You are not alone, even though it might feel that way—because who talks about this?
 
 Risk factors beyond menopause include:
 - Vaginal childbirth (especially multiple births, large babies, long labors)

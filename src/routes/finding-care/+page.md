@@ -3,7 +3,11 @@ title: Finding Care
 description: Navigating the provider gap and advocating for yourself
 ---
 
-Here's something that will make you angry: the average medical school devotes less than two hours to menopause. Two hours to prepare doctors for a transition that affects half the population and lasts years.
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
+Here's something that will make you angry: <Cite id="menopause-education-gap" tooltip="Kling JM, et al. Needs Assessment of Menopause Education in United States Obstetrics and Gynecology Residency Training Programs. Menopause. 2023;30(11):1102-1108.">the average medical school devotes less than two hours to menopause.</Cite> Two hours to prepare doctors for a transition that affects half the population and lasts years.
 
 This means most physicians—including many gynecologists—lack adequate training in perimenopause and menopause. They may not recognize symptoms. They may not know current evidence. They may default to outdated fears from the WHI era. They may dismiss you.
 
