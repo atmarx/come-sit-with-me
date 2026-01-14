@@ -28,6 +28,7 @@ export function sectionObserver(node: HTMLElement, pathname: string) {
 		hasUserScrolled = false;
 
 		timeoutId = setTimeout(() => {
+			const h1 = node.querySelector('h1');
 			const headings = node.querySelectorAll('h2[id], h3[id]');
 
 			if (headings.length === 0) {
@@ -54,6 +55,16 @@ export function sectionObserver(node: HTMLElement, pathname: string) {
 
 					if (visible.length > 0) {
 						const heading = visible[0].target as HTMLElement;
+
+						// If h1 is visible, clear the section breadcrumb
+						if (heading.tagName === 'H1') {
+							currentSection.set(null);
+							if (hasUserScrolled) {
+								history.replaceState(null, '', window.location.pathname);
+							}
+							return;
+						}
+
 						const id = heading.id;
 						const text = heading.textContent?.trim() || '';
 
@@ -71,6 +82,8 @@ export function sectionObserver(node: HTMLElement, pathname: string) {
 				}
 			);
 
+			// Observe h1 first so it takes priority when visible
+			if (h1) observer.observe(h1);
 			headings.forEach((heading) => observer!.observe(heading));
 		}, 150);
 	}
