@@ -17,7 +17,7 @@ I couldn't fix what was happening in her body, but I could try to fix the inform
 
 ## Who We Are
 
-My name is [Andrew](https://www.xram.net). My wife is [Becky]. We've grown together for twenty years, and have two (usually) wonderful boys who are just crossing their own threshold into teenagerdom.
+My name is [Andrew](https://www.xram.net). My wife is Becky. We've grown together for twenty years, and have two (usually) wonderful boys who are just crossing their own threshold into teenagerdom.
 
 This isn't our first rodeo with hormonal chaos. Postpartum was brutal—and I didn't always handle it well. I took things personally that weren't personal. I tried to logic my way through situations that needed patience and presence. I failed her in ways I still regret.
 

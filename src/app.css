@@ -42,6 +42,12 @@ html {
 	overflow-x: hidden;
 }
 
+/* Offset anchors for sticky header */
+h2[id],
+h3[id] {
+	scroll-margin-top: 5rem;
+}
+
 /* Prevent horizontal overflow on mobile */
 body {
 	overflow-x: hidden;
@@ -158,7 +164,10 @@ img, video, iframe, embed, object {
 /* Reset heading styles inside cards/links (e.g., CardGrid) */
 .prose a h2,
 .prose a h3,
-.prose a h4 {
+.prose a h4,
+.dark .prose a h2,
+.dark .prose a h3,
+.dark .prose a h4 {
 	margin: 0;
 	padding: 0;
 	background-color: transparent;
@@ -286,6 +295,18 @@ img, video, iframe, embed, object {
 
 .dark .prose h3 {
 	background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* Override: no backgrounds on headings inside links (cards) */
+.dark .prose a h2,
+.dark .prose a h3 {
+	background-color: transparent;
+}
+
+/* Reset paragraph margins inside cards */
+.prose a p,
+.dark .prose a p {
+	margin: 0;
 }
 
 /* Dark mode table row */

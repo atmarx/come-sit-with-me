@@ -4,9 +4,44 @@
 	import Header from '$lib/components/Layout/Header.svelte';
 	import NextPage from '$lib/components/Content/NextPage.svelte';
 	import PageDivider from '$lib/components/Layout/PageDivider.svelte';
+	import { sectionObserver } from '$lib/actions/sectionObserver';
+	import { beforeNavigate, afterNavigate } from '$app/navigation';
+	import { page } from '$app/stores';
+	import { currentSection } from '$lib/stores/currentSection';
+	import { onMount } from 'svelte';
 
 	let { children } = $props();
 	let mobileMenuOpen = $state(false);
+	let scrollContainer: HTMLDivElement;
+
+	// Reset section tracking on navigation
+	beforeNavigate(() => {
+		currentSection.set(null);
+	});
+
+	// Handle hash scrolling for nested scroll container
+	function scrollToHash() {
+		const hash = window.location.hash.slice(1);
+		if (hash && scrollContainer) {
+			// Small delay to ensure content is rendered
+			setTimeout(() => {
+				const target = document.getElementById(hash);
+				if (target) {
+					const headerOffset = 80;
+					const targetPosition = target.offsetTop - headerOffset;
+					scrollContainer.scrollTo({ top: targetPosition, behavior: 'instant' });
+				}
+			}, 50);
+		}
+	}
+
+	onMount(() => {
+		scrollToHash();
+	});
+
+	afterNavigate(() => {
+		scrollToHash();
+	});
 
 	function toggleMobileMenu() {
 		mobileMenuOpen = !mobileMenuOpen;
@@ -21,12 +56,10 @@
 	<meta name="description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches" />
 </svelte:head>
 
-<div class="flex min-h-screen">
+<div class="flex h-screen">
 	<!-- Desktop sidebar -->
-	<aside class="hidden w-64 shrink-0 border-r border-primary-100 bg-surface lg:block">
-		<div class="sticky top-0 h-screen">
-			<Sidebar />
-		</div>
+	<aside class="sticky top-0 hidden h-screen w-64 shrink-0 overflow-y-auto border-r border-primary-100 bg-surface lg:block">
+		<Sidebar />
 	</aside>
 
 	<!-- Mobile sidebar overlay -->
@@ -47,11 +80,11 @@
 	{/if}
 
 	<!-- Main content -->
-	<div class="flex flex-1 flex-col">
+	<div class="flex flex-1 flex-col overflow-y-auto" bind:this={scrollContainer}>
 		<Header onMenuToggle={toggleMobileMenu} />
 
 		<main class="flex-1 px-4 py-8 lg:px-8 lg:py-12">
-			<div class="mx-auto max-w-3xl">
+			<div class="mx-auto max-w-3xl" use:sectionObserver={$page.url.pathname}>
 				{@render children()}
 				<NextPage />
 			</div>

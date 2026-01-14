@@ -26,13 +26,13 @@
 
 <a
 	{href}
-	class="block rounded-xl border border-black/10 bg-surface p-6 transition-all hover:border-black/20 hover:shadow-md {span ? 'sm:col-span-2' : ''}"
+	class="not-prose block rounded-xl border border-black/10 bg-surface p-6 transition-all hover:border-black/20 hover:shadow-md {span ? 'sm:col-span-2' : ''}"
 >
 	{#if lead}
-		<p class="font-serif text-sm italic text-text-muted">{lead}</p>
+		<p class="!mb-1 font-serif text-sm italic text-text-muted">{lead}</p>
 	{/if}
-	<h3 class="font-serif text-lg font-semibold {titleColor}">{title}</h3>
-	<p class="mt-2 text-sm text-text-muted">
+	<h3 class="text-center font-serif text-lg font-semibold {titleColor}">{title}</h3>
+	<p class="!mt-5 text-sm text-text-muted">
 		{@render children()}
 	</p>
 </a>

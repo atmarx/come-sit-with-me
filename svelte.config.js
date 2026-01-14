@@ -3,6 +3,7 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import { mdsvex } from 'mdsvex';
 import { fileURLToPath } from 'url';
 import { dirname, resolve } from 'path';
+import rehypeSlug from 'rehype-slug';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -17,7 +18,8 @@ const config = {
 			extensions: ['.md'],
 			layout: {
 				_: resolve(__dirname, './src/lib/components/MdsvexLayout.svelte')
-			}
+			},
+			rehypePlugins: [rehypeSlug]
 		})
 	],
 
