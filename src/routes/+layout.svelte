@@ -38,12 +38,27 @@
 		}
 	}
 
+	// Open external links in new tab
+	function markExternalLinks() {
+		const links = document.querySelectorAll('a[href^="http"]');
+		const host = window.location.host;
+		links.forEach((link) => {
+			const anchor = link as HTMLAnchorElement;
+			if (!anchor.host.includes(host)) {
+				anchor.target = '_blank';
+				anchor.rel = 'noopener noreferrer';
+			}
+		});
+	}
+
 	onMount(() => {
 		scrollToHash();
+		markExternalLinks();
 	});
 
 	afterNavigate(() => {
 		scrollToHash();
+		markExternalLinks();
 	});
 
 	function toggleMobileMenu() {
@@ -97,7 +112,7 @@
 
 		<footer class="border-t border-primary-100 px-4 py-6 text-sm text-text-muted lg:px-8">
 			<div class="mx-auto max-w-3xl text-center">
-				<p>Last updated: January 2026 | <a href="/about" class="hover:text-primary-600">About This Project</a></p>
+				<p>Last updated: January 2026 | <a href="/about" class="hover:text-primary-600">About</a> | <a href="/terms" class="hover:text-primary-600">Terms</a></p>
 				<p class="mt-2">
 					© 2026 <a href="https://github.com/atmarx" class="hover:text-primary-600" target="_blank" rel="noopener">Andrew Marx</a> |
 					<a href="https://creativecommons.org/licenses/by-nc/4.0/" class="hover:text-primary-600" target="_blank" rel="noopener">CC BY-NC 4.0</a>
