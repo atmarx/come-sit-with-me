@@ -3,6 +3,7 @@
 	import Sidebar from '$lib/components/Layout/Sidebar.svelte';
 	import Header from '$lib/components/Layout/Header.svelte';
 	import NextPage from '$lib/components/Content/NextPage.svelte';
+	import PageDivider from '$lib/components/Layout/PageDivider.svelte';
 
 	let { children } = $props();
 	let mobileMenuOpen = $state(false);
@@ -55,6 +56,8 @@
 				<NextPage />
 			</div>
 		</main>
+
+		<PageDivider class="py-8" />
 
 		<footer class="border-t border-primary-100 px-4 py-6 text-sm text-text-muted lg:px-8">
 			<div class="mx-auto max-w-3xl text-center">
