@@ -2,6 +2,7 @@
 	import { page } from '$app/stores';
 	import { navigation, type NavItem } from '$lib/config/navigation';
 	import butterflyUrl from '$lib/assets/images/butterfly-svgrepo-com.svg';
+	import Search from './Search.svelte';
 
 	let expandedSections = $state<Set<string>>(new Set());
 
@@ -31,7 +32,7 @@
 </script>
 
 <nav class="sidebar-scroll h-full overflow-y-auto px-4 py-6">
-	<div class="mb-8">
+	<div class="mb-6">
 		<a href="/" class="block">
 			<div class="flex items-center gap-2">
 				<img src={butterflyUrl} alt="" class="h-7 w-7" aria-hidden="true" />
@@ -39,6 +40,10 @@
 			</div>
 			<p class="text-sm text-text-muted">A Perimenopause Resource</p>
 		</a>
+	</div>
+
+	<div class="mb-6">
+		<Search />
 	</div>
 
 	<ul class="space-y-1">

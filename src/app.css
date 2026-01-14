@@ -388,3 +388,8 @@ a[aria-hidden]:target + h3 {
 		background-color: transparent;
 	}
 }
+
+/* Disable interactions when search modal is open */
+.search-open main {
+	pointer-events: none;
+}
