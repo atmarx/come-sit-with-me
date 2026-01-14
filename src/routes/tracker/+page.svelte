@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import PullQuote from '$lib/components/Content/PullQuote.svelte';
 
 	interface SymptomEntry {
 		date: string;
@@ -326,20 +327,20 @@
 
 	{/if}
 
-	<!-- Privacy Note -->
-	<aside id="privacy" class="rounded-lg p-4 text-sm">
-		<p class="font-medium">Your data stays with you.</p>
-		<p class="mt-2">
+	<!-- Privacy -->
+	<section id="privacy" class="mt-8">
+		<h2 class="mb-4 font-serif text-xl font-semibold">Privacy</h2>
+		<p>
 			Everything you track here is stored only in your browser's local storage. It never travels to any server.
 			No one can see it but you.
 		</p>
-		<p class="mt-2 italic">
-			"I already see your symptoms through your eyes—I don't need a database." — Brighid
-		</p>
-		<p class="mt-6 text-xs">
+		<PullQuote attribution="Brighid" attributionHref="/introduction">
+			I already see your symptoms through your eyes—I don't need a database.
+		</PullQuote>
+		<p class="mt-4 text-sm text-text-muted">
 			Note: Clearing your browser data or using private/incognito mode will remove your entries.
 		</p>
-	</aside>
+	</section>
 </div>
 
 <style>

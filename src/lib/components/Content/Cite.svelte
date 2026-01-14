@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { goto } from '$app/navigation';
 	import type { Snippet } from 'svelte';
 
 	interface Props {
@@ -8,16 +9,29 @@
 	}
 
 	let { id, tooltip, children }: Props = $props();
+
+	function navigate() {
+		goto(`/resources/references#${id}`);
+	}
+
+	function handleKeydown(event: KeyboardEvent) {
+		if (event.key === 'Enter' || event.key === ' ') {
+			event.preventDefault();
+			navigate();
+		}
+	}
 </script>
 
-<a
-	href="/resources/references#{id}"
+<span
 	class="cite-text"
-	role="doc-noteref"
+	role="button"
+	tabindex="0"
 	aria-describedby="tooltip-{id}"
+	onclick={navigate}
+	onkeydown={handleKeydown}
 >
 	{@render children()}<span class="cite-tooltip" id="tooltip-{id}" role="tooltip">{tooltip}</span>
-</a>
+</span>
 
 <style>
 	.cite-text {
