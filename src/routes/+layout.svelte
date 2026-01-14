@@ -19,7 +19,7 @@
 		currentSection.set(null);
 	});
 
-	// Handle hash scrolling for nested scroll container
+	// Handle scroll position on navigation
 	function scrollToHash() {
 		const hash = window.location.hash.slice(1);
 		if (hash && scrollContainer) {
@@ -32,6 +32,9 @@
 					scrollContainer.scrollTo({ top: targetPosition, behavior: 'instant' });
 				}
 			}, 50);
+		} else if (scrollContainer) {
+			// No hash - scroll to top
+			scrollContainer.scrollTo({ top: 0, behavior: 'instant' });
 		}
 	}
 
