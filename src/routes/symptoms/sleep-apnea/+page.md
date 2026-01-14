@@ -17,13 +17,7 @@ Before menopause, women have significantly lower rates of sleep apnea than men. 
 
 The statistics are striking:
 
-<Cite id="sleep-apnea-menopause-prevalence" tooltip="Young T, et al. Menopausal Status and Sleep-Disordered Breathing in the Wisconsin Sleep Cohort Study. American Journal of Respiratory and Critical Care Medicine. 2003;167(9):1181-1185.">
-
-- Sleep apnea is **4.5 times more prevalent** in postmenopausal women than in premenopausal women
-- The Wisconsin Sleep Cohort found a **2.6-fold increased risk** of sleep apnea in postmenopausal versus premenopausal women
-- Surgical menopause carries even higher risk than natural menopause
-
-</Cite>
+<Cite id="sleep-apnea-menopause-prevalence" tooltip="Young T, et al. Menopausal Status and Sleep-Disordered Breathing in the Wisconsin Sleep Cohort Study. American Journal of Respiratory and Critical Care Medicine. 2003.">Sleep apnea is **4.5 times more prevalent** in postmenopausal women than in premenopausal women.</Cite> The Wisconsin Sleep Cohort found a 2.6-fold increased risk in postmenopausal versus premenopausal women. [Surgical menopause](/considerations/surgical-menopause) carries even higher risk than natural menopause.
 
 This isn't a small increase. This is a fundamental shift in risk profile that coincides with the menopausal transition.
 

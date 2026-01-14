@@ -25,14 +25,14 @@ Earlier menopause means more years of living with lower estrogen—which affects
 
 ### Symptom Differences
 
-**Vasomotor symptoms (hot flashes and night sweats):**
+**[Hot flashes and night sweats](/symptoms/hot-flashes):**
 - Black women report the **highest rates** of hot flashes and night sweats
 - Hispanic/Latina women also experience high rates
 - Asian women report lower rates
 - These differences persist even after adjusting for other factors
 
 **Duration of symptoms:**
-<Cite id="swan-race-duration-2015" tooltip="Freeman EW, et al. Duration of Menopausal Hot Flushes and Associated Risk Factors. Obstetrics & Gynecology. 2011;117(5):1095-1104.">The duration of vasomotor symptoms varies dramatically:</Cite>
+<Cite id="swan-race-duration-2015" tooltip="Freeman EW, et al. Duration of Menopausal Hot Flushes and Associated Risk Factors. Obstetrics & Gynecology. 2011.">The duration of hot flashes and night sweats varies dramatically:</Cite>
 - White women: average 6.5 years
 - Hispanic/Latina women: average 8.9 years
 - Black women: average **10 years**

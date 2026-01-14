@@ -65,7 +65,7 @@ Researchers have mapped out the stages of this transition. It's called <Cite id=
 
 **Early Perimenopause (Stage -2):** Your cycles start varying—maybe 7 or more days different from your usual. You might not notice much else yet, or you might already be feeling the shifts.
 
-**Late Perimenopause (Stage -1):** You start skipping periods—60 days or more between cycles. This is when [vasomotor symptoms](/symptoms/hot-flashes) often begin in earnest. This stage typically lasts 1-3 years.
+**Late Perimenopause (Stage -1):** You start skipping periods—60 days or more between cycles. This is when [hot flashes](/symptoms/hot-flashes) often begin in earnest. This stage typically lasts 1-3 years.
 
 **Early Postmenopause (Stage +1):** It's been 12 months since your last period. You're officially "through." But symptoms often continue—sometimes for years.
 

@@ -22,7 +22,7 @@ Estrogen has been quietly protecting your cardiovascular system for decades:
 
 As estrogen fluctuates and eventually declines, that protection changes. <Cite id="cvd-menopause" tooltip="El Khoudary SR, et al. Menopause Transition and Cardiovascular Disease Risk: Implications for Timing of Early Prevention. A Scientific Statement From the American Heart Association. Circulation. 2020;142(25):e506-e532.">After menopause, cardiovascular disease risk rises to match men's.</Cite> This doesn't mean heart disease is inevitable—it means this is a time to pay attention to heart health if you haven't been.
 
-The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular health is still being studied, but <Cite id="vms-cvd-risk" tooltip="Zhu D, et al. Vasomotor Menopausal Symptoms and Risk of Cardiovascular Disease: A Pooled Analysis of Six Prospective Studies. American Journal of Obstetrics & Gynecology. 2020;223(6):898.e1-898.e16.">there's growing evidence that frequent vasomotor symptoms may be a marker for cardiovascular risk.</Cite> Another reason to take these symptoms seriously.
+The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular health is still being studied, but <Cite id="vms-cvd-risk" tooltip="Zhu D, et al. Vasomotor Menopausal Symptoms and Risk of Cardiovascular Disease: A Pooled Analysis of Six Prospective Studies. American Journal of Obstetrics & Gynecology. 2020.">there's growing evidence that frequent hot flashes and night sweats may be markers for cardiovascular risk.</Cite> Another reason to take these symptoms seriously.
 
 ## Your Bones
 
@@ -71,7 +71,7 @@ This isn't vanity—skin is your largest organ, and its changes reflect what's h
 
 Vaginal and urinary tissues are particularly estrogen-sensitive. Changes here—[dryness](/symptoms/dryness), irritation, increased urinary frequency or urgency, more frequent UTIs—are among the most common and persistent symptoms of menopause.
 
-Unlike hot flashes, which often improve over time, urogenital symptoms typically persist or worsen without intervention. They're also among the most treatable. Local estrogen, which stays in the vaginal tissue and doesn't significantly raise blood levels, is safe for most women including many who can't take systemic hormones.
+Unlike [hot flashes](/symptoms/hot-flashes), which often improve over time, urogenital symptoms typically persist or worsen without intervention. They're also among the most treatable. Local estrogen, which stays in the vaginal tissue and doesn't significantly raise blood levels, is safe for most women including many who can't take systemic hormones.
 
 ## The Bigger Picture
 

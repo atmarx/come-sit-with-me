@@ -496,8 +496,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 <a aria-hidden="true" id="menopause-education-gap"></a>
 
+**Kling JM, et al.** ["Menopause Management Knowledge in Postgraduate Family Medicine, Internal Medicine and Obstetrics and Gynecology Residents: A Cross-Sectional Survey."](https://doi.org/10.1016/j.mayocp.2018.08.033) *Mayo Clinic Proceedings.* 2019;94(2):242-253.
+*Key finding: 20.3% of residents had no menopause lectures; fewer than 7% felt adequately prepared to manage menopause.*
+
 **Kling JM, et al.** ["Needs Assessment of Menopause Education in United States Obstetrics and Gynecology Residency Training Programs."](https://pubmed.ncbi.nlm.nih.gov/37738034/) *Menopause.* 2023;30(11):1102-1108.
 *Key finding: Only 31% of US OB/GYN residency programs have a menopause curriculum; 83.8% of program directors agree they need more menopause educational resources.*
+
+<a aria-hidden="true" id="menopause-education-scoping"></a>
+
+**Macpherson BE, Quinton ND.** ["Menopause and Healthcare Professional Education: A Scoping Review."](https://doi.org/10.1016/j.maturitas.2022.08.009) *Maturitas.* 2022;166:89-95.
+*Key finding: Over 90% of trainees feel unprepared to manage menopause; urgent need for menopause to be included in mainstream medical curricula.*
 
 ---
 
