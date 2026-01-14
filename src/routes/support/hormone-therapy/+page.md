@@ -7,7 +7,8 @@ description: The WHI controversy, recent reassessment, timing hypothesis, and wh
 	import Cite from '$lib/components/Content/Cite.svelte';
 </script>
 
-<Cite id="nams-position-2022" tooltip="The Menopause Society. The 2022 Hormone Therapy Position Statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.">Hormone therapy is the most effective treatment</Cite> for [hot flashes](/symptoms/hot-flashes), [night sweats](/symptoms/sleep-wont-come), and many other symptoms of perimenopause and menopause. And for twenty years, many women who could have benefited from it were denied access—or scared away—because of a study that was badly misinterpreted.
+<Cite id="nams-position-2022" tooltip="The Menopause Society. The 2022 Hormone Therapy Position Statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.">Hormone therapy is the most effective treatment</Cite>
+for [hot flashes](/symptoms/hot-flashes), [night sweats](/symptoms/sleep-wont-come), and many other symptoms of perimenopause and menopause. And for twenty years, many women who could have benefited from it were denied access—or scared away—because of a study that was badly misinterpreted.
 
 Let me tell you what actually happened, and what we now know.
 
