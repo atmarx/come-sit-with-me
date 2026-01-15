@@ -72,6 +72,22 @@
 
 <svelte:head>
 	<meta name="description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches" />
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://comesitwithme.org{$page.url.pathname}" />
+	<meta property="og:title" content="Come Sit With Me — A Perimenopause Resource" />
+	<meta property="og:description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches. Free, ad-free, and crafted with love." />
+	<meta property="og:image" content="https://comesitwithme.org/images/og-share.webp" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:url" content="https://comesitwithme.org{$page.url.pathname}" />
+	<meta name="twitter:title" content="Come Sit With Me — A Perimenopause Resource" />
+	<meta name="twitter:description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches. Free, ad-free, and crafted with love." />
+	<meta name="twitter:image" content="https://comesitwithme.org/images/og-share.webp" />
 </svelte:head>
 
 <div class="flex h-screen">
@@ -112,7 +128,8 @@
 
 		<footer class="border-t border-primary-100 px-4 py-6 text-sm text-text-muted lg:px-8">
 			<div class="mx-auto max-w-3xl text-center">
-				<p>Last updated: January 2026 | <a href="/about" class="hover:text-primary-600">About</a> | <a href="/terms" class="hover:text-primary-600">Terms</a></p>
+				<p class="font-serif text-base text-text/80">Evidence-based. Experience-informed. Crafted with love.</p>
+				<p class="mt-3">Last updated: January 2026 | <a href="/about" class="hover:text-primary-600">About</a> | <a href="/terms" class="hover:text-primary-600">Terms</a></p>
 				<p class="mt-2">
 					© 2026 <a href="https://github.com/atmarx" class="hover:text-primary-600" target="_blank" rel="noopener">Andrew Marx</a> |
 					<a href="https://creativecommons.org/licenses/by-nc/4.0/" class="hover:text-primary-600" target="_blank" rel="noopener">CC BY-NC 4.0</a>

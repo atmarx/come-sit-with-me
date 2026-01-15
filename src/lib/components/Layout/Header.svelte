@@ -2,6 +2,7 @@
 	import { page } from '$app/stores';
 	import { navigation } from '$lib/config/navigation';
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
+	import ShareModal from '$lib/components/Layout/ShareModal.svelte';
 	import butterflyUrl from '$lib/assets/images/butterfly-svgrepo-com.svg';
 	import { currentSection } from '$lib/stores/currentSection';
 
@@ -39,18 +40,18 @@
 </script>
 
 <header class="sticky top-0 z-10 border-b border-primary-100 bg-cream/95 backdrop-blur-sm">
-	<div class="flex h-14 items-center gap-4 px-4 lg:px-8">
+	<div class="flex h-14 items-center gap-1 px-2 sm:gap-4 sm:px-4 lg:px-8">
 		<!-- Mobile menu button -->
-		<button onclick={onMenuToggle} class="rounded-lg p-2 hover:bg-primary-50 lg:hidden" aria-label="Toggle menu">
+		<button onclick={onMenuToggle} class="rounded-lg p-1.5 hover:bg-primary-50 sm:p-2 lg:hidden" aria-label="Toggle menu">
 			<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
 			</svg>
 		</button>
 
 		<!-- Mobile branding -->
-		<a href="/" class="-ml-2 flex items-center gap-2 lg:hidden">
+		<a href="/" class="flex items-center gap-1.5 sm:gap-2 lg:hidden">
 			<img src={butterflyUrl} alt="" class="h-4 w-4" aria-hidden="true" />
-			<span class="text-xs font-medium text-primary-700">A Perimenopause Resource</span>
+			<span class="whitespace-nowrap text-xs font-medium text-primary-700">A Perimenopause Resource</span>
 		</a>
 
 		<!-- Breadcrumbs (desktop only) -->
@@ -76,6 +77,9 @@
 
 		<!-- Spacer -->
 		<div class="flex-1"></div>
+
+		<!-- Share button -->
+		<ShareModal />
 
 		<!-- Theme toggle -->
 		<ThemeToggle />

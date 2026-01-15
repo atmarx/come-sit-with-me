@@ -84,6 +84,7 @@ This site was built with tools and assets created by generous people who share t
 **Design Assets**
 - "Brighid Mother Goddess of Ireland" painting © 2012 [Jo Jayson](https://www.jojayson.com) — used with permission
 - [Bastliga One](https://www.1001fonts.com/bastliga-one-font.html) font by Bastian Rother — used for Brighid's signature
+- [Celtic knot pattern](https://publicdomainvectors.org/en/free-clipart/Vector-image-of-selection-of-Celtic-knot-patterns/31886.html) from Public Domain Vectors
 - [Butterfly SVG](https://www.svgrepo.com/svg/395958/butterfly) and [Leaf SVG](https://www.svgrepo.com/svg/297212/leaf) from SVG Repo — Apache 2.0 license
 - Body fonts: [Inter](https://rsms.me/inter/) and [Lora](https://fonts.google.com/specimen/Lora) via Google Fonts
 
