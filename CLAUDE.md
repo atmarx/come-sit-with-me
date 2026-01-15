@@ -4,6 +4,8 @@ This is a perimenopause guide—a free, evidence-based resource created by a cou
 
 ## Project Overview
 
+**Production URL:** https://comesitwith.me (NOT comesitwithme.org)
+
 **Tech Stack:** SvelteKit 2 + Svelte 5, Tailwind CSS 4, mdsvex (Markdown with Svelte components), static adapter for GitHub Pages deployment.
 
 **Content Model:** 38 markdown pages organized into sections:

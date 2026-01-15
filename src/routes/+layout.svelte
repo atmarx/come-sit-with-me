@@ -75,19 +75,19 @@
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://comesitwithme.org{$page.url.pathname}" />
+	<meta property="og:url" content="https://comesitwith.me{$page.url.pathname}" />
 	<meta property="og:title" content="Come Sit With Me — A Perimenopause Resource" />
 	<meta property="og:description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches. Free, ad-free, and crafted with love." />
-	<meta property="og:image" content="https://comesitwithme.org/images/og-share.webp" />
+	<meta property="og:image" content="https://comesitwith.me/images/og-share.webp" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="630" />
 
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:url" content="https://comesitwithme.org{$page.url.pathname}" />
+	<meta name="twitter:url" content="https://comesitwith.me{$page.url.pathname}" />
 	<meta name="twitter:title" content="Come Sit With Me — A Perimenopause Resource" />
 	<meta name="twitter:description" content="Evidence-based perimenopause resource integrating conventional and complementary approaches. Free, ad-free, and crafted with love." />
-	<meta name="twitter:image" content="https://comesitwithme.org/images/og-share.webp" />
+	<meta name="twitter:image" content="https://comesitwith.me/images/og-share.webp" />
 </svelte:head>
 
 <div class="flex h-screen">

@@ -9,7 +9,7 @@
 	// Portal elements
 	let portalContainer: HTMLElement | null = null;
 
-	const siteUrl = 'https://comesitwithme.org';
+	const siteUrl = 'https://comesitwith.me';
 	const siteTitle = 'Come Sit With Me — A Perimenopause Resource';
 	const siteDescription = 'Evidence-based perimenopause resource integrating conventional and complementary approaches.';
 
