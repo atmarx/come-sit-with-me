@@ -1,6 +1,8 @@
 ---
 title: Hormone Therapy
 description: The WHI controversy, recent reassessment, timing hypothesis, and what you need to know
+hero: /images/heroes/hormone-therapy.webp
+heroAlt: Old apothecary balance scale with brass dishes in soft gold tones
 ---
 
 <script>

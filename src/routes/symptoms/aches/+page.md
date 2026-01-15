@@ -1,6 +1,8 @@
 ---
 title: Aches & Joint Pain
 description: Feeling old in your body—and why it's not just aging
+hero: /images/heroes/aches.webp
+heroAlt: Smooth river stones in shallow water with warm morning light
 ---
 
 "I feel old in my joints."

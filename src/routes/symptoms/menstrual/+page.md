@@ -1,6 +1,8 @@
 ---
 title: Menstrual Changes
 description: How periods change during perimenopause—from shorter cycles to longer gaps
+hero: /images/heroes/menstrual.webp
+heroAlt: Moon phases in soft watercolor, silvers and soft purples
 ---
 
 Your period has been your companion for decades—sometimes unwelcome, often inconvenient, but predictable. Now it's doing something new.

@@ -1,6 +1,8 @@
 ---
 title: Skin & Hair Changes
 description: Itching, dryness, thinning skin, and the changes you might not have expected
+hero: /images/heroes/skin.webp
+heroAlt: Botanical leaves in various stages from spring green to autumn gold
 ---
 
 <script>

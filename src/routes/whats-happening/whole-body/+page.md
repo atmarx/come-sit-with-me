@@ -1,6 +1,8 @@
 ---
 title: Your Whole Body
 description: How perimenopause affects your heart, bones, metabolism, eyes, skin—everything
+hero: /images/heroes/whole-body.webp
+heroAlt: Concentric ripples expanding outward in still water
 ---
 
 <script>

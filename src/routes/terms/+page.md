@@ -1,6 +1,7 @@
 ---
 title: Terms & Conditions
 description: Legal stuff, but the kind that protects both of us
+hero: /images/heroes/terms.webp
 ---
 
 We tried to make this guide feel like a conversation with a wise friend—but even wise friends need to be clear about what they can and can't offer. This page covers the legal realities of sharing health information on the internet.

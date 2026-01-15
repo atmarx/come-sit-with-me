@@ -1,6 +1,7 @@
 ---
 title: Herbal & Traditional Approaches
 description: Plant medicines, traditional systems, and what women have done across cultures and centuries
+hero: /images/heroes/herbal-traditional.webp
 ---
 
 <script>

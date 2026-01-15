@@ -18,6 +18,26 @@ All images should be **1200x400px** (3:1 aspect ratio), saved as **WebP** format
 
 ---
 
+## Section Overviews
+
+### What's Actually Happening - Overview (`/whats-happening/`)
+**File:** `static/images/heroes/whats-happening.webp`
+> Butterfly emerging from chrysalis, wings still unfurling, soft morning light catching iridescent edges, transformation in progress not completion, warm golds and soft greens
+
+### Symptoms - Overview (`/symptoms/`)
+**File:** `static/images/heroes/symptoms.webp`
+> Multiple streams converging into a single river from above, aerial view of water patterns, each tributary distinct but part of whole, soft blues and earth tones
+
+### Support & Options - Overview (`/support/`)
+**File:** `static/images/heroes/support.webp`
+> Garden shed doorway with morning light streaming in, glimpse of various tools and clay pots inside, herbs hanging to dry, inviting and practical, warm browns and sage greens
+
+### Special Considerations - Overview (`/considerations/`)
+**File:** `static/images/heroes/considerations.webp`
+> Forked path in gentle woodland, soft light filtering through canopy equally on all directions, no single "right way" suggested, mossy stones and ferns, peaceful crossroads
+
+---
+
 ## What's Actually Happening
 
 ### Hormonal Landscape (`/whats-happening/hormonal-landscape`)
@@ -166,6 +186,13 @@ All images should be **1200x400px** (3:1 aspect ratio), saved as **WebP** format
 
 ## Image Checklist
 
+### Section Overviews
+- [ ] whats-happening.webp
+- [ ] symptoms.webp
+- [ ] support.webp
+- [ ] considerations.webp
+
+### Content Pages
 - [ ] about.webp
 - [ ] hormonal-landscape.webp
 - [ ] brain.webp

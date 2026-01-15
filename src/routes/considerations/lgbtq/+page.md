@@ -1,6 +1,7 @@
 ---
 title: LGBTQ+ Considerations
 description: Navigating perimenopause across the spectrum of gender and sexuality
+hero: /images/heroes/lgbtq.webp
 ---
 
 <script>

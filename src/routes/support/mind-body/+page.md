@@ -1,6 +1,8 @@
 ---
 title: Mind-Body Practices
 description: What the evidence says about hypnotherapy, CBT, yoga, acupuncture, and integrative approaches
+hero: /images/heroes/mind-body.webp
+heroAlt: Zen garden with raked sand circles and smooth stone at center
 ---
 
 The connection between mind and body isn't mystical—it's biological. Your thoughts, beliefs, and practices affect your physiology. Stress hormones affect symptoms. Relaxation responses affect symptoms. This isn't woo; it's measurable.

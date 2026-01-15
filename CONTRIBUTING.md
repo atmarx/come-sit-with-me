@@ -148,6 +148,24 @@ When citing a new source:
 - Traditional knowledge gets respect, not dismissal—but also not false equivalence with clinical trials
 - Cite the specific claim, not general knowledge (wrap just the sentence or phrase that needs attribution)
 
+### mdsvex Quirk: Markdown in Component Paragraphs
+
+When a `<Cite>` (or any Svelte component) appears in the same paragraph as markdown links, **the markdown won't be processed**. This is an mdsvex limitation—it treats soft line breaks as same-paragraph content.
+
+**This won't work** (markdown links stay raw):
+```markdown
+<Cite id="..." tooltip="...">Cited text here.</Cite>
+Rest of sentence with [a link](/somewhere).
+```
+
+**Do this instead** (use HTML links):
+```markdown
+<Cite id="..." tooltip="...">Cited text here.</Cite>
+Rest of sentence with <a href="/somewhere">a link</a>.
+```
+
+A blank line would separate paragraphs (not what you want for flowing prose), so HTML `<a>` tags are the solution when links must coexist with components in the same paragraph.
+
 ## Writing Checklist
 
 Before contributing content, ask:

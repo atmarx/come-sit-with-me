@@ -1,6 +1,7 @@
 ---
 title: What's Actually Happening
 description: The hormonal landscape, what your brain is doing, and how your whole body is affected
+hero: /images/heroes/whats-happening.webp
 ---
 
 <script>

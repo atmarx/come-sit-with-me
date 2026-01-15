@@ -1,6 +1,8 @@
 ---
 title: The Emotional Journey
 description: Identity, grief, and finding yourself on the other side of transformation
+hero: /images/heroes/emotional-journey.webp
+heroAlt: Mountain ridge at threshold between dusk and dawn
 ---
 
 This page is different from the others. It's not about mechanisms or treatments. It's about the experience of moving through a passage that changes you—sometimes in ways you didn't expect and didn't choose.

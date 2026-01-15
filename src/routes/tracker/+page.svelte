@@ -174,14 +174,23 @@
 	/>
 </svelte:head>
 
-<div class="mx-auto max-w-2xl">
-	<div class="mb-8 rounded-2xl bg-black/5 px-8 py-12 dark:bg-white/5">
-		<h1 class="font-serif text-3xl font-bold md:text-4xl">Symptom Tracker</h1>
-		<p class="mt-4 text-text-muted">
-			Track patterns. Bring data to appointments. <a href="#privacy">All stored locally on your device</a>.
+<!-- Hero -->
+<div class="hero-full-bleed relative mb-8 overflow-hidden md:rounded-b-2xl">
+	<img
+		src="/images/heroes/tracker.webp"
+		alt="Naturalist's field journal with botanical sketches, handwritten observations, and pressed flowers"
+		class="h-auto w-full"
+		loading="eager"
+	/>
+	<div class="absolute inset-x-0 bottom-0 sm:bottom-0 md:bottom-20 px-8 py-6 bg-white/50 dark:bg-black/50">
+		<h1 class="text-shadow-hero font-serif text-3xl font-bold text-text [text-wrap:balance] md:text-5xl">Symptom Tracker</h1>
+		<p class="text-shadow-hero mt-3 text-right text-l md:text-xl [text-wrap:balance] text-black/80 dark:text-white/80">
+			Track patterns. Bring data to appointments. <a href="#privacy" class="underline">All stored locally</a>.
 		</p>
 	</div>
+</div>
 
+<div class="mx-auto max-w-2xl">
 	{#if !mounted}
 		<div class="py-12 text-center text-text-muted">Loading...</div>
 	{:else}

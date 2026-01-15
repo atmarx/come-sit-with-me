@@ -1,6 +1,8 @@
 ---
 title: Race, Ethnicity & Healthcare
 description: How the menopause experience differs—and how the system fails women of color
+hero: /images/heroes/race-ethnicity.webp
+heroAlt: Woven tapestry with threads in varied earth tones intertwining
 ---
 
 <script>

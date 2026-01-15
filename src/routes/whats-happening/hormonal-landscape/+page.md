@@ -1,6 +1,8 @@
 ---
 title: The Hormonal Landscape
 description: Understanding estradiol, progesterone, FSH, and the complex hormonal changes of perimenopause
+hero: /images/heroes/hormonal-landscape.webp
+heroAlt: Abstract flowing rivers interweaving in warm coral and sage tones
 ---
 
 <script>

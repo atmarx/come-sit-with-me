@@ -1,6 +1,6 @@
 # Claude Notes
 
-This is a perimenopause guide—a free, evidence-based resource created by a couple navigating this transition together. The voice is "Brighid," a wise grandmother archetype. See [CONTRIBUTING.md](CONTRIBUTING.md) for full editorial guidelines.
+This is a perimenopause guide—a free, evidence-based resource created by a couple navigating this transition together. The voice is "Brighid," a wise goddess grandmother archetype. See [CONTRIBUTING.md](CONTRIBUTING.md) for full editorial guidelines.
 
 ## Project Overview
 
@@ -51,6 +51,7 @@ Citations use a **centralized reference model**:
 - **Do not build** — the user runs `npm run dev` with live reloading
 - Node/npm may not be available in shell, but changes can be verified via dev server
 - Static site generates to `/build` on deploy
+- **Flatpak sandbox:** VSCodium runs in a Flatpak container. To run commands outside the sandbox (e.g., `magick`, system tools), use `flatpak-spawn --host <command>`
 
 ## Content Guidelines (Quick Reference)
 
@@ -60,6 +61,18 @@ Citations use a **centralized reference model**:
 - Both/and thinking: traditional knowledge AND modern research
 - Validate without patronizing; no toxic positivity
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for full voice guidelines
+
+## Image Assets
+
+Source images for import are in `./assets/`:
+- **Hero images:** `./assets/heros/` → convert with `cwebp -q 80 input.png -o static/images/heroes/output.webp`
+- **Other images:** `./assets/images/` → convert to `static/images/`
+
+Hero images use frontmatter in markdown pages:
+```yaml
+hero: /images/heroes/page-name.webp
+heroAlt: Description of the image
+```
 
 ## Adding Content
 

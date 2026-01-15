@@ -1,6 +1,7 @@
 ---
 title: For Partners
 description: Understanding, supporting, and staying connected during the perimenopausal transition
+hero: /images/heroes/for-partners.webp
 ---
 
 If you're here, you're trying. That matters.

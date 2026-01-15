@@ -1,6 +1,8 @@
 ---
 title: Come Sit With Me
 description: A resource for women crossing the threshold—and those who love them.
+hero: /images/heroes/home.webp
+heroAlt: A garden bench with a shawl draped over it, tea steaming on a side table, roses blooming nearby
 ---
 
 <script>

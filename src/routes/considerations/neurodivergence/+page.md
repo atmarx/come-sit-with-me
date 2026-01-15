@@ -1,6 +1,7 @@
 ---
 title: Neurodivergence and Perimenopause
 description: How autistic women and others with sensory processing differences may experience perimenopause differently
+hero: /images/heroes/neurodivergence.webp
 ---
 
 <script>

@@ -1,6 +1,8 @@
 ---
 title: Hot Flashes & Night Sweats
 description: Understanding the heat that rises without warning, and what's happening in your brain
+hero: /images/heroes/hot-flashes.webp
+heroAlt: Steam rising from hot springs pool in morning light
 ---
 
 <script>

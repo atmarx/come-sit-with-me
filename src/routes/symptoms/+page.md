@@ -1,6 +1,7 @@
 ---
 title: Symptoms
 description: Understanding what's happening in your body—hot flashes, sleep, mood, brain fog, desire, skin, aches, and more
+hero: /images/heroes/symptoms.webp
 ---
 
 <script>

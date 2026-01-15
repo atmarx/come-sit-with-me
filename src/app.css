@@ -1,5 +1,8 @@
 @import 'tailwindcss';
 
+/* Use class-based dark mode to match our .dark class toggles */
+@variant dark (&:where(.dark, .dark *));
+
 /* Self-hosted fonts */
 @font-face {
 	font-family: 'Inter';
@@ -267,14 +270,24 @@ img, video, iframe, embed, object {
 
 .prose table {
 	font-size: 0.9em;
+	border-collapse: separate;
+	border-spacing: 0;
+	border-radius: 0.5rem;
+}
+
+.prose th,
+.prose td {
+	padding: 0.75em;
+	vertical-align: top;
 }
 
 .prose th {
 	background-color: rgba(196, 164, 164, 0.1);
+	font-weight: 600;
 }
 
 .prose tr:nth-child(even) {
-	background-color: rgba(253, 248, 245, 0.5);
+	background-color: rgba(196, 164, 164, 0.09);
 }
 
 /* ==========================================
@@ -441,4 +454,47 @@ a[aria-hidden]:target + h3 {
 /* Disable interactions when search modal is open */
 .search-open main {
 	pointer-events: none;
+}
+
+/* ==========================================
+   HERO UTILITIES
+   ========================================== */
+
+/* Full-bleed: extend hero beyond content width */
+.hero-full-bleed {
+	/* Mobile: pull into the px-4 padding */
+	margin-left: -1rem;
+	margin-right: -1rem;
+	width: calc(100% + 2rem);
+	max-width: none;
+	margin-top: -2rem;
+}
+
+@media (min-width: 640px) {
+	.hero-full-bleed {
+		/* Tablet+: extend further */
+		margin-left: -3rem;
+		margin-right: -3rem;
+		width: calc(100% + 6rem);
+		margin-top: -3rem;
+	}
+}
+
+@media (min-width: 1024px) {
+	.hero-full-bleed {
+		/* Desktop: max extension */
+		margin-left: -6rem;
+		margin-right: -6rem;
+		width: calc(100% + 12rem);
+		margin-top:-7rem;
+	}
+}
+
+/* Text shadow for hero titles */
+.text-shadow-hero {
+	text-shadow: 0 5px 5px rgba(255, 255, 255, 0.4), 0px -1px 1px rgba(255, 255, 255, 0.8);
+}
+
+.dark .text-shadow-hero {
+	text-shadow: 0 5px 5px rgba(0, 0, 0, 0.5), 0 -1px 1px rgba(0, 0, 0, 0.8);
 }

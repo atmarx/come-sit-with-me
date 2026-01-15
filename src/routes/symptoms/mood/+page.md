@@ -1,6 +1,8 @@
 ---
 title: Mood Changes
 description: Depression risk, anxiety, and the complex relationship between hormones and mood
+hero: /images/heroes/mood.webp
+heroAlt: Soft watercolor sky with sun breaking through clouds
 ---
 
 <script>

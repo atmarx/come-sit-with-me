@@ -1,6 +1,8 @@
 ---
 title: About This Project
 description: Who made this, why, and how
+hero: /images/heroes/about.webp
+heroAlt: A writing desk with an open journal, quill pen, and steaming tea by a sunlit window
 ---
 
 ## The Irony

@@ -1,6 +1,8 @@
 ---
 title: When Sleep Won't Come
 description: Night sweats, racing thoughts, and why rest becomes elusive
+hero: /images/heroes/sleep-wont-come.webp
+heroAlt: Night sky glimpsed through bare branches with crescent moon
 ---
 
 <script>

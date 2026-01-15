@@ -1,6 +1,8 @@
 ---
 title: What Your Brain Is Doing
 description: Why your temperature regulation goes haywire, and the surprising mood-hormone connection
+hero: /images/heroes/brain.webp
+heroAlt: A tree with visible root system in morning mist, roots mirroring branches
 ---
 
 <script>

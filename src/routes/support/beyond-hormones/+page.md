@@ -1,6 +1,8 @@
 ---
 title: Beyond Hormones
 description: Non-hormonal options—NK3 receptor antagonists, SSRIs, SNRIs, and other pharmaceutical approaches
+hero: /images/heroes/beyond-hormones.webp
+heroAlt: Various healing plants in soft botanical illustration
 ---
 
 <script>

@@ -38,7 +38,7 @@
 				<img src={butterflyUrl} alt="" class="h-7 w-7" aria-hidden="true" />
 				<h1 class="font-serif text-xl font-semibold text-primary-700">Come Sit With Me</h1>
 			</div>
-			<p class="text-sm text-text-muted">A Perimenopause Resource</p>
+			<p class="text-sm text-center text-text-muted">A Perimenopause Resource</p>
 		</a>
 	</div>
 

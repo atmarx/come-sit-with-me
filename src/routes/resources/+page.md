@@ -1,6 +1,7 @@
 ---
 title: Resources
 description: Organizations, landmark studies, books, and further reading
+hero: /images/heroes/resources.webp
 ---
 
 <script>

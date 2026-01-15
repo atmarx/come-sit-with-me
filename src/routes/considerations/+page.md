@@ -1,6 +1,7 @@
 ---
 title: Special Considerations
 description: Contraception, cancer history, surgical menopause, and neurodivergence
+hero: /images/heroes/considerations.webp
 ---
 
 <script>

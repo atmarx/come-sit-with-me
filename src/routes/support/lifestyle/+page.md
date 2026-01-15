@@ -1,6 +1,8 @@
 ---
 title: Lifestyle & Self-Care
 description: Movement, sleep, stress management, and the daily choices that can shift your experience
+hero: /images/heroes/lifestyle.webp
+heroAlt: Cup of tea with morning light through window, steam rising gently
 ---
 
 Let me be honest: lifestyle changes alone won't eliminate your symptoms. Anyone who promises otherwise is selling something.

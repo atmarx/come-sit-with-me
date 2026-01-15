@@ -1,6 +1,8 @@
 ---
 title: Sexual Desire & Libido
 description: Understanding changes in desire, arousal, and the complex relationship between hormones and sexuality
+hero: /images/heroes/libido.webp
+heroAlt: Two candle flames side by side in warm amber tones
 ---
 
 Changes in sexual desire are among the most common—and most distressing—experiences of perimenopause. They're also among the least discussed, wrapped in layers of shame, misunderstanding, and relationship tension.

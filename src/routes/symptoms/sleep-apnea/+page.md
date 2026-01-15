@@ -1,6 +1,8 @@
 ---
 title: Sleep Apnea
 description: The sleep disorder that dramatically increases after menopause—and often goes undiagnosed
+hero: /images/heroes/sleep-apnea.webp
+heroAlt: Wind moving through tall grass at dawn
 ---
 
 <script>

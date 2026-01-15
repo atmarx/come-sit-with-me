@@ -1,6 +1,8 @@
 ---
 title: Weight & Body Composition
 description: Why your body is redistributing, not just gaining—and what actually helps
+hero: /images/heroes/weight.webp
+heroAlt: Gentle rolling hills with natural curves in warm earth tones
 ---
 
 <script>

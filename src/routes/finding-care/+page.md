@@ -1,6 +1,7 @@
 ---
 title: Finding Care
 description: Navigating the provider gap and advocating for yourself
+hero: /images/heroes/finding-care.webp
 ---
 
 <script>

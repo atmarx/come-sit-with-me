@@ -1,6 +1,8 @@
 ---
 title: Pelvic Floor Changes
 description: Incontinence, prolapse, and why you can't see a trampoline without worry
+hero: /images/heroes/pelvic-floor.webp
+heroAlt: Tree root system reaching deep into earth
 ---
 
 <script>

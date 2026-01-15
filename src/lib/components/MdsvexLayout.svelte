@@ -43,24 +43,30 @@
 </svelte:head>
 
 {#key $page.url.pathname}
-	{#if title}
-		<div class="mb-8 overflow-hidden rounded-2xl bg-black/5 px-8 py-12">
-			<h1 class="font-serif text-3xl font-bold [text-wrap:balance] md:text-4xl">{title}</h1>
-			{#if description}
-				<p class="mt-6 -mb-6 text-right text-lg [text-wrap:balance] text-text-muted">{description}</p>
-			{/if}
-		</div>
-	{/if}
-
-	{#if hero}
-		<figure class="mb-8 overflow-hidden rounded-xl">
+	{#if hero && title}
+		<!-- Hero with overlaid title -->
+		<div class="hero-full-bleed relative mb-8 overflow-hidden md:rounded-b-2xl med:rounded-b-2xl">
 			<img
 				src={hero}
 				alt={heroAlt || ''}
 				class="h-auto w-full"
 				loading="eager"
 			/>
-		</figure>
+			<div class="absolute inset-x-0 bottom-0 sm:bottom-0 md:bottom-20 px-8 py-6 bg-white/50 dark:bg-black/50">
+				<h1 class="text-shadow-hero font-serif text-3xl font-bold text-text [text-wrap:balance] md:text-5xl">{title}</h1>
+				{#if description}
+					<p class="text-shadow-hero mt-3 text-right text-l md:text-xl [text-wrap:balance] text-black/80 dark:text-white/80">{description}</p>
+				{/if}
+			</div>
+		</div>
+	{:else if title}
+		<!-- Title only (no hero) -->
+		<div class="mb-8 overflow-hidden rounded-2xl bg-black/5 px-8 py-12">
+			<h1 class="font-serif text-3xl font-bold [text-wrap:balance] md:text-4xl">{title}</h1>
+			{#if description}
+				<p class="mt-6 -mb-6 text-right text-lg [text-wrap:balance] text-text-muted">{description}</p>
+			{/if}
+		</div>
 	{/if}
 
 	<article class="prose prose-lg max-w-none">
