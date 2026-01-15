@@ -114,7 +114,7 @@
 	{/if}
 
 	<!-- Main content -->
-	<div class="relative z-10 flex flex-1 flex-col overflow-y-auto" style="box-shadow: -6px 0 16px rgba(0,0,0,0.08); background-color: #FFFBF8;" bind:this={scrollContainer}>
+	<div class="relative z-10 flex flex-1 flex-col overflow-y-auto bg-content" style="box-shadow: -6px 0 16px rgba(0,0,0,0.08);" bind:this={scrollContainer}>
 		<Header onMenuToggle={toggleMobileMenu} />
 
 		<main class="flex-1 px-4 py-8 lg:px-8 lg:py-12">

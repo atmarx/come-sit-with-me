@@ -84,6 +84,7 @@
 
 	--color-cream: #FDF8F5;
 	--color-surface: #FFFFFF;
+	--color-content: #FFFBF8;
 	--color-text: #3D3836;
 	--color-text-muted: #6B6462;
 }
@@ -299,6 +300,7 @@ img, video, iframe, embed, object {
 .dark {
 	--color-cream: #1a1614;
 	--color-surface: #242120;
+	--color-content: #1e1a18;
 	--color-text: #e8e4e2;
 	--color-text-muted: #a8a4a2;
 
