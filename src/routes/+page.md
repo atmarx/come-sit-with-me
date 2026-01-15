@@ -10,7 +10,9 @@ heroAlt: A garden bench with a shawl draped over it, tea steaming on a side tabl
 	import CardGrid from '$lib/components/Content/CardGrid.svelte';
 </script>
 
-However you arrived here—searching at 3 AM, desperate for answers, wondering if what you're feeling is real—you're welcome. You don't need to read this in order. Start where you're hurting. Follow what calls to you.
+This is a guide to perimenopause—the years-long transition before menopause that no one warned you about.
+
+However you arrived here—searching at 3 AM, desperate for answers, wondering if what you're feeling is real—I'm glad you found your way here. You don't need to read this in order. Start where you're hurting. Follow what calls to you.
 
 <CardGrid>
 <Card href="/whats-happening" title="What's Actually Happening" lead="Let me tell you" variant="primary">
