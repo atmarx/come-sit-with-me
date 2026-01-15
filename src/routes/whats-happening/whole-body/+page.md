@@ -28,7 +28,7 @@ The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular h
 
 ## Your Bones
 
-Here's something most women don't know: <Cite id="bone-loss-perimenopause" tooltip="Finkelstein JS, et al. Bone Mineral Density Changes During the Menopause Transition in a Multiethnic Cohort of Women. Journal of Clinical Endocrinology & Metabolism. 2008;93(3):861-868.">bone loss begins during perimenopause, *before* menopause itself.</Cite> You don't have to wait until your periods stop to start losing bone density.
+Here's something most women don't know: <Cite id="bone-loss-perimenopause" tooltip="Finkelstein JS, et al. Bone Mineral Density Changes During the Menopause Transition in a Multiethnic Cohort of Women. Journal of Clinical Endocrinology & Metabolism. 2008;93(3):861-868.">bone loss begins during perimenopause, <em>before</em> menopause itself.</Cite> You don't have to wait until your periods stop to start losing bone density.
 
 Estrogen helps keep the balance between bone-building cells (osteoblasts) and bone-removing cells (osteoclasts). When estrogen becomes erratic, that balance shifts toward loss.
 

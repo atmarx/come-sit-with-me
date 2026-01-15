@@ -19,7 +19,7 @@ Both of these realities matter. Both deserve acknowledgment.
 
 ### Timing Differences
 
-<Cite id="swan-race-timing" tooltip="Gold EB, et al. Factors Related to Age at Natural Menopause: Longitudinal Analyses From SWAN. American Journal of Epidemiology. 2013;178(1):70-83.">**Black and Hispanic women tend to reach menopause earlier.**</Cite> The median age of menopause in the US is about 51. Black women reach menopause around age 49—two years earlier. Hispanic/Latina women similarly experience earlier menopause.
+<Cite id="swan-race-timing" tooltip="Gold EB, et al. Factors Related to Age at Natural Menopause: Longitudinal Analyses From SWAN. American Journal of Epidemiology. 2013;178(1):70-83."><strong>Black and Hispanic women tend to reach menopause earlier.</strong></Cite> The median age of menopause in the US is about 51. Black women reach menopause around age 49—two years earlier. Hispanic/Latina women similarly experience earlier menopause.
 
 **Chinese and Japanese women tend to reach menopause slightly later** than white women.
 

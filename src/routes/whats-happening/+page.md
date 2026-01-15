@@ -40,7 +40,7 @@ Identity, grief, and finding yourself during transformation. This isn't just phy
 
 ## The Truth They Don't Tell You
 
-Here's what most doctors still get wrong: <Cite id="prior-perimenopause-1998" tooltip="Prior JC. Perimenopause: The Complex Endocrinology of the Menopausal Transition. Endocrine Reviews. 1998;19(4):397-428.">**during perimenopause, estradiol levels actually average 20-30% HIGHER than your premenopausal levels in many cycles**</Cite>—punctuated by dramatic drops and spikes.
+Here's what most doctors still get wrong: <Cite id="prior-perimenopause-1998" tooltip="Prior JC. Perimenopause: The Complex Endocrinology of the Menopausal Transition. Endocrine Reviews. 1998;19(4):397-428."><strong>during perimenopause, estradiol levels actually average 20-30% HIGHER than your premenopausal levels in many cycles</strong></Cite>—punctuated by dramatic drops and spikes.
 
 Think of it less as a dimmer switch slowly turning down, and more as a strobe light with increasingly erratic timing.
 

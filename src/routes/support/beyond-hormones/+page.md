@@ -33,7 +33,7 @@ For women who can't or won't take hormones but have significant hot flashes, thi
 
 ### Elinzanetant
 
-<Cite id="elinzanetant-approval-2024" tooltip="FDA News Release. FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause. December 2024.">**FDA approved December 2024**</Cite>
+<Cite id="elinzanetant-approval-2024" tooltip="FDA News Release. FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause. December 2024."><strong>FDA approved December 2024</strong></Cite>
 
 - Dual NK1/NK3 receptor antagonist—blocks two pathways
 - <Cite id="elinzanetant-oasis" tooltip="Depypere H, et al. Efficacy and Safety of Elinzanetant, a Selective Neurokinin Receptor Antagonist for Vasomotor Symptoms. Menopause. 2024.">About 74% reduction in moderate-severe hot flashes by week 12</Cite>

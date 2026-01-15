@@ -124,7 +124,7 @@ Mainstream menopause support groups may not understand your experience. Seek out
 
 ## A Note on Research
 
-<Cite id="lgbtq-research-gap" tooltip="Bryson MK, et al. Menopause and Aging LGBTQ2S+ Canadians: A Scoping Review. Sociology of Health & Illness. 2023;45(4):778-797.">There is, frankly, a dearth of research on LGBTQ+ experiences of menopause. A literature review in *Sociology of Health & Illness* highlighted this gap explicitly.</Cite>
+<Cite id="lgbtq-research-gap" tooltip="Bryson MK, et al. Menopause and Aging LGBTQ2S+ Canadians: A Scoping Review. Sociology of Health & Illness. 2023;45(4):778-797.">There is, frankly, a dearth of research on LGBTQ+ experiences of menopause. A literature review in <em>Sociology of Health & Illness</em> highlighted this gap explicitly.</Cite>
 
 This means:
 - Clinical recommendations may not account for your specific situation

@@ -58,15 +58,15 @@ This is why sleep isn't a minor concern. It's foundational. [Tracking your sympt
 - Addressing [hot flashes](/symptoms/hot-flashes) directly through the options in [Support](/support)
 
 **For the racing mind:**
-- CBT for insomnia (CBT-I) has strong evidence—often more effective long-term than medication
+- <Cite id="cbti-meta-analysis-2015" tooltip="Trauer JM, et al. Cognitive Behavioral Therapy for Chronic Insomnia: A Systematic Review and Meta-analysis. Annals of Internal Medicine. 2015.">CBT for insomnia (CBT-I) has strong evidence—often more effective long-term than medication</Cite>
 - Limiting screens before bed
 - A consistent wind-down routine
 - Writing down tomorrow's concerns before bed to externalize them
 
 **Medical options:**
 - [Hormone therapy](/support/hormone-therapy) can improve sleep, especially if night sweats are the driver
-- Low-dose progesterone at bedtime helps some women (it has that natural sedating effect)
-- Gabapentin, which also helps hot flashes, can improve sleep
+- <Cite id="progesterone-sleep-2008" tooltip="Schüssler P, et al. Progesterone Reduces Wakefulness in Sleep EEG. Psychoneuroendocrinology. 2008.">Low-dose progesterone at bedtime helps some women (it has that natural sedating effect)</Cite>
+- <Cite id="nams-nonhormone-2023" tooltip="The Menopause Society. 2023 Nonhormone Therapy Position Statement. Menopause. 2023.">Gabapentin, which also helps hot flashes, can improve sleep</Cite>
 - Some antidepressants with sedating properties
 - Short-term sleep medications (with caution about dependence)
 

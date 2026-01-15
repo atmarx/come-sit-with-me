@@ -28,7 +28,7 @@ This constellation of symptoms has a clinical name: Genitourinary Syndrome of Me
 
 ## Why This Is Different
 
-Here's something crucial to understand: <Cite id="gsm-progressive" tooltip="Portman DJ, Gass ML. Genitourinary Syndrome of Menopause: New Terminology for Vulvovaginal Atrophy. Menopause. 2014;21(10):1063-1068.">**unlike [hot flashes](/symptoms/hot-flashes), these symptoms typically don't improve on their own.**</Cite>
+Here's something crucial to understand: <Cite id="gsm-progressive" tooltip="Portman DJ, Gass ML. Genitourinary Syndrome of Menopause: New Terminology for Vulvovaginal Atrophy. Menopause. 2014;21(10):1063-1068."><strong>unlike <a href="/symptoms/hot-flashes">hot flashes</a>, these symptoms typically don't improve on their own.</strong></Cite>
 
 Hot flashes, for many women, eventually ease as the body adapts to stable postmenopausal hormone levels. Urogenital symptoms tend to do the opposite—they progressively worsen without intervention. The tissues become thinner and less resilient over time, not more.
 

@@ -217,6 +217,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Peppard PE, et al.** ["Increased Prevalence of Sleep-Disordered Breathing in Adults."](https://doi.org/10.1093/aje/kws342) *American Journal of Epidemiology.* 2013;177(9):1006-1014.
 
+<a aria-hidden="true" id="cbti-meta-analysis-2015"></a>
+
+**Trauer JM, et al.** ["Cognitive Behavioral Therapy for Chronic Insomnia: A Systematic Review and Meta-analysis."](https://doi.org/10.7326/M14-2841) *Annals of Internal Medicine.* 2015;163(3):191-204.
+*Key finding: CBT-I produces clinically meaningful improvements in sleep onset latency, wake after sleep onset, and sleep efficiency, with effects sustained at follow-up.*
+
+<a aria-hidden="true" id="progesterone-sleep-2008"></a>
+
+**Schüssler P, et al.** ["Progesterone Reduces Wakefulness in Sleep EEG and Has No Effect on Cognition in Healthy Postmenopausal Women."](https://doi.org/10.1016/j.psyneuen.2008.05.013) *Psychoneuroendocrinology.* 2008;33(8):1124-1131.
+*Key finding: Progesterone demonstrated a distinct sleep-promoting effect by reducing time awake without impairing daytime cognition. Effects resemble those of GABA-A receptor modulators.*
+
 ---
 
 <a aria-hidden="true" id="weight"></a>
