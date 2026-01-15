@@ -92,7 +92,7 @@
 
 <div class="flex h-screen">
 	<!-- Desktop sidebar -->
-	<aside class="sticky top-0 hidden h-screen w-64 shrink-0 overflow-y-auto border-r border-primary-100 bg-surface lg:block">
+	<aside class="sticky top-0 hidden h-screen w-72 shrink-0 overflow-y-auto bg-cream lg:block">
 		<Sidebar />
 	</aside>
 
@@ -114,7 +114,7 @@
 	{/if}
 
 	<!-- Main content -->
-	<div class="flex flex-1 flex-col overflow-y-auto" bind:this={scrollContainer}>
+	<div class="relative z-10 flex flex-1 flex-col overflow-y-auto" style="box-shadow: -6px 0 16px rgba(0,0,0,0.08); background-color: #FFFBF8;" bind:this={scrollContainer}>
 		<Header onMenuToggle={toggleMobileMenu} />
 
 		<main class="flex-1 px-4 py-8 lg:px-8 lg:py-12">
@@ -128,7 +128,7 @@
 
 		<footer class="border-t border-primary-100 px-4 py-6 text-sm text-text-muted lg:px-8">
 			<div class="mx-auto max-w-3xl text-center">
-				<p class="font-serif text-base text-text/80">Evidence-based. Experience-informed. Crafted with love.</p>
+				<p class="font-serif text-base text-text/80 md:text-lg mt-8 mb-8">Evidence-based. Experience-informed. Crafted with love.</p>
 				<p class="mt-3">Last updated: January 2026 | <a href="/about" class="hover:text-primary-600">About</a> | <a href="/terms" class="hover:text-primary-600">Terms</a></p>
 				<p class="mt-2">
 					© 2026 <a href="https://github.com/atmarx" class="hover:text-primary-600" target="_blank" rel="noopener">Andrew Marx</a> |

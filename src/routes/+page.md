@@ -12,10 +12,12 @@ heroAlt: A wooden bench with a cream shawl and steaming tea, nestled in a misty 
 
 This is a guide to perimenopause—the years-long transition before menopause that no one warned you about.
 
-However you arrived here—searching at 3 AM, desperate for answers, wondering if what you're feeling is real—I'm glad you found your way here. You don't need to read this in order. Start where you're hurting. Follow what calls to you.
+However you arrived here—searching at 3 AM, desperate for answers, wondering if what you're feeling is real—I'm glad you found your way here. When confusion and chaos reign, finding a place to sit and breathe is important.
+
+You don't need to read this in order. Start where you're hurting. Follow what calls to you.
 
 <CardGrid>
-<Card href="/whats-happening" title="What's Actually Happening" lead="Let me tell you" variant="primary">
+<Card href="/whats-happening" title="What's Actually Happening" lead="Let me tell you" variant="amber">
 The hormonal chaos, what your brain is doing, and why your whole body feels different
 </Card>
 
@@ -23,11 +25,11 @@ The hormonal chaos, what your brain is doing, and why your whole body feels diff
 Hot flashes, sleep, mood, cognition, desire, skin, joints—what's happening and why
 </Card>
 
-<Card href="/support" title="Support & Options" lead="Explore your" variant="secondary">
+<Card href="/support" title="What Might Help" lead="Finding" variant="primary">
 Hormonal approaches, herbal traditions, complementary practices, lifestyle shifts
 </Card>
 
-<Card href="/considerations" title="Special Considerations" lead="When you're navigating" variant="teal">
+<Card href="/considerations" title="Special Considerations" lead="When you're navigating" variant="secondary">
 Cancer history, surgical menopause, neurodivergence, contraception during transition
 </Card>
 
@@ -35,7 +37,7 @@ Cancer history, surgical menopause, neurodivergence, contraception during transi
 What's actually happening, why desire changes, how to stay connected
 </Card>
 
-<Card href="/finding-care" title="Finding Care" lead="Help with" variant="lavender">
+<Card href="/finding-care" title="Finding Care" lead="When you need help" variant="primary">
 Navigating the provider gap and advocating for yourself
 </Card>
 
@@ -43,7 +45,7 @@ Navigating the provider gap and advocating for yourself
 Organizations, research, books, and further reading
 </Card>
 
-<Card href="/introduction" title="Who's Speaking" lead="Come, sit with me" variant="primary">
+<Card href="/introduction" title="Who's Speaking" lead="Come, sit with me" variant="secondary">
 About this guide, its approach, and the voice behind it
 </Card>
 </CardGrid>
