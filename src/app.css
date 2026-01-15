@@ -92,6 +92,7 @@
 html {
 	scroll-behavior: smooth;
 	overflow-x: hidden;
+	color-scheme: light dark; /* Tells browsers/extensions site handles both themes */
 }
 
 /* Offset anchors for sticky header */
