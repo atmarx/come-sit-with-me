@@ -44,7 +44,7 @@ Let me be clear about something most sources get wrong: perimenopause is not a g
 <Cite id="straw-2012" tooltip="Harlow SD, et al. Executive Summary of the Stages of Reproductive Aging Workshop +10. Menopause. 2012;19(4):387-395.">It's chaos.</Cite>
 
 Your estrogen doesn't politely decrease. <Cite id="prior-perimenopause-1998" tooltip="Prior JC. Perimenopause: The Complex Endocrinology of the Menopausal Transition. Endocrine Reviews. 1998;19(4):397-428.">It swings—sometimes higher than it's ever been, sometimes crashing to nearly nothing, sometimes changing dramatically within a single week.</Cite>
-Your [progesterone drops](/whats-happening/hormonal-landscape) because you're not ovulating reliably anymore. And your [brain](/whats-happening/brain), which has been listening to these hormones for decades, suddenly can't predict what's coming next.
+Your <a href="/whats-happening/hormonal-landscape">progesterone drops</a> because you're not ovulating reliably anymore. And your <a href="/whats-happening/brain">brain</a>, which has been listening to these hormones for decades, suddenly can't predict what's coming next.
 
 This is why your symptoms seem random. Why one month you feel fine and the next you're a stranger to yourself. Why [sleep abandons you](/symptoms/sleep-wont-come), or your [joints ache](/symptoms/aches), or your [skin changes](/whats-happening/whole-body), or [desire vanishes](/symptoms/libido), or your [moods swing wild](/symptoms/mood). It's not weakness. It's not age. It's your brain trying to find its footing on shifting ground.
 
