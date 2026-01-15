@@ -4,11 +4,11 @@ description: Understanding, supporting, and staying connected during the perimen
 hero: /images/heroes/for-partners.webp
 ---
 
-If you're here, you're trying. That matters.
+If you're here, you're trying. **That matters.**
 
-Perimenopause can be disorienting for partners too. The person you know seems different. Things that used to work don't anymore. You might feel rejected, confused, helpless, or resentful. You might be making things worse without meaning to.
+Perimenopause can be disorienting for partners too. The person you know seems *different*. Things that used to work don't anymore. You might feel rejected, confused, helpless, or resentful. You might be making things worse without meaning to.
 
-This section is an attempt to help you understand what's happening—and what actually helps.
+This section is an attempt to help you understand *what's happening*—**and what actually helps**.
 
 ## The Hard Truth First
 
