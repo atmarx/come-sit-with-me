@@ -181,8 +181,13 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 <a aria-hidden="true" id="cognition-perimenopause-meta"></a>
 
-**Kilpi F, et al.** ["Cognitive Functioning in Perimenopause: An Updated Systematic Review and Meta-Analysis."](https://www.researchgate.net/publication/396374868) *Maturitas.* 2024.
-*Key finding: Perimenopausal women show measurable deficits in verbal memory, processing speed, attention, and working memory compared to premenopausal women.*
+**Kilpi F, et al.** ["Cognitive Functioning in Perimenopause: An Updated Systematic Review and Meta-Analysis."](https://www.researchgate.net/publication/396374868) *Maturitas.* 2025.
+*Key finding: 26 studies, 9,428 participants.  Perimenopausal women show measurable deficits in verbal memory, processing speed, attention, and working memory compared to premenopausal women.  Effect was statistically significant only in studies using proper STRAW+10 staging.*
+
+<a aria-hidden="true" id="cognition-menopause-cohort-2026"></a>
+
+**Naysmith LF, et al.** ["Cognition and the menopause transition: cross-sectional evidence from a large community cohort."](https://doi.org/10.1038/s44294-026-00132-z) *npj Women's Health.* 2026;4:14.
+*Key finding: In 14,234 women aged 45–55, perimenopausal participants reported more cognitive symptoms (brain fog OR=1.31, poor memory OR=1.28) but scored marginally higher on objective cognitive tests than pre- and postmenopausal participants.  Cognitive symptoms were weakly associated with objective performance but moderately associated with psychological symptoms.*
 
 <a aria-hidden="true" id="weber-cognition-2014"></a>
 

@@ -19,7 +19,7 @@ Let me tell you what's actually happening.
 
 ## This Is Real
 
-<Cite id="cognition-perimenopause-meta" tooltip="Kilpi F, et al. Cognitive Functioning in Perimenopause: An Updated Systematic Review and Meta-Analysis. Maturitas. 2024.">A 2024 meta-analysis confirmed what you already know: perimenopausal women perform measurably worse on memory, concentration, and attention assessments compared to their premenopausal selves.</Cite>
+<Cite id="cognition-perimenopause-meta" tooltip="Kilpi F, et al. Cognitive Functioning in Perimenopause: An Updated Systematic Review and Meta-Analysis. Maturitas. 2025. 26 studies, 9,428 participants.">A 2025 meta-analysis of 26 studies and over 9,000 women confirmed what you already know: perimenopausal women perform measurably worse on memory, concentration, and attention assessments compared to their premenopausal selves.</Cite>
 
 What's most affected:
 - **Verbal learning**—taking in new information through words
@@ -27,7 +27,9 @@ What's most affected:
 - **Word-finding**—accessing the vocabulary you know you have
 - **Processing speed**—how quickly you can work through cognitive tasks
 
-This isn't imagination. It's not stress (though stress makes it worse). It's not "just aging." There's a hormonal component, and we can measure it.
+This isn't imagination.  It's not stress (though stress makes it worse).  It's not "just aging."  There's a hormonal component, and we can measure it.
+
+<Cite id="cognition-menopause-cohort-2026" tooltip="Naysmith LF, et al. Cognition and the menopause transition. npj Women's Health. 2026. n=14,234.">And yet—when researchers gave over 14,000 women objective cognitive tests, perimenopausal women performed just as well as everyone else, and in some areas marginally better.</Cite>  The disconnect between how foggy you *feel* and how well you actually *perform* is striking.  Your brain hasn't broken.  It's working harder to get the same results—and that effort is what you're feeling.
 
 ## Why This Happens
 
