@@ -1,0 +1,6 @@
+.git/
+.github/
+.woodpecker/
+deploy/
+node_modules/
+build/
