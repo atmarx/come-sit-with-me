@@ -61,7 +61,7 @@ I won't go into full detail here—that's in [Support Options](/support)—but b
 
 **[Hormone therapy](/support/hormone-therapy)** remains the most effective treatment for hot flashes. Estrogen directly addresses the underlying mechanism.
 
-**NK3 receptor antagonists** (like fezolinetant) are a newer option that blocks the hyperactive neurons directly, without estrogen. This is proof that the mechanism is real and targetable. More on this in [Beyond Hormones](/support/beyond-hormones).
+**NK3 receptor antagonists** (fezolinetant and elinzanetant) block the hyperactive neurons directly, without estrogen.  With two FDA-approved options now available, this class has moved from "newer option" to established alternative.  More on this in [Beyond Hormones](/support/beyond-hormones).
 
 **[Lifestyle modifications](/support/lifestyle)** can help at the margins—layered clothing, keeping the bedroom cool, avoiding triggers, managing stress.
 

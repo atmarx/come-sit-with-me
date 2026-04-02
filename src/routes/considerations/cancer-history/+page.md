@@ -28,7 +28,7 @@ For women who can't take hormones, the NK3 receptor antagonists represent the fi
 - Requires liver enzyme monitoring
 
 **Elinzanetant:**
-- FDA approved 2025
+- FDA approved 2024
 - Also non-hormonal
 - May help with sleep as well as hot flashes
 - About 74% reduction in moderate-severe hot flashes
