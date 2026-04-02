@@ -1,3 +1,4 @@
+name: come-sit-with-me
 services:
   app:
     image: git.dev.xram.net/atmarx/come-sit-with-me:latest
