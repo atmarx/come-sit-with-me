@@ -25,6 +25,8 @@ steps:
       - git fetch origin && git checkout ${CI_COMMIT_BRANCH} && git pull origin ${CI_COMMIT_BRANCH}
       - echo "$GITEA_TOKEN" | docker login -u ${CI_REPO_OWNER} --password-stdin git.dev.xram.net
       - cd deploy && docker compose pull && docker compose up -d
+      - docker cp come-sit-with-me-app:/srv/. /ark-sites/comesitwithme/
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /opt/projects:/projects
+      - /mnt/nas/TheArk/sites:/ark-sites
