@@ -227,6 +227,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Trauer JM, et al.** ["Cognitive Behavioral Therapy for Chronic Insomnia: A Systematic Review and Meta-analysis."](https://doi.org/10.7326/M14-2841) *Annals of Internal Medicine.* 2015;163(3):191-204.
 *Key finding: CBT-I produces clinically meaningful improvements in sleep onset latency, wake after sleep onset, and sleep efficiency, with effects sustained at follow-up.*
 
+<a aria-hidden="true" id="mindfulness-sleep-nma-2025"></a>
+
+**Wang Z, et al.** ["Effectiveness of nonpharmacological interventions for menopause-related insomnia: A systematic review and Bayesian network meta-analysis."](https://doi.org/10.1016/j.maturitas.2025.108713) *Maturitas.* 2025;202:108713.
+*Key finding: Mindfulness ranked as the most effective nonpharmacological intervention for menopausal insomnia (MD: −5.61) across 44 trials and 3,512 participants, ahead of CBT, relaxation, acupuncture, aromatherapy, massage, yoga, and exercise — all eight interventions significantly outperformed control.*
+
 <a aria-hidden="true" id="progesterone-sleep-2008"></a>
 
 **Schüssler P, et al.** ["Progesterone Reduces Wakefulness in Sleep EEG and Has No Effect on Cognition in Healthy Postmenopausal Women."](https://doi.org/10.1016/j.psyneuen.2008.05.013) *Psychoneuroendocrinology.* 2008;33(8):1124-1131.

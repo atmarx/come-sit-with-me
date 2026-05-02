@@ -58,6 +58,7 @@ This is why sleep isn't a minor concern. It's foundational. [Tracking your sympt
 - Addressing [hot flashes](/symptoms/hot-flashes) directly through the options in [Support](/support)
 
 **For the racing mind:**
+- <Cite id="mindfulness-sleep-nma-2025" tooltip="Wang Z, et al. Effectiveness of nonpharmacological interventions for menopause-related insomnia. Maturitas. 2025;202:108713.">Mindfulness-based practices—meditation, body scan, breathwork—ranked first among nonpharmacological approaches in a 2025 network meta-analysis of 44 trials</Cite>
 - <Cite id="cbti-meta-analysis-2015" tooltip="Trauer JM, et al. Cognitive Behavioral Therapy for Chronic Insomnia: A Systematic Review and Meta-analysis. Annals of Internal Medicine. 2015.">CBT for insomnia (CBT-I) has strong evidence—often more effective long-term than medication</Cite>
 - Limiting screens before bed
 - A consistent wind-down routine
