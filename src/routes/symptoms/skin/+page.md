@@ -13,82 +13,96 @@ Nobody warned you about the itching.
 
 Skin changes during perimenopause are real, common, and often dismissed as cosmetic concerns—when they're nothing of the sort. Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
 
-There are estrogen receptors throughout your skin. When estrogen fluctuates, your skin notices.
+Estrogen receptors are woven through your skin—in the outer layers, in the oil glands, in the connective tissue below, and in the peripheral nerve fibers that run through all of it. When estrogen fluctuates, your skin notices at every level.
 
 ## The Itching (Formication)
 
 Many perimenopausal women experience unexplained itching—sometimes described as crawling sensations under the skin, like ants walking on you. This has a name: **formication** (from the Latin *formica*, ant).
 
-Why it happens:
-- **Decreased estrogen** affecting skin nerve endings—the signals get scrambled
-- **Skin dryness** from reduced oil production—dry skin itches
-- **Thinning skin** becoming more sensitive to everything
-- **Histamine changes** during hormonal fluctuations—some women become more reactive
+Here's what's actually happening: estrogen receptors are present in peripheral sensory nerve fibers. When estrogen fluctuates, these nerves can become hyperresponsive—sending itch and crawl signals even when nothing is touching you, even when your skin looks perfectly normal. This is **neurogenic itching**, and it's distinct from ordinary dry-skin itch, though both can happen at once.
+
+Other mechanisms feeding the same fire:
+- **Reduced oil production** from sebaceous glands—dry skin has a lower itch threshold
+- **Thinning skin** that becomes more sensitive to pressure, fabrics, and temperature
+- **Histamine changes**—mast cells in the skin have estrogen receptors, and as estrogen shifts, some women's skin becomes more reactive to things that never bothered them before
 
 The itching can be:
 - Generalized (all over) or localized (specific spots)
 - Worse at night—like so many perimenopause symptoms, it intensifies when you're trying to rest
-- Maddening when you can't identify a cause or find relief
+- Maddening when you can't identify a trigger or find relief
 
-You're not imagining it. This is a real phenomenon with a real cause.
+You're not imagining it. This is a real phenomenon with a real, layered cause.
 
 ## Dry Skin
 
-Estrogen helps maintain skin moisture and oil production. As levels fluctuate:
-- Skin becomes drier, sometimes dramatically so
-- It may feel tight, uncomfortable, almost papery
-- It's more prone to irritation and cracking
-- It heals more slowly when injured
+Estrogen does two things for skin moisture, and most people only know about one.
 
-Products that worked for decades may suddenly not be enough.
+The first is oil production—estrogen regulates sebaceous glands, and as levels drop, skin produces less natural oil. But the second is deeper: estrogen tells your skin's fibroblasts to produce **hyaluronic acid**, a molecule that binds water in the dermis from the inside. The same HA that's used in injectable fillers is naturally present in healthy skin—and it's estrogen-dependent.
+
+As estrogen drops, HA production drops. Your skin loses its ability to hold moisture even when you're well-hydrated. This is why drinking more water doesn't fix it. This is why products that worked for twenty years suddenly aren't enough. You're working around a structural change.
+
+What you'll notice:
+- Skin that feels tight, uncomfortable, almost papery
+- Higher sensitivity to irritants and harsh products
+- More prone to cracking in dry conditions
+- Slower healing when injured
 
 ## Skin Thinning
 
-Collagen production decreases with declining estrogen. <Cite id="brincat-collagen-1987" tooltip="Brincat M, et al. A Study of the Decrease of Skin Collagen Content, Skin Thickness, and Bone Mass in the Postmenopausal Woman. Obstetrics & Gynecology. 1987;70(6):840-845.">Studies suggest women lose approximately 30% of skin collagen in the first 5 years after menopause.</Cite>
+Collagen and elastin—the scaffolding and spring of your skin—are both estrogen-dependent. Collagen provides structure and thickness. Elastin allows skin to snap back after being stretched or pressed.
 
-What this means:
-- Skin becomes thinner and more fragile
-- You bruise more easily—sometimes from things that wouldn't have left a mark before
-- Wound healing slows
-- Elasticity decreases—skin doesn't bounce back the way it used to
+<Cite id="brincat-collagen-1987" tooltip="Brincat M, et al. A Study of the Decrease of Skin Collagen Content, Skin Thickness, and Bone Mass in the Postmenopausal Woman. Obstetrics & Gynecology. 1987;70(6):840-845.">Women lose approximately 30% of skin collagen in the first 5 years after menopause</Cite>—and the collagen that remains changes in quality, not just quantity. Elastin declines alongside it.
 
-This isn't vanity. Skin is your largest organ, and its integrity matters for protection, healing, and comfort.
+What this means in practice:
+- Skin becomes thinner and more fragile at the surface
+- You bruise more easily—sometimes from contact that wouldn't have left a mark before
+- Skin doesn't bounce back the way it used to—it creases, folds, and stays
+- Wound healing slows, because estrogen directly promotes fibroblast activity. Without it, the repair machinery runs slower.
+
+This isn't vanity. Skin is your largest organ, and its integrity matters for protection, healing, and comfort. These changes are structural—not cosmetic complaints.
 
 ## Hair Changes
 
-Hormonal shifts affect hair too—and not in ways anyone prepared you for:
+Hormonal shifts affect hair too—and not in ways anyone prepared you for.
 
-- **Thinning on the scalp**: Hair may become finer, or you may notice more hair loss than usual
-- **Increased facial hair**: As estrogen drops relative to androgens, some women notice more facial hair growth
-- **Changed texture**: Hair may become drier, coarser, or even curlier than it was
-- **Slower growth**: The hair cycle changes; growth may slow
+**Scalp thinning** is the most distressing for many women. As estrogen falls relative to androgens, hair follicles become more sensitive to dihydrotestosterone (DHT)—the same hormone that drives male pattern baldness. Follicles begin to miniaturize; hairs grow in finer and shed faster. Most women see **diffuse thinning across the crown** rather than a receding hairline, though some see both. This is called female pattern hair loss, and it's more common in perimenopause than most people know.
+
+But it's not only your scalp:
+- **Eyebrows and eyelashes** can thin too—quieter than scalp loss but real, and meaningful if your brows have always been part of your face
+- **Increased facial hair**: As estrogen drops relative to androgens, some women notice more growth along the jawline, chin, or upper lip
+- **Changed texture**: Scalp hair may become drier, coarser, or even curlier than it's ever been—the follicle itself changes with hormonal shifts
+- **Slower growth**: The hair cycle lengthens; it takes longer to grow back
+
+The emotional weight of losing hair that has been part of your identity since childhood is not trivial. It belongs in this conversation.
 
 ## What Might Help
 
 **For itching:**
-- Gentle, fragrance-free moisturizers—fragrance is often an irritant
-- Avoiding hot showers (they strip what natural oils remain)
-- Colloidal oatmeal products—genuinely soothing for irritated skin
-- Antihistamines (if the itching has a histamine component)
-- [Hormone therapy](/support/hormone-therapy) can help if symptoms are severe
+- Gentle, fragrance-free moisturizers—fragrance is a common irritant, especially on sensitive perimenopausal skin
+- Avoiding hot showers (they strip what natural oils remain; lukewarm is genuinely better)
+- Colloidal oatmeal products—genuinely soothing for irritated, reactive skin
+- Antihistamines can help if the itching has a histamine component, but since some of this is neurogenic, they may not fully relieve it
+- [Hormone therapy](/support/hormone-therapy) can address the root cause if symptoms are severe
 
 **For dryness:**
-- Heavier moisturizers, especially at night—look for ceramides and hyaluronic acid
-- Layering: lighter products first, heavier ones on top
-- Humidifier in the bedroom
+- Heavier moisturizers, especially at night—look for ceramides and hyaluronic acid, which support the barrier and restore water-binding capacity
+- Layering: apply lighter products to damp skin first, then seal with something richer
+- Humidifier in the bedroom—external humidity makes a real difference when your skin can't hold water internally
 - Gentle cleansers without sulfates (they're too stripping now)
+- Niacinamide (vitamin B3) strengthens the skin barrier and calms sensitivity—worth knowing about
 
 **For skin health generally:**
-- Sun protection becomes even more important as skin thins
-- Retinoids can help with collagen production (but start slowly—skin is more sensitive now)
-- Vitamin C serums for antioxidant support
-- Adequate hydration—from the inside
+- Sun protection becomes even more important as skin thins—and it's one of the most effective things you can do
+- Retinoids can genuinely help with collagen production, but start at low concentrations and go slowly. Perimenopausal skin is more reactive and needs time to adjust.
+- Vitamin C serums for antioxidant support and collagen synthesis
+- Adequate protein—collagen is made from amino acids, and diet matters
 
 **For hair:**
-- Gentle handling—hair is more fragile
-- Check iron, vitamin D, and thyroid levels (deficiencies can contribute)
-- Consider whether hair products have become too harsh
-- Dermatologist consultation if loss is significant
+- Gentle handling—hair is more fragile, and tight hairstyles or heat stress make miniaturization worse
+- Check iron, vitamin D, and thyroid levels (all can drive shedding and are common deficiencies)
+- Consider whether hair products have become too harsh—the scalp is also affected by skin changes
+- Low-level laser therapy (red light) is FDA-cleared for female pattern hair loss and has reasonable evidence
+- Dermatologist consultation if loss is significant—a derm who specializes in hair can help distinguish between androgenic loss, thyroid-related shedding, and other causes
 
 ## When It's Not "Just" Perimenopause
 
