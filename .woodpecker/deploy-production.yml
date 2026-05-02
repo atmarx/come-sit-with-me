@@ -1,6 +1,14 @@
-# Come Sit With Me — Deploy to Production (xdroplet02)
+# Come Sit With Me — Deploy to Production (xdroplet04)
 #
-# Tag-triggered only. SSHs into xdroplet02 and pulls latest image.
+# SSHs into xdroplet04, syncs the working tree to /opt/projects/come-sit-with-me,
+# pulls the image from Gitea CR, brings the compose stack up, drops the
+# Caddy site config into /opt/caddy-stack/sites/ and reloads Caddy.
+#
+# Triggers on tag (production releases only).
+#
+# Required secrets:
+#   - droplet04_ssh_key:  SSH private key for deploy@xdroplet04
+#   - droplet04_hostinfo: Pipe-separated "ip|fqdn" for the droplet
 
 when:
   - event: tag
@@ -16,17 +24,20 @@ steps:
     image: alpine:latest
     environment:
       DROPLET_SSH_KEY:
-        from_secret: deploy_ssh_key
-      DROPLET_HOST:
-        from_secret: deploy_host
+        from_secret: droplet04_ssh_key
+      DROPLET_HOSTINFO:
+        from_secret: droplet04_hostinfo
     commands:
-      - apk add --no-cache openssh-client
+      - apk add --no-cache openssh-client rsync
+      - 'export DROPLET_IP=$(echo "$DROPLET_HOSTINFO" | cut -d"|" -f1)'
+      - 'export DROPLET_HOST=$(echo "$DROPLET_HOSTINFO" | cut -d"|" -f2)'
       - mkdir -p ~/.ssh
       - echo "$DROPLET_SSH_KEY" > ~/.ssh/id_ed25519
       - chmod 600 ~/.ssh/id_ed25519
-      - ssh-keyscan -H "$DROPLET_HOST" >> ~/.ssh/known_hosts 2>/dev/null
-      - >
-        ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST"
-        "cd /opt/projects/come-sit-with-me &&
-        docker compose -f deploy/compose.prod.yml pull &&
-        docker compose -f deploy/compose.prod.yml up -d"
+      - ssh-keyscan -H "$DROPLET_HOST" "$DROPLET_IP" >> ~/.ssh/known_hosts 2>/dev/null
+      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "mkdir -p /opt/projects/come-sit-with-me/caddy /opt/projects/come-sit-with-me/_staged"
+      - rsync -az docker-compose.production.yml deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
+      - rsync -az caddy/come-sit-with-me.caddy deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
+      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash < scripts/deploy-production.sh
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock

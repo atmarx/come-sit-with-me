@@ -1,0 +1,32 @@
+# Come Sit With Me — Caddy site config (production).
+#
+# Dropped into /opt/caddy-stack/sites/ by .woodpecker/deploy-production.yml
+# and loaded by the shared Caddy on xdroplet04 (host network mode).  The
+# come-sit-with-me-prod container publishes to 127.0.0.1:3011, so Caddy reaches
+# it via localhost.
+
+(csm_security_headers) {
+    header {
+        Strict-Transport-Security "max-age=31536000; includeSubDomains"
+        X-Frame-Options "SAMEORIGIN"
+        X-Content-Type-Options "nosniff"
+        Referrer-Policy "strict-origin-when-cross-origin"
+        -Server
+    }
+}
+
+www.comesitwith.me {
+    redir https://comesitwith.me{uri} permanent
+}
+
+comesitwith.me {
+    import csm_security_headers
+
+    encode zstd gzip
+
+    reverse_proxy 127.0.0.1:3011 {
+        header_up X-Real-IP {remote_host}
+        header_up X-Forwarded-For {remote_host}
+        header_up X-Forwarded-Proto {scheme}
+    }
+}
