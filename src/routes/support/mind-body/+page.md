@@ -111,7 +111,7 @@ This is something you can do anywhere, anytime, with no cost. Worth trying.
 
 This often gets covered under mind-body or "natural" approaches, but phytoestrogens (plant compounds with estrogen-like activity) are really more like [herbal/traditional](/support/herbal-traditional) medicine. The quick summary:
 
-- **Soy isoflavones**: Small benefit for some women. Effect may depend on your gut bacteria (whether you produce equol). Dietary soy may be more effective than supplements.
+- **Soy isoflavones**: A 2025 meta-analysis found no significant effect on hot flash frequency overall (Hedges' g = −0.03). The equol hypothesis — that women whose gut bacteria convert isoflavones to equol see more benefit — remains plausible but unproven at scale. Dietary soy may still offer other health benefits.
 - **Black cohosh**: Most-studied herbal remedy. May help hot flashes for some. Does NOT act as a phytoestrogen (mechanism unclear). Standardized extract (Remifemin) has best evidence.
 - **Red clover, hops, dong quai, evening primrose oil**: Mixed or negative evidence in trials.
 

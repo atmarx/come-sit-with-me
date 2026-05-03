@@ -91,7 +91,7 @@ What I will say:
 
 **Mediterranean-style eating** has the best evidence for overall health during this transition—vegetables, fruits, whole grains, olive oil, fish, nuts, legumes. It's associated with better cardiovascular and metabolic outcomes and may have anti-inflammatory effects that help [joint pain](/symptoms/aches).
 
-**Phytoestrogens** (soy, flaxseed) may or may not help your symptoms. The research is mixed. Some women find them helpful; others notice nothing. Dietary sources are probably better than supplements.
+**Phytoestrogens** (soy, flaxseed) — the evidence has clarified over time. A 2025 meta-analysis found no significant effect on hot flash frequency overall. Some women produce a compound called equol from soy metabolism and may see more benefit; most don't. Dietary soy still has other nutritional value regardless.
 
 **Calcium and vitamin D** matter for bone health. If you're not getting enough from food, supplementation may be warranted. Discuss with your provider.
 
