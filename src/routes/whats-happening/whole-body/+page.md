@@ -1,6 +1,6 @@
 ---
 title: Your Whole Body
-description: How perimenopause affects your heart, bones, metabolism, eyes, skin—everything
+description: How perimenopause affects your heart, bones, metabolism, eyes, mouth, skin—everything
 hero: /images/heroes/whole-body.webp
 heroAlt: Concentric ripples expanding outward in still water
 ---
@@ -58,6 +58,18 @@ The reassuring news: for most women, cognitive function stabilizes and often imp
 If your eyes feel drier, grittier, more irritated—that's not coincidence. <Cite id="dry-eye-menopause" tooltip="Menopause Society. Dry Eye and Menopause: Mechanisms and Management. 2025. Over 57% of menopausal women report dry eye symptoms.">About 57% of menopausal women experience dry eye symptoms.</Cite> Estrogen affects tear production and tear film composition.
 
 This is one of those symptoms that often gets overlooked or attributed to screens and aging, but the hormonal connection is real.
+
+## Your Mouth
+
+Your mouth is estrogen-sensitive, and almost no one talks about it.
+
+Salivary glands have estrogen receptors. As estrogen levels change, saliva production can decrease—a condition called dry mouth (xerostomia). This matters more than it sounds: saliva buffers acid, carries antimicrobial proteins, remineralizes tooth enamel between meals, and maintains the balance of the oral microbiome. Less saliva means a more acidic environment, less enamel protection, and conditions more favorable to the bacteria that cause cavities. Dentists notice the pattern—cavity rates climb after 45—but the hormonal connection is rarely made on either side of the exam room.
+
+Gum tissue is also estrogen-sensitive. Hormonal shifts can heighten the inflammatory response in gum tissue, which may mean new tenderness or bleeding independent of any change in your dental care routine.
+
+Burning mouth syndrome—a chronic burning or scalding sensation in the mouth, lips, or tongue without any visible cause—is diagnosed significantly more often in perimenopausal and postmenopausal women. If this has started happening to you, it has a name and a recognized mechanism. It isn't in your head.
+
+The oral microbiome that lives in saliva connects, through the gut, to the vaginal microbiome—both shifting in response to the same hormonal changes. Three different addresses, one transition. For deep reading on the oral ecosystem and what actually protects it, [Keep Your Teeth](https://keepyourteeth.org) goes there specifically.
 
 ## Your Skin
 
