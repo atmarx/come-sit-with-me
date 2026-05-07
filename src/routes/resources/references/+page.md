@@ -362,6 +362,10 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **FDA News Release.** ["FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause."](https://www.fda.gov/news-events/press-announcements) December 2024.
 
+<a aria-hidden="true" id="fezolinetant-nma-ht-comparison-2024"></a>
+
+**Morga A, et al.** ["Systematic review and network meta-analysis comparing the efficacy of fezolinetant with hormone and nonhormone therapies for treatment of vasomotor symptoms due to menopause."](https://doi.org/10.1097/GME.0000000000002281) *Menopause.* 2024;31(1):68-76.
+
 ---
 
 <a aria-hidden="true" id="nonhormone"></a>

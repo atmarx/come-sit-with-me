@@ -29,7 +29,7 @@ These drugs don't provide estrogen. They don't affect your hormone levels at all
 - 45mg once daily
 - **Important:** Requires liver enzyme monitoring (check before starting and periodically)
 
-For women who can't or won't take hormones but have significant hot flashes, this was the first genuinely new option in decades.
+For women who can't or won't take hormones but have significant hot flashes, this was the first genuinely new option in decades. <Cite id="fezolinetant-nma-ht-comparison-2024" tooltip="Morga A, et al. Network meta-analysis: fezolinetant vs. HT and non-HT for VMS. Menopause. 2024;31(1):68-76.">A 2024 network meta-analysis found fezolinetant's reduction of hot flash frequency was not significantly different from any US-available hormone therapy—and significantly better than all other non-hormone options studied.</Cite>
 
 ### Elinzanetant
 
