@@ -314,6 +314,17 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 ---
 
+<a aria-hidden="true" id="oral"></a>
+
+## Oral Health
+
+<a aria-hidden="true" id="oral-microbiome-sedghi-2021"></a>
+
+**Sedghi L, DiMassa V, Harrington A, Lynch SV, Kapila YL.** ["The Oral Microbiome: Role of Key Organisms and Complex Networks in Oral Health and Disease."](https://doi.org/10.3389/fmicb.2021.672912) *Frontiers in Microbiology.* 2021;12:672912.
+*Key finding: The oral microbiome (700+ species; second most diverse after the gut) connects to systemic health through three pathways — pathogen translocation, toxin circulation, and immune dysregulation. The relationship is bidirectional: systemic conditions including hormonal shifts alter oral microbiome composition.*
+
+---
+
 <a aria-hidden="true" id="bone"></a>
 
 ## Bone Health

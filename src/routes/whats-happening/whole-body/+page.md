@@ -69,7 +69,7 @@ Gum tissue is also estrogen-sensitive. Hormonal shifts can heighten the inflamma
 
 Burning mouth syndrome—a chronic burning or scalding sensation in the mouth, lips, or tongue without any visible cause—is diagnosed significantly more often in perimenopausal and postmenopausal women. If this has started happening to you, it has a name and a recognized mechanism. It isn't in your head.
 
-The oral microbiome that lives in saliva connects, through the gut, to the vaginal microbiome—both shifting in response to the same hormonal changes. Three different addresses, one transition. For deep reading on the oral ecosystem and what actually protects it, [Keep Your Teeth](https://keepyourteeth.org) goes there specifically.
+<Cite id="oral-microbiome-sedghi-2021" tooltip="Sedghi L, et al. The Oral Microbiome: Role of Key Organisms and Complex Networks in Oral Health and Disease. Front Microbiol. 2021. Three documented pathways from oral to systemic health — pathogen translocation, toxin circulation, immune dysregulation — and a bidirectional relationship: systemic and hormonal conditions alter oral microbiome composition.">The oral microbiome that lives in saliva connects, through the gut, to the vaginal microbiome—both shifting in response to the same hormonal changes.</Cite> Three different addresses, one transition. For deep reading on the oral ecosystem and what actually protects it, [Keep Your Teeth](https://keepyourteeth.org) goes there specifically.
 
 ## Your Skin
 
