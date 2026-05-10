@@ -301,6 +301,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Brincat M, et al.** ["A Study of the Decrease of Skin Collagen Content, Skin Thickness, and Bone Mass in the Postmenopausal Woman."](https://doi.org/10.1097/00006250-198712000-00003) *Obstetrics & Gynecology.* 1987;70(6):840-845.
 *Key finding: Women lose approximately 30% of skin collagen in the first 5 years after menopause, correlating more closely with duration of estrogen deficiency than chronological age.*
 
+<a aria-hidden="true" id="skin-estrogen-biology-2006"></a>
+
+**Verdier-Sévrain S, Bonté F, Gilchrest BA.** ["Biology of estrogens in skin: implications for skin aging."](https://doi.org/10.1111/j.1600-0625.2006.00362.x) *Experimental Dermatology.* 2006;15(2):83-94.
+*Key finding: Estrogen receptors (ER-α and ER-β) are distributed throughout skin — in the epidermis, dermis, sebaceous glands, hair follicles, and mast cells. Estrogen regulates dermal hyaluronic acid synthesis by fibroblasts, and its decline alters skin hydration, sensitivity, and wound healing capacity.*
+
+<a aria-hidden="true" id="fphl-pathophysiology-2018"></a>
+
+**Fabbrocini G, et al.** ["Female pattern hair loss: A clinical, pathophysiologic, and therapeutic review."](https://doi.org/10.1016/j.ijwd.2018.05.001) *International Journal of Women's Dermatology.* 2018;4(4):203-211.
+*Key finding: Female pattern hair loss involves DHT-mediated follicular miniaturization. As the estrogen-to-androgen ratio shifts during perimenopause and menopause, follicular sensitivity to androgens increases, producing the diffuse crown-thinning pattern distinct from male-pattern recession.*
+
 ---
 
 <a aria-hidden="true" id="eyes"></a>

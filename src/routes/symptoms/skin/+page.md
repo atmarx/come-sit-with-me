@@ -13,7 +13,7 @@ Nobody warned you about the itching.
 
 Skin changes during perimenopause are real, common, and often dismissed as cosmetic concerns—when they're nothing of the sort. Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
 
-Estrogen receptors are woven through your skin—in the outer layers, in the oil glands, in the connective tissue below, and in the peripheral nerve fibers that run through all of it. When estrogen fluctuates, your skin notices at every level.
+<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">Estrogen receptors are woven through your skin—in the outer layers, in the oil glands, in the connective tissue below, and in the peripheral nerve fibers that run through all of it.</Cite> When estrogen fluctuates, your skin notices at every level.
 
 ## The Itching (Formication)
 
@@ -24,7 +24,7 @@ Here's what's actually happening: estrogen receptors are present in peripheral s
 Other mechanisms feeding the same fire:
 - **Reduced oil production** from sebaceous glands—dry skin has a lower itch threshold
 - **Thinning skin** that becomes more sensitive to pressure, fabrics, and temperature
-- **Histamine changes**—mast cells in the skin have estrogen receptors, and as estrogen shifts, some women's skin becomes more reactive to things that never bothered them before
+- **Histamine changes**—<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">mast cells in the skin have estrogen receptors, and as estrogen shifts, some women's skin becomes more reactive to things that never bothered them before</Cite>
 
 The itching can be:
 - Generalized (all over) or localized (specific spots)
@@ -37,7 +37,7 @@ You're not imagining it. This is a real phenomenon with a real, layered cause.
 
 Estrogen does two things for skin moisture, and most people only know about one.
 
-The first is oil production—estrogen regulates sebaceous glands, and as levels drop, skin produces less natural oil. But the second is deeper: estrogen tells your skin's fibroblasts to produce **hyaluronic acid**, a molecule that binds water in the dermis from the inside. The same HA that's used in injectable fillers is naturally present in healthy skin—and it's estrogen-dependent.
+The first is oil production—estrogen regulates sebaceous glands, and as levels drop, skin produces less natural oil. But the second is deeper: <Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">estrogen tells your skin's fibroblasts to produce **hyaluronic acid**, a molecule that binds water in the dermis from the inside.</Cite> The same HA that's used in injectable fillers is naturally present in healthy skin—and it's estrogen-dependent.
 
 As estrogen drops, HA production drops. Your skin loses its ability to hold moisture even when you're well-hydrated. This is why drinking more water doesn't fix it. This is why products that worked for twenty years suddenly aren't enough. You're working around a structural change.
 
@@ -65,7 +65,7 @@ This isn't vanity. Skin is your largest organ, and its integrity matters for pro
 
 Hormonal shifts affect hair too—and not in ways anyone prepared you for.
 
-**Scalp thinning** is the most distressing for many women. As estrogen falls relative to androgens, hair follicles become more sensitive to dihydrotestosterone (DHT)—the same hormone that drives male pattern baldness. Follicles begin to miniaturize; hairs grow in finer and shed faster. Most women see **diffuse thinning across the crown** rather than a receding hairline, though some see both. This is called female pattern hair loss, and it's more common in perimenopause than most people know.
+<Cite id="fphl-pathophysiology-2018" tooltip="Fabbrocini G, et al. Female pattern hair loss: A clinical, pathophysiologic, and therapeutic review. International Journal of Women's Dermatology. 2018;4(4):203-211.">**Scalp thinning** is the most distressing for many women. As estrogen falls relative to androgens, hair follicles become more sensitive to dihydrotestosterone (DHT)—the same hormone that drives male pattern baldness. Follicles begin to miniaturize; hairs grow in finer and shed faster. Most women see **diffuse thinning across the crown** rather than a receding hairline, though some see both. This is called female pattern hair loss, and it's more common in perimenopause than most people know.</Cite>
 
 But it's not only your scalp:
 - **Eyebrows and eyelashes** can thin too—quieter than scalp loss but real, and meaningful if your brows have always been part of your face
