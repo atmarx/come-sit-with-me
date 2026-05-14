@@ -11,15 +11,15 @@ heroAlt: Botanical leaves in various stages from spring green to autumn gold
 
 Nobody warned you about the itching.
 
-Skin changes during perimenopause are real, common, and often dismissed as cosmetic concerns—when they're nothing of the sort. Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
+<Cite id="zouboulis-menopause-skin-2022" tooltip="Zouboulis CC, et al. Skin, hair and beyond: the impact of menopause. Climacteric. 2022;25(5):434-442.">Skin changes during perimenopause are real, common, and often dismissed as cosmetic concerns—when they're nothing of the sort.</Cite> Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
 
-<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">Estrogen receptors are woven through your skin—in the outer layers, in the oil glands, in the connective tissue below, and in the peripheral nerve fibers that run through all of it.</Cite> When estrogen fluctuates, your skin notices at every level.
+<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">Estrogen receptors are woven through your skin—in the outer layers, in the oil glands, in the connective tissue below, and in the mast cells distributed throughout.</Cite> When estrogen fluctuates, your skin notices at every level.
 
 ## The Itching (Formication)
 
 Many perimenopausal women experience unexplained itching—sometimes described as crawling sensations under the skin, like ants walking on you. This has a name: **formication** (from the Latin *formica*, ant).
 
-Here's what's actually happening: estrogen receptors are present in peripheral sensory nerve fibers. When estrogen fluctuates, these nerves can become hyperresponsive—sending itch and crawl signals even when nothing is touching you, even when your skin looks perfectly normal. This is **neurogenic itching**, and it's distinct from ordinary dry-skin itch, though both can happen at once.
+One likely contributor is altered nerve sensitivity. Estrogen receptors are found throughout skin and related structures, and menopause-related changes in hydration, barrier function, inflammation, and sensory signaling may lower the threshold for itch or crawling sensations. This can feel like it's coming from the nerves themselves rather than from a visible rash—even when dryness is also part of the picture. Both can happen at once.
 
 Other mechanisms feeding the same fire:
 - **Reduced oil production** from sebaceous glands—dry skin has a lower itch threshold
@@ -39,7 +39,7 @@ Estrogen does two things for skin moisture, and most people only know about one.
 
 The first is oil production—estrogen regulates sebaceous glands, and as levels drop, skin produces less natural oil. But the second is deeper: <Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">estrogen tells your skin's fibroblasts to produce **hyaluronic acid**, a molecule that binds water in the dermis from the inside.</Cite> The same HA that's used in injectable fillers is naturally present in healthy skin—and it's estrogen-dependent.
 
-As estrogen drops, HA production drops. Your skin loses its ability to hold moisture even when you're well-hydrated. This is why drinking more water doesn't fix it. This is why products that worked for twenty years suddenly aren't enough. You're working around a structural change.
+As estrogen declines, the skin tends to produce and retain less hyaluronic acid. Your skin loses its ability to hold moisture even when you're well-hydrated. This is why drinking more water alone doesn't fix it. This is why products that worked for twenty years suddenly aren't enough. You're working around a structural change.
 
 What you'll notice:
 - Skin that feels tight, uncomfortable, almost papery
@@ -65,7 +65,7 @@ This isn't vanity. Skin is your largest organ, and its integrity matters for pro
 
 Hormonal shifts affect hair too—and not in ways anyone prepared you for.
 
-<Cite id="fphl-pathophysiology-2018" tooltip="Fabbrocini G, et al. Female pattern hair loss: A clinical, pathophysiologic, and therapeutic review. International Journal of Women's Dermatology. 2018;4(4):203-211.">**Scalp thinning** is the most distressing for many women. As estrogen falls relative to androgens, hair follicles become more sensitive to dihydrotestosterone (DHT)—the same hormone that drives male pattern baldness. Follicles begin to miniaturize; hairs grow in finer and shed faster. Most women see **diffuse thinning across the crown** rather than a receding hairline, though some see both. This is called female pattern hair loss, and it's more common in perimenopause than most people know.</Cite>
+<Cite id="fphl-pathophysiology-2018" tooltip="Fabbrocini G, et al. Female pattern hair loss: A clinical, pathophysiologic, and therapeutic review. International Journal of Women's Dermatology. 2018;4(4):203-211.">**Scalp thinning** is the most distressing for many women. As estrogen falls relative to androgen activity, genetically susceptible follicles may become more vulnerable to androgen signaling, including DHT. Follicles begin to miniaturize; hairs grow in finer and shed faster. Most women see **diffuse thinning across the crown** rather than a receding hairline, though some see both. This is called female pattern hair loss, and it's more common in perimenopause than most people know.</Cite>
 
 But it's not only your scalp:
 - **Eyebrows and eyelashes** can thin too—quieter than scalp loss but real, and meaningful if your brows have always been part of your face
@@ -81,8 +81,8 @@ The emotional weight of losing hair that has been part of your identity since ch
 - Gentle, fragrance-free moisturizers—fragrance is a common irritant, especially on sensitive perimenopausal skin
 - Avoiding hot showers (they strip what natural oils remain; lukewarm is genuinely better)
 - Colloidal oatmeal products—genuinely soothing for irritated, reactive skin
-- Antihistamines can help if the itching has a histamine component, but since some of this is neurogenic, they may not fully relieve it
-- [Hormone therapy](/support/hormone-therapy) can address the root cause if symptoms are severe
+- Antihistamines can help if the itching has a histamine component, but they may not fully relieve it—the mechanisms involved go beyond histamine release
+- <Cite id="nams-position-2022" tooltip="The Menopause Society. The 2022 Hormone Therapy Position Statement. Menopause. 2022;29(7):767-794.">[Hormone therapy](/support/hormone-therapy) addresses the underlying hormonal shifts driving skin changes</Cite>—typically considered as part of overall perimenopause management rather than for skin symptoms in isolation
 
 **For dryness:**
 - Heavier moisturizers, especially at night—look for ceramides and hyaluronic acid, which support the barrier and restore water-binding capacity
@@ -101,8 +101,9 @@ The emotional weight of losing hair that has been part of your identity since ch
 - Gentle handling—hair is more fragile, and tight hairstyles or heat stress make miniaturization worse
 - Check iron, vitamin D, and thyroid levels (all can drive shedding and are common deficiencies)
 - Consider whether hair products have become too harsh—the scalp is also affected by skin changes
-- Low-level laser therapy (red light) is FDA-cleared for female pattern hair loss and has reasonable evidence
-- Dermatologist consultation if loss is significant—a derm who specializes in hair can help distinguish between androgenic loss, thyroid-related shedding, and other causes
+- <Cite id="fphl-treatment-update-2023" tooltip="Ramos PM, Miot HA. Female-pattern hair loss: therapeutic update. Anais Brasileiros de Dermatologia. 2023;98(4):506-519.">Topical minoxidil is the best-supported first-line treatment for female pattern hair loss</Cite>—a dermatologist can help confirm whether the pattern is androgenetic loss, telogen effluvium, thyroid or iron-related shedding, or something else
+- Low-level laser therapy (red light) is FDA-cleared for female pattern hair loss and has reasonable evidence, though results vary by device and consistency of use
+- A dermatologist who specializes in hair is worth seeing if loss is significant—they can sequence what to try and help rule out other causes
 
 ## When It's Not "Just" Perimenopause
 

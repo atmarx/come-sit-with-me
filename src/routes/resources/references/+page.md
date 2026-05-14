@@ -311,6 +311,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Fabbrocini G, et al.** ["Female pattern hair loss: A clinical, pathophysiologic, and therapeutic review."](https://doi.org/10.1016/j.ijwd.2018.05.001) *International Journal of Women's Dermatology.* 2018;4(4):203-211.
 *Key finding: Female pattern hair loss involves DHT-mediated follicular miniaturization. As the estrogen-to-androgen ratio shifts during perimenopause and menopause, follicular sensitivity to androgens increases, producing the diffuse crown-thinning pattern distinct from male-pattern recession.*
 
+<a aria-hidden="true" id="zouboulis-menopause-skin-2022"></a>
+
+**Zouboulis CC, Blume-Peytavi U, Kosmadaki M, et al.** ["Skin, hair and beyond: the impact of menopause."](https://doi.org/10.1080/13697137.2022.2050206) *Climacteric.* 2022;25(5):434-442.
+*Key finding: Comprehensive review of menopause-related skin and hair changes — dryness, pruritus, thinning, atrophy, poor wound healing, reduced vascularity, and hair loss are all documented and mechanistically grounded in estrogen's widespread effects on skin biology.*
+
+<a aria-hidden="true" id="fphl-treatment-update-2023"></a>
+
+**Ramos PM, Miot HA.** ["Female-pattern hair loss: therapeutic update."](https://pmc.ncbi.nlm.nih.gov/articles/PMC10334345/) *Anais Brasileiros de Dermatologia.* 2023;98(4):506-519.
+*Key finding: Topical minoxidil remains the best-supported first-line treatment for female pattern hair loss. Low-level laser therapy, oral minoxidil, and other approaches have evidence as adjuncts or alternatives. Distinguishing androgenetic alopecia from telogen effluvium and other causes guides treatment selection.*
+
 ---
 
 <a aria-hidden="true" id="eyes"></a>
