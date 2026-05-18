@@ -321,6 +321,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Ramos PM, Miot HA.** ["Female-pattern hair loss: therapeutic update."](https://doi.org/10.1016/j.abd.2022.09.006) *Anais Brasileiros de Dermatologia.* 2023;98(4):506-519.
 *Key finding: Topical minoxidil remains the best-supported first-line treatment for female pattern hair loss. Low-level laser therapy, oral minoxidil, and other approaches have evidence as adjuncts or alternatives. Distinguishing androgenetic alopecia from telogen effluvium and other causes guides treatment selection.*
 
+<a aria-hidden="true" id="lllt-pattern-hair-loss-meta-2021"></a>
+
+**Lueangarun S, et al.** ["A systematic review and meta-analysis of randomized controlled trials of FDA-approved low-level light therapy devices for pattern hair loss."](https://pmc.ncbi.nlm.nih.gov/articles/PMC8675345/) *Lasers in Medical Science.* 2021.
+*Key finding: FDA-cleared low-level light therapy devices showed statistically significant improvement in pattern hair loss outcomes across multiple RCTs, though results vary by device, protocol, and consistency of use.*
+
 ---
 
 <a aria-hidden="true" id="eyes"></a>

@@ -102,7 +102,7 @@ The emotional weight of losing hair that has been part of your identity since ch
 - Check iron, vitamin D, and thyroid levels (all can drive shedding and are common deficiencies)
 - Consider whether hair products have become too harsh—the scalp is also affected by skin changes
 - <Cite id="fphl-treatment-update-2023" tooltip="Ramos PM, Miot HA. Female-pattern hair loss: therapeutic update. Anais Brasileiros de Dermatologia. 2023;98(4):506-519.">Topical minoxidil is the best-supported first-line treatment for female pattern hair loss</Cite>—a dermatologist can help confirm whether the pattern is androgenetic loss, telogen effluvium, thyroid or iron-related shedding, or something else
-- Low-level laser therapy (red light) is FDA-cleared for female pattern hair loss and has reasonable evidence, though results vary by device and consistency of use
+- <Cite id="lllt-pattern-hair-loss-meta-2021" tooltip="Lueangarun S, et al. A systematic review and meta-analysis of randomized controlled trials of FDA-approved low-level light therapy devices for pattern hair loss. Lasers in Medical Science. 2021.">Low-level laser therapy (red light) is FDA-cleared for female pattern hair loss and has reasonable evidence, though results vary by device and consistency of use</Cite>
 - A dermatologist who specializes in hair is worth seeing if loss is significant—they can sequence what to try and help rule out other causes
 
 ## When It's Not "Just" Perimenopause
