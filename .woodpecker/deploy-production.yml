@@ -39,5 +39,11 @@ steps:
       - rsync -az docker-compose.production.yml deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
       - rsync -az caddy/come-sit-with-me.caddy deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
       - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash < scripts/deploy-production.sh
+      # Sacrificial final line.  Tag pipelines #34/#35 (2026-08-10) both died
+      # because the runner truncated the trailing bytes of the LAST command —
+      # the ssh line above executed as "... < scripts/deploy-production." even
+      # though the echoed command showed ".sh".  Keeping a padded no-op last
+      # means any tail-truncation eats padding instead of the deploy.
+      - 'true tail-truncation-padding-do-not-remove ........................'
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
