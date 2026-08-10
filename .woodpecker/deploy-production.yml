@@ -45,14 +45,17 @@ steps:
       # time.  So: ship the script with rsync (proven above) and run it by path.
       # --- TEMPORARY v1.2.3 stale-deploy diagnostics (brighid, 2026-08-10). ---
       # Production kept serving the v1.2.2 image after a fully green pull+up.
-      # These probes print the droplet-side state before and after the deploy;
+      # Probes live in scripts/diag-droplet.sh (inline quoting broke the
+      # runner's generated script on diag1 — same lesson as the stdin bug:
+      # logic in scripts, YAML stays dumb).  Runs before and after the deploy;
       # the final intentional exit 1 makes the step logs retrievable.  Remove
       # once the stale-deploy cause is confirmed.
-      - 'ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "echo DIAG-PRE; ls -la /opt/projects/come-sit-with-me/; echo ---; cat /opt/projects/come-sit-with-me/.env 2>/dev/null || echo NO-DOTENV; echo ---; docker ps --format \"{{.Names}} => {{.Image}} ports={{.Ports}} up={{.Status}}\"; echo ---; docker image ls git.dev.xram.net/atmarx/come-sit-with-me --format \"{{.Tag}} {{.ID}} created={{.CreatedAt}}\""'
-      - 'ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "cd /opt/projects/come-sit-with-me && docker compose -f docker-compose.production.yml config 2>/dev/null | grep -E \"image|container_name|name:\" || echo COMPOSE-CONFIG-FAILED"'
+      - rsync -az scripts/diag-droplet.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
+      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh
       - rsync -az scripts/deploy-production.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
       - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/deploy-production.sh
-      - 'ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "echo DIAG-POST; docker inspect come-sit-with-me-prod --format \"prod-container image={{.Image}} started={{.State.StartedAt}}\" 2>/dev/null || echo NO-PROD-CONTAINER; wget -qO- http://127.0.0.1:3011/resources/references | grep -o keeps-trial-2014 | head -1 || echo V123-MARKER-ABSENT-FROM-CONTAINER"'
-      - 'echo DIAG-COMPLETE-INTENTIONAL-FAIL && exit 1'
+      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh
+      - echo DIAG-COMPLETE-INTENTIONAL-FAIL
+      - exit 1
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
