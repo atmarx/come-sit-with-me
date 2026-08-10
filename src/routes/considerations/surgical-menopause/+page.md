@@ -2,6 +2,7 @@
 title: Surgical and Premature Menopause
 description: When menopause comes suddenly or early—unique challenges and approaches
 hero: /images/heroes/surgical-menopause.webp
+heroAlt: Weathered stone archway opening onto a sunlit garden path
 ---
 
 <script>

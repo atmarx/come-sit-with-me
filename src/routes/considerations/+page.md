@@ -2,6 +2,7 @@
 title: Special Considerations
 description: Contraception, cancer history, surgical menopause, and neurodivergence
 hero: /images/heroes/considerations.webp
+heroAlt: Forest path forking in two directions through sunlit woodland
 ---
 
 <script>

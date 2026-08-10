@@ -2,6 +2,7 @@
 title: History of Hormone-Sensitive Cancer
 description: Menopause options for breast cancer survivors and those with hormone-sensitive cancer history
 hero: /images/heroes/cancer-history.webp
+heroAlt: Sunrise over calm water, with grasses and stones along the near shore
 ---
 
 If you've had breast cancer or another hormone-sensitive cancer, navigating perimenopause comes with different constraints. Some of the most effective treatments—hormones—may be off the table. Providers may be hesitant to try anything at all.

@@ -2,6 +2,7 @@
 title: LGBTQ+ Considerations
 description: Navigating perimenopause across the spectrum of gender and sexuality
 hero: /images/heroes/lgbtq.webp
+heroAlt: Glass prism splitting a beam of light into a rainbow
 ---
 
 <script>

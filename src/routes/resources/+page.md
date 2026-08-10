@@ -2,6 +2,7 @@
 title: Resources
 description: Organizations, landmark studies, books, and further reading
 hero: /images/heroes/resources.webp
+heroAlt: Shelves of old books beside a brass mortar and jars of dried herbs
 ---
 
 <script>

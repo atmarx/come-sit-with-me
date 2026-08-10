@@ -2,6 +2,7 @@
 title: Finding Care
 description: Navigating the provider gap and advocating for yourself
 hero: /images/heroes/finding-care.webp
+heroAlt: Compass rose with a glowing center, drawn on mottled parchment
 ---
 
 <script>

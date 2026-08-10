@@ -2,6 +2,7 @@
 title: Support & Options
 description: Approaches for navigating perimenopause—hormonal, non-hormonal, herbal, mind-body, and lifestyle
 hero: /images/heroes/support.webp
+heroAlt: Open garden shed door with drying herbs, clay pots and boots, a sunlit path beyond
 ---
 
 <script>
