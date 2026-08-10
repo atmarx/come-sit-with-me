@@ -38,12 +38,12 @@ steps:
       - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "mkdir -p /opt/projects/come-sit-with-me/caddy /opt/projects/come-sit-with-me/_staged"
       - rsync -az docker-compose.production.yml deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
       - rsync -az caddy/come-sit-with-me.caddy deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
-      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash < scripts/deploy-production.sh
-      # Sacrificial final line.  Tag pipelines #34/#35 (2026-08-10) both died
-      # because the runner truncated the trailing bytes of the LAST command —
-      # the ssh line above executed as "... < scripts/deploy-production." even
-      # though the echoed command showed ".sh".  Keeping a padded no-op last
-      # means any tail-truncation eats padding instead of the deploy.
-      - 'true tail-truncation-padding-do-not-remove ........................'
+      # The runner mangles stdin-redirect commands: "bash < scripts/deploy-production.sh"
+      # executed as "bash < scripts/deploy-production." on tag pipelines #34, #35,
+      # and #38 (2026-08-10) even though the runner's own echo of the command showed
+      # the full filename.  Redirect-free commands in this same step ran clean every
+      # time.  So: ship the script with rsync (proven above) and run it by path.
+      - rsync -az scripts/deploy-production.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
+      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/deploy-production.sh
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
