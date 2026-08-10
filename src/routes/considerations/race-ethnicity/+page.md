@@ -65,7 +65,7 @@ Here's where I need to be honest about something that may not surprise you if yo
 **The medical system treats you worse.**
 
 Studies show:
-- Black and Hispanic women are prescribed [hormone therapy](/support/hormone-therapy) at lower rates than white women
+- <Cite id="healthcare-disparities" tooltip="Sriprasert I, et al. Initiation and Duration of Systemic Hormone Therapy for Menopausal Symptoms. Obstetrics & Gynecology. 2026.">Black women are started on [hormone therapy](/support/hormone-therapy) less often than white women—and once started, Black and Hispanic women discontinue it sooner</Cite>
 - Women of color are more likely to have their symptoms dismissed
 - Pain and discomfort reported by Black women is systematically underestimated by healthcare providers
 - The "classic" presentation of menopause symptoms—developed largely from studies of white women—may not match your experience, leading to missed diagnoses

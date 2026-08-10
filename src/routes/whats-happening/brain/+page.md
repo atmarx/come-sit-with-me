@@ -21,7 +21,7 @@ These neurons sit right next to your brain's thermostat. And they have estrogen 
 
 Here's what happens:
 
-When estrogen is present, it keeps these neurons calm. But when estrogen drops—or, crucially, when it *fluctuates*—these neurons become hyperactive. They flood your thermoregulatory center with neurokinin B, essentially narrowing your body's comfort zone to almost nothing.
+When estrogen is present, it keeps these neurons calm. But when estrogen drops—or, crucially, when it *fluctuates*—these neurons become hyperactive. <Cite id="kndy-thermoregulation-2013" tooltip="Rance NE, et al. Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy Neurons: A Novel Hypothesis on the Mechanism of Hot Flushes. Frontiers in Neuroendocrinology. 2013;34(3):211-227.">They flood your thermoregulatory center with neurokinin B, essentially narrowing your body's comfort zone to almost nothing.</Cite>
 
 Normally, your body tolerates a range of temperatures before deciding you're too hot or too cold. During perimenopause, that range shrinks dramatically. A change that wouldn't have registered before now triggers your body's full heat-dissipation response: blood vessels dilate, sweat pours, your skin flushes.
 

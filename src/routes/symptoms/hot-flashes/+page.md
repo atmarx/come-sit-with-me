@@ -21,7 +21,7 @@ Deep in your brain, in a region called the hypothalamus, there's a thermostat. N
 
 During perimenopause, that range shrinks to nearly nothing.
 
-Why? <Cite id="kndy-neurons-2010" tooltip="Rance NE, et al. Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy (Kisspeptin, Neurokinin B and Dynorphin) Neurons. Frontiers in Neuroendocrinology. 2013;34(3):211-227.">Because of neurons called [KNDy neurons](/whats-happening/brain) that sit right next to your thermostat.</Cite> When estrogen is stable, these neurons stay calm. When estrogen drops—or fluctuates wildly—they become hyperactive. They flood your temperature control center with signals, narrowing your comfort zone until the slightest shift triggers a full heat-dissipation response.
+Why? <Cite id="kndy-thermoregulation-2013" tooltip="Rance NE, et al. Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy (Kisspeptin, Neurokinin B and Dynorphin) Neurons. Frontiers in Neuroendocrinology. 2013;34(3):211-227.">Because of neurons called [KNDy neurons](/whats-happening/brain) that sit right next to your thermostat.</Cite> When estrogen is stable, these neurons stay calm. When estrogen drops—or fluctuates wildly—they become hyperactive. They flood your temperature control center with signals, narrowing your comfort zone until the slightest shift triggers a full heat-dissipation response.
 
 Your blood vessels dilate. Your skin flushes. You sweat. Your body is desperately trying to cool down from heat that doesn't actually exist.
 

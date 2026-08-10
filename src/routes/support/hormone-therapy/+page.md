@@ -16,31 +16,31 @@ Let me tell you what actually happened, and what we now know.
 
 ## The WHI Controversy
 
-In 2002, the Women's Health Initiative study was halted early and its results announced in a press conference that terrified women and doctors alike. Headlines screamed about increased breast cancer, heart attacks, strokes.
+<Cite id="whi-initial-2002" tooltip="Writing Group for the WHI Investigators. Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women. JAMA. 2002;288(3):321-333.">In 2002, the Women's Health Initiative study was halted early</Cite> and its results announced in a press conference that terrified women and doctors alike. Headlines screamed about increased breast cancer, heart attacks, strokes.
 
 Hormone therapy use plummeted by 50% overnight. An entire generation of women suffered through symptoms they didn't need to suffer through.
 
 Here's what got lost in the panic:
 
-**The study population was wrong for the question.** The average age of participants was 63. Many were more than a decade past menopause. This is completely different from treating a 48-year-old in perimenopause.
+**The study population was wrong for the question.** <Cite id="whi-initial-2002" tooltip="Writing Group for the WHI Investigators. Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women. JAMA. 2002;288(3):321-333.">The average age of participants was 63. Many were more than a decade past menopause.</Cite> This is completely different from treating a 48-year-old in perimenopause.
 
 **The hormones used were specific formulations.** The study used only oral conjugated equine estrogen (Premarin) and medroxyprogesterone acetate (Provera). We now know these aren't optimal—but the results were applied to all hormone therapy.
 
-**The absolute risks were small.** The headlines focused on relative risk increases that sounded alarming but represented very small absolute numbers.
+**The absolute risks were small.** <Cite id="whi-followup-2013" tooltip="Manson JE, et al. Menopausal Hormone Therapy and Health Outcomes During the Intervention and Extended Poststopping Phases of the WHI Randomized Trials. JAMA. 2013;310(13):1353-1368.">The headlines focused on relative risk increases that sounded alarming but represented very small absolute numbers.</Cite>
 
-**Benefits were ignored.** The study actually showed decreased fractures, decreased colorectal cancer, and—in the estrogen-only arm—no increased breast cancer risk.
+**Benefits were ignored.** <Cite id="whi-initial-2002" tooltip="Writing Group for the WHI Investigators. Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women. JAMA. 2002;288(3):321-333.">The study actually showed decreased fractures, decreased colorectal cancer</Cite>, and—<Cite id="whi-estrogen-alone-2004" tooltip="WHI Steering Committee. Effects of Conjugated Equine Estrogen in Postmenopausal Women with Hysterectomy. JAMA. 2004;291(14):1701-1712.">in the estrogen-only arm—no increased breast cancer risk</Cite>.
 
 ## The Reassessment (2024-2025)
 
 Twenty years of subsequent research, including major analyses from Nature, Yale, the Korean Society of Menopause, and the International Menopause Society, have dramatically shifted the picture:
 
-**The timing hypothesis is validated.** Starting hormone therapy early—within 10 years of menopause, or under age 60—produces different effects than starting late. Early initiation is protective for the heart; late initiation may not be.
+**The timing hypothesis is validated.** <Cite id="whi-reanalysis-2007" tooltip="Rossouw JE, et al. Postmenopausal Hormone Therapy and Risk of Cardiovascular Disease by Age and Years Since Menopause. JAMA. 2007;297(13):1465-1477.">Starting hormone therapy early—within 10 years of menopause, or under age 60—produces different effects than starting late.</Cite> <Cite id="elite-2016" tooltip="Hodis HN, et al. Vascular Effects of Early versus Late Postmenopausal Treatment with Estradiol. New England Journal of Medicine. 2016;374(13):1221-1231.">Early initiation is protective for the heart; late initiation may not be.</Cite>
 
 **Transdermal estrogen is safer than oral.** Patches, gels, and sprays bypass the liver, don't increase clotting risk, and don't raise blood pressure like oral estrogen can.
 
 **Micronized progesterone is preferred.** Unlike synthetic progestins, micronized progesterone (Prometrium) has a better safety profile, helps with [sleep](/symptoms/sleep-wont-come), and may have a lower impact on breast cancer risk.
 
-**The FDA is changing its stance.** As of 2025, the FDA is initiating removal of the boxed warnings that have scared women and providers for two decades.
+**The FDA has changed its stance.** <Cite id="fda-ht-relabel-2026" tooltip="U.S. Food and Drug Administration. FDA Approves Labeling Changes for Menopausal Hormone Therapy Products. February 12, 2026.">In late 2025 the FDA announced it would remove the boxed warnings that scared women and providers for two decades—and in February 2026 the first revised labels were approved, including for vaginal estrogen.</Cite>
 
 ## Current Evidence
 
@@ -49,8 +49,8 @@ Twenty years of subsequent research, including major analyses from Nature, Yale,
 | **Cardiovascular** | Protective if started early; potentially harmful if late | Yes—within 10 years of menopause |
 | **Breast cancer** | Small absolute risk increase with combined estrogen + progestin; estrogen-only may not increase risk | Duration matters |
 | **Bone health** | Prevents fractures; effect is maintained while taking HT | Any age |
-| **Cognition** | May protect if early; may harm if late | Yes—under 60 |
-| **[Depression](/symptoms/mood)** | Effective for perimenopausal depression | During transition |
+| **Cognition** | Largest analyses find no effect on dementia risk—neither protection nor harm | Not a reason to start or avoid |
+| **[Depression](/symptoms/mood)** | Can help perimenopausal depression—average benefit is modest | During transition |
 | **[Hot flashes](/symptoms/hot-flashes)** | Most effective treatment available | Any stage |
 | **[Vaginal symptoms](/symptoms/dryness)** | Highly effective; local estrogen is safe for most | Any stage |
 
@@ -109,11 +109,11 @@ Some practical considerations:
 
 **Dosing may need adjustment.** Many women start on a standard dose and adjust based on response. Some need more; some need less.
 
-**There may be side effects initially.** Breast tenderness, bloating, spotting—these often settle within a few months.
+**There may be side effects initially.** Breast tenderness, bloating, spotting—these often settle within a few months. <Cite id="nice-guidelines-2015" tooltip="National Institute for Health and Care Excellence. Menopause: Diagnosis and Management. NICE Guideline NG23. 2015, updated April 2026.">Bleeding that persists, or that shows up new after things had settled, deserves a proper check—UK guidance now has a formal referral pathway for exactly this—so tell your provider rather than waiting it out.</Cite>
 
 **You don't have to stay on it forever.** The decision about duration is individual. Some women use it for a few years during the worst of the transition; others stay on it longer. There's no mandatory stop date.
 
-**Stopping should be gradual.** Abruptly stopping can trigger a return of symptoms. Tapering is usually better.
+**Stopping should be gradual.** <Cite id="nice-guidelines-2015" tooltip="National Institute for Health and Care Excellence. Menopause: Diagnosis and Management. NICE Guideline NG23. 2015, updated 2026.">Abruptly stopping can trigger a return of symptoms. Tapering is usually better.</Cite>
 
 ## Finding a Knowledgeable Provider
 

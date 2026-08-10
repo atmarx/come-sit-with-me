@@ -49,7 +49,7 @@ Research also shows that higher FSH and LH levels—which rise as your ovaries b
 
 **For most women, this improves.**
 
-Cognitive symptoms tend to be worst during the chaotic transition of perimenopause—when hormones are swinging wildly. Once you reach stable postmenopause, when the fluctuations settle, most women find their cognitive function returns.
+Cognitive symptoms tend to be worst during the chaotic transition of perimenopause—when hormones are swinging wildly. <Cite id="swan-cognition-2009" tooltip="Greendale GA, et al. Effects of the Menopause Transition and Hormone Use on Cognitive Performance in Midlife Women. Neurology. 2009;72(21):1850-1857.">In the SWAN study, women stopped making the normal practice-related gains on cognitive testing during late perimenopause—and performance rebounded to premenopausal levels in postmenopause.</Cite> Once you reach stable postmenopause, when the fluctuations settle, most women find their cognitive function returns.
 
 The fog is typically temporary. It doesn't mean you're declining. It means your brain is adapting to a major neurochemical shift.
 
@@ -76,7 +76,7 @@ Some women find [hormone therapy](/support/hormone-therapy) helps with cognitive
 
 ## When to Seek Evaluation
 
-Brain fog during perimenopause is common and usually benign. But significant cognitive changes—especially rapid changes, or changes that affect your ability to function safely—warrant medical evaluation.
+<Cite id="brain-fog-real" tooltip="Maki PM, Henderson VW. Cognition and the Menopause Transition. Menopause. 2016;23(7):803-805.">Brain fog during perimenopause is common and usually benign.</Cite> But significant cognitive changes—especially rapid changes, or changes that affect your ability to function safely—warrant medical evaluation.
 
 Your provider should:
 - Take your concerns seriously
@@ -90,6 +90,8 @@ If your provider dismisses you, find another. Your brain matters.
 I know what many women fear when the fog rolls in: *Is this the beginning of dementia?*
 
 For the vast majority of women, it is not. The cognitive changes of perimenopause are different from neurodegenerative disease—they're temporary, they're tied to hormonal transition, and they improve.
+
+One more piece of reassurance: <Cite id="ht-dementia-meta-2025" tooltip="Melville M, et al. Menopause Hormone Therapy and Risk of Mild Cognitive Impairment or Dementia: A Systematic Review and Meta-Analysis. The Lancet Healthy Longevity. 2025;6(12):100803.">an analysis of over a million women—the evidence base for the WHO's 2026 dementia-prevention guidelines—found that hormone therapy neither raises nor lowers dementia risk.</Cite> Fear of dementia is not a reason to avoid treating your symptoms. And hormone therapy is not a way to prevent dementia, either.
 
 That said: if you have a family history of Alzheimer's or specific concerns, it's reasonable to discuss them with your doctor. Knowledge is better than fear.
 

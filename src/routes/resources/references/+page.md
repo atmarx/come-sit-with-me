@@ -116,15 +116,10 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 ## Hot Flashes & Vasomotor Symptoms
 
-<a aria-hidden="true" id="kndy-neurons-2010"></a>
+<a aria-hidden="true" id="kndy-thermoregulation-2013"></a>
 
-**Rance NE, et al.** ["Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy (Kisspeptin, Neurokinin B and Dynorphin) Neurons: A Novel Hypothesis on the Mechanism of Hot Flushes."](https://doi.org/10.1016/j.yfrne.2013.02.003) *Frontiers in Neuroendocrinology.* 2013;34(3):211-227.
-*Discovery of KNDy neurons and their role in thermoregulation.*
-
-<a aria-hidden="true" id="kndy-mechanism-2017"></a>
-
-**Padilla SL, et al.** ["Kisspeptin Neurons in the Arcuate Nucleus of the Hypothalamus Orchestrate Circadian Rhythms and Metabolism."](https://doi.org/10.1016/j.cub.2019.01.022) *Current Biology.* 2019;29(4):592-604.
-*Further research on KNDy neuron function.*
+**Rance NE, et al.** ["Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy (Kisspeptin, Neurokinin B and Dynorphin) Neurons: A Novel Hypothesis on the Mechanism of Hot Flushes."](https://doi.org/10.1016/j.yfrne.2013.07.003) *Frontiers in Neuroendocrinology.* 2013;34(3):211-227.
+*Discovery of KNDy neurons and their role in thermoregulation—the mechanism behind hot flashes.*
 
 <a aria-hidden="true" id="vasomotor-prevalence"></a>
 
@@ -160,9 +155,14 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Bromberger JT, Epperson CN.** ["Depression During and After the Perimenopause: Impact of Hormones, Genetics, and Environmental Determinants of Disease."](https://doi.org/10.1016/j.ogc.2018.07.007) *Obstetrics and Gynecology Clinics of North America.* 2018;45(4):663-678.
 
-<a aria-hidden="true" id="rage-perimenopause"></a>
+<a aria-hidden="true" id="ht-depression-meta-2026"></a>
 
-**Perich T, et al.** ["Menopause and Illness Course in Bipolar Disorder: A Systematic Review."](https://doi.org/10.1111/bdi.13064) *Bipolar Disorders.* 2021;23(1):29-41.
+**Li Y, et al.** ["Efficacy and Safety of Menopausal Hormone Therapy for Depressive Symptoms in Perimenopausal Women: A Systematic Review and Meta-Analysis."](https://doi.org/10.1016/j.jad.2026.121892) *Journal of Affective Disorders.* 2026;409:121892.
+*Key finding: Across 12 randomized trials, hormone therapy reduced depressive symptoms by a small margin (SMD −0.23) with limited certainty of evidence.*
+
+<a aria-hidden="true" id="bipolar-menopause-review"></a>
+
+**Perich T, et al.** ["Menopause and Illness Course in Bipolar Disorder: A Systematic Review."](https://doi.org/10.1111/bdi.12530) *Bipolar Disorders.* 2017;19(6):434-443.
 
 <a aria-hidden="true" id="bipolar-first-onset"></a>
 
@@ -178,6 +178,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="brain-fog-real"></a>
 
 **Maki PM, Henderson VW.** ["Cognition and the Menopause Transition."](https://doi.org/10.1097/GME.0000000000000681) *Menopause.* 2016;23(7):803-805.
+
+<a aria-hidden="true" id="ht-dementia-meta-2025"></a>
+
+**Melville M, et al.** ["Menopause Hormone Therapy and Risk of Mild Cognitive Impairment or Dementia: A Systematic Review and Meta-Analysis."](https://doi.org/10.1016/j.lanhl.2025.100803) *The Lancet Healthy Longevity.* 2025;6(12):100803.
+*Key finding: Across more than one million participants, no association between hormone therapy and dementia or mild cognitive impairment in either direction. Evidence base for the WHO 2026 dementia-prevention guidance on HT.*
 
 <a aria-hidden="true" id="cognition-perimenopause-meta"></a>
 
@@ -207,11 +212,15 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 <a aria-hidden="true" id="sleep-apnea-risk"></a>
 
-**Mirer AG, et al.** ["Menopausal Hormone Therapy and Sleep-Disordered Breathing: Evidence from the Wisconsin Sleep Cohort."](https://doi.org/10.1097/GME.0000000000001020) *Menopause.* 2017;24(8):856-863.
+**Mirer AG, et al.** ["Sleep-Disordered Breathing and the Menopausal Transition Among Participants in the Sleep in Midlife Women Study."](https://doi.org/10.1097/GME.0000000000000744) *Menopause.* 2017;24(2):157-162.
 
 <a aria-hidden="true" id="sleep-apnea-estrogen"></a>
 
-**Young T, et al.** ["Predictors of Sleep-Disordered Breathing in Community-Dwelling Adults: The Sleep Heart Health Study."](https://doi.org/10.1001/archinte.162.8.893) *Archives of Internal Medicine.* 2002;162(8):893-900.
+**Shahar E, et al.** ["Hormone Replacement Therapy and Sleep-Disordered Breathing."](https://doi.org/10.1164/rccm.200210-1238OC) *American Journal of Respiratory and Critical Care Medicine.* 2003;167(9):1186-1192.
+
+<a aria-hidden="true" id="sleep-apnea-ht-bias-2015"></a>
+
+**Mirer AG, et al.** ["Menopausal Hormone Therapy and Sleep-Disordered Breathing: Evidence for a Healthy User Bias."](https://doi.org/10.1016/j.annepidem.2015.07.004) *Annals of Epidemiology.* 2015;25(10):779-784.
 
 <a aria-hidden="true" id="sleep-apnea-menopause-prevalence"></a>
 
@@ -219,6 +228,10 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 *Key finding: Postmenopausal women have significantly higher prevalence of sleep apnea; the Wisconsin Sleep Cohort found 2.6-fold increased risk in postmenopausal vs premenopausal women.*
 
 <a aria-hidden="true" id="sleep-apnea-aha-cardiovascular"></a>
+
+**Makarem N, et al.** ["Association of Sleep Characteristics with Cardiovascular Health Among Women and Differences by Race/Ethnicity and Menopausal Status: Findings from the American Heart Association Go Red for Women Strategically Focused Research Network."](https://doi.org/10.1016/j.sleh.2019.05.005) *Sleep Health.* 2019;5(5):501-508.
+
+<a aria-hidden="true" id="sleep-apnea-prevalence-2013"></a>
 
 **Peppard PE, et al.** ["Increased Prevalence of Sleep-Disordered Breathing in Adults."](https://doi.org/10.1093/aje/kws342) *American Journal of Epidemiology.* 2013;177(9):1006-1014.
 
@@ -252,9 +265,13 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Greendale GA, et al.** ["Changes in Body Composition and Weight During the Menopause Transition."](https://doi.org/10.1172/jci.insight.124865) *JCI Insight.* 2019;4(5):e124865.
 *Key finding: Fat redistribution to visceral stores occurs regardless of total weight change.*
 
-<a aria-hidden="true" id="glp1-menopause"></a>
+<a aria-hidden="true" id="glp1-exercise-2021"></a>
 
 **Lundgren JR, et al.** ["Healthy Weight Loss Maintenance with Exercise, Liraglutide, or Both Combined."](https://doi.org/10.1056/NEJMoa2028198) *New England Journal of Medicine.* 2021;384(18):1719-1730.
+
+<a aria-hidden="true" id="semaglutide-ht-2024"></a>
+
+**Hurtado MD, et al.** ["Weight Loss Response to Semaglutide in Postmenopausal Women With and Without Hormone Therapy Use."](https://doi.org/10.1097/GME.0000000000002310) *Menopause.* 2024;31(4):266-274.
 
 <a aria-hidden="true" id="tirzepatide-surmount-menopause"></a>
 
@@ -383,6 +400,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Depypere H, et al.** ["Efficacy and Safety of Elinzanetant, a Selective Neurokinin Receptor Antagonist for Vasomotor Symptoms."](https://doi.org/10.1097/GME.0000000000002265) *Menopause.* 2024;31(1):9-18.
 
+<a aria-hidden="true" id="elinzanetant-oasis4-2025"></a>
+
+**Cardoso F, et al.** ["Elinzanetant for Vasomotor Symptoms from Endocrine Therapy for Breast Cancer."](https://doi.org/10.1056/NEJMoa2415566) *New England Journal of Medicine.* 2025;393(8):753-763.
+*Key finding: In women with hot flashes caused by breast-cancer endocrine therapy, elinzanetant reduced daily hot flash frequency by about 7.8 episodes at week 12, from a baseline of about 11.4.*
+
 <a aria-hidden="true" id="elinzanetant-approval-2024"></a>
 
 **FDA News Release.** ["FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause."](https://www.fda.gov/news-events/press-announcements) December 2024.
@@ -390,6 +412,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="fezolinetant-nma-ht-comparison-2024"></a>
 
 **Morga A, et al.** ["Systematic review and network meta-analysis comparing the efficacy of fezolinetant with hormone and nonhormone therapies for treatment of vasomotor symptoms due to menopause."](https://doi.org/10.1097/GME.0000000000002281) *Menopause.* 2024;31(1):68-76.
+
+<a aria-hidden="true" id="fezolinetant-realworld-2026"></a>
+
+**Hsu CD, et al.** ["Utilization of Fezolinetant for the Treatment of Moderate-to-Severe Vasomotor Symptoms of Menopause in a Real-World Setting."](https://doi.org/10.1097/GME.0000000000002703) *Menopause.* 2026;33(5):529-535.
+*Key finding: Among nearly 10,000 US initiators, only 42% of persistent users received the required liver function testing within three months.*
 
 ---
 
@@ -419,9 +446,14 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **The Menopause Society.** ["The 2022 Hormone Therapy Position Statement of The North American Menopause Society."](https://doi.org/10.1097/GME.0000000000002028) *Menopause.* 2022;29(7):767-794.
 
+<a aria-hidden="true" id="fda-ht-relabel-2026"></a>
+
+**U.S. Food and Drug Administration.** ["FDA Approves Labeling Changes for Menopausal Hormone Therapy Products."](https://www.fda.gov/news-events/press-announcements/fda-approves-labeling-changes-menopausal-hormone-therapy-products) FDA News Release. February 12, 2026.
+*First batch of revised labels removing the boxed warnings on cardiovascular disease, breast cancer, and probable dementia from six HT products, including vaginal estrogen. The endometrial-cancer warning remains on unopposed systemic estrogen.*
+
 <a aria-hidden="true" id="nice-guidelines-2015"></a>
 
-**National Institute for Health and Care Excellence.** ["Menopause: Diagnosis and Management."](https://www.nice.org.uk/guidance/ng23) NICE Guideline NG23. November 2015, updated 2019.
+**National Institute for Health and Care Excellence.** ["Menopause: Diagnosis and Management."](https://www.nice.org.uk/guidance/ng23) NICE Guideline NG23. November 2015, updated April 2026.
 
 ---
 
@@ -485,7 +517,7 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 <a aria-hidden="true" id="cbt-menopause"></a>
 
-**Ayers B, et al.** ["Effectiveness of Group and Self-Help Cognitive Behavior Therapy in Reducing Problematic Menopausal Hot Flushes and Night Sweats (MENOS 2): A Randomized Controlled Trial."](https://doi.org/10.1097/gme.0b013e31823cc5a2) *Menopause.* 2012;19(7):749-759.
+**Ayers B, et al.** ["Effectiveness of Group and Self-Help Cognitive Behavior Therapy in Reducing Problematic Menopausal Hot Flushes and Night Sweats (MENOS 2): A Randomized Controlled Trial."](https://doi.org/10.1097/gme.0b013e31823fe835) *Menopause.* 2012;19(7):749-759.
 
 ---
 
@@ -500,7 +532,7 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 <a aria-hidden="true" id="healthcare-disparities"></a>
 
-**Pinkerton JV, et al.** ["Racial and Ethnic Differences in Access to Menopause Care in the US."](https://doi.org/10.1097/GME.0000000000002234) *Menopause.* 2023;30(9):897-905.
+**Sriprasert I, et al.** ["Initiation and Duration of Systemic Hormone Therapy for Menopausal Symptoms."](https://doi.org/10.1097/AOG.0000000000006386) *Obstetrics & Gynecology.* 2026.
 
 <a aria-hidden="true" id="pain-bias"></a>
 

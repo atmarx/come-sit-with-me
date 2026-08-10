@@ -15,7 +15,7 @@ The weight conversation during perimenopause is loaded with shame and misinforma
 
 ## It's Redistribution, Not Just Gain
 
-Here's what the research shows: the menopausal transition itself doesn't necessarily cause significant weight *gain*. What it does cause is dramatic *redistribution*.
+Here's what the research shows: <Cite id="fat-redistribution" tooltip="Greendale GA, et al. Changes in Body Composition and Weight During the Menopause Transition. JCI Insight. 2019;4(5):e124865.">the menopausal transition itself doesn't necessarily cause significant weight <em>gain</em>. What it does cause is dramatic <em>redistribution</em>—in the SWAN cohort, the rate of fat gain doubled and lean muscle began declining right as the transition started, while weight itself didn't accelerate at all.</Cite>
 
 Visceral fat—the fat around your organs, the fat that makes your waist thicker—increases substantially. <Cite id="visceral-fat-shift" tooltip="Lovejoy JC, et al. Increased Visceral Fat and Decreased Energy Expenditure During the Menopausal Transition. International Journal of Obesity. 2008;32(6):949-958.">Studies show visceral fat can go from 5-8% of total body fat before menopause to 15-20% after.</Cite> That's not a small shift. That's your body fundamentally changing where it stores energy.
 
@@ -83,7 +83,7 @@ What the research shows:
 
 **They work across menopause stages.** <Cite id="tirzepatide-surmount-menopause" tooltip="Korytkowski MT, et al. Body Weight Reduction in Women Treated with Tirzepatide by Reproductive Stage: A Post Hoc Analysis from the SURMOUNT Program. Diabetes, Obesity & Metabolism. 2025;27(5):2399-2407.">A study of tirzepatide found approximately 20% weight reduction regardless of whether women were pre-, peri-, or postmenopausal.</Cite> Menopause doesn't blunt the effect.
 
-**Combination with hormone therapy may enhance results.** A 2024 study found postmenopausal women on both semaglutide and hormone therapy lost more weight than those on semaglutide alone—16% vs 12% after a year.
+**Combination with hormone therapy may enhance results.** <Cite id="semaglutide-ht-2024" tooltip="Hurtado MD, et al. Weight Loss Response to Semaglutide in Postmenopausal Women With and Without Hormone Therapy Use. Menopause. 2024;31(4):266-274.">A 2024 study found postmenopausal women on both semaglutide and hormone therapy lost more weight than those on semaglutide alone—16% vs 12% after a year.</Cite>
 
 **Muscle and bone loss are real concerns.** Rapid weight loss from any cause—including GLP-1s—can result in muscle and bone loss. This is particularly concerning during perimenopause when you're already losing both.
 
@@ -91,7 +91,7 @@ What the research shows:
 
 **Adequate protein is critical.** When eating less, getting enough protein to maintain muscle becomes even more important.
 
-These medications aren't magic, and they're not right for everyone. They work best as part of a comprehensive approach, not as a replacement for other interventions.
+These medications aren't magic, and they're not right for everyone. <Cite id="glp1-exercise-2021" tooltip="Lundgren JR, et al. Healthy Weight Loss Maintenance with Exercise, Liraglutide, or Both Combined. New England Journal of Medicine. 2021;384(18):1719-1730.">They work best as part of a comprehensive approach—in a head-to-head trial, medication plus exercise beat either alone for keeping weight off and preserving healthy body composition.</Cite>
 
 ## The Emotional Weight
 

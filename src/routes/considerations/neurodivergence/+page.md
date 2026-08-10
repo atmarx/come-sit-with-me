@@ -24,6 +24,8 @@ The research is only beginning to catch up to what neurodivergent women have bee
 
 This isn't because autistic women are imagining things or being dramatic. It's because sensory processing differences are real, and symptoms that involve the body and its sensations—[hot flashes](/symptoms/hot-flashes), [skin changes](/symptoms/skin), [aches](/symptoms/aches), temperature dysregulation—land differently when your nervous system is wired differently.
 
+And it's not only autism. <Cite id="adhd-estrogen" tooltip="Quinn PO, Madhoo M. A Review of Attention-Deficit/Hyperactivity Disorder in Women and Girls: Uncovering This Hidden Diagnosis. Primary Care Companion for CNS Disorders. 2014;16(3):PCC.13r01596.">ADHD is underdiagnosed in women to begin with, and hormonal shifts influence both how symptoms express themselves and how well treatment works.</Cite> If your executive function was already hard-won, the [brain fog](/symptoms/brain-fog) of this transition can feel like losing ground you fought for.
+
 ## Sensory Aspects
 
 For neurotypical women, a hot flash is uncomfortable. For someone with sensory sensitivities, it can be overwhelming, even intolerable.

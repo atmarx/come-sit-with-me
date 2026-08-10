@@ -21,6 +21,7 @@ Some women sail through perimenopause with stable moods. Others struggle profoun
 
 - **Prior depression or anxiety**—your brain may be more sensitive to hormonal shifts
 - **Premenstrual mood sensitivity**—if you experienced significant PMS or PMDD, you're at higher risk
+- **Existing bipolar disorder**—<Cite id="bipolar-menopause-review" tooltip="Perich T, et al. Menopause and Illness Course in Bipolar Disorder: A Systematic Review. Bipolar Disorders. 2017;19(6):434-443.">symptoms often worsen through the transition, with depression the most common flare</Cite>
 - **Stressful life circumstances**—perimenopause often coincides with aging parents, teenagers, career pressure, relationship strain
 - **Significant vasomotor symptoms**—[hot flashes](/symptoms/hot-flashes) and mood have a bidirectional relationship. Each makes the other worse.
 - **Longer perimenopause**—the more years of hormonal chaos, the higher the cumulative risk
@@ -56,7 +57,7 @@ That's the hormones talking. You're still in there.
 
 ## What Actually Helps
 
-**[Hormone therapy](/support/hormone-therapy)** can be effective for perimenopausal depression, particularly when symptoms are clearly tied to the menstrual cycle or hormonal changes. Stabilizing estrogen levels calms the chaos that's driving mood symptoms. For some women, this works better than antidepressants.
+**[Hormone therapy](/support/hormone-therapy)** can be effective for perimenopausal depression, particularly when symptoms are clearly tied to the menstrual cycle or hormonal changes. Stabilizing estrogen levels calms the chaos that's driving mood symptoms. For some women, this works better than antidepressants. <Cite id="ht-depression-meta-2026" tooltip="Li Y, et al. Efficacy and Safety of Menopausal Hormone Therapy for Depressive Symptoms in Perimenopausal Women: A Systematic Review and Meta-Analysis. Journal of Affective Disorders. 2026;409:121892.">I'll be honest about the size of the effect, though: across a dozen randomized trials, the average benefit was real but modest—worth trying, not a guarantee.</Cite>
 
 **Antidepressants** (SSRIs, SNRIs) help many women. They work through different mechanisms than hormones and can be used alone or together. Some also help with [hot flashes](/symptoms/hot-flashes). More on this in [Beyond Hormones](/support/beyond-hormones).
 

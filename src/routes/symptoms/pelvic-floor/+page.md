@@ -59,7 +59,7 @@ Prolapse ranges from mild (barely noticeable) to severe. It's graded on a scale,
 
 ## How Common Is This?
 
-<Cite id="incontinence-prevalence" tooltip="Nygaard I, et al. Prevalence of Symptomatic Pelvic Floor Disorders in US Women. JAMA. 2008;300(11):1311-1316.">Pelvic floor disorders affect up to 40% of postmenopausal women.</Cite> You are not alone, even though it might feel that way—because who talks about this?
+<Cite id="incontinence-prevalence" tooltip="Nygaard I, et al. Prevalence of Symptomatic Pelvic Floor Disorders in US Women. JAMA. 2008;300(11):1311-1316.">Pelvic floor disorders affect up to 40% of postmenopausal women.</Cite> <Cite id="prolapse-prevalence" tooltip="Wu JM, et al. Prevalence and Trends of Symptomatic Pelvic Floor Disorders in U.S. Women. Obstetrics & Gynecology. 2014;123(1):141-148.">In national survey data, about one in six US women has moderate-to-severe urinary leakage, and about 3% have symptomatic prolapse.</Cite> You are not alone, even though it might feel that way—because who talks about this?
 
 Risk factors beyond menopause include:
 - Vaginal childbirth (especially multiple births, large babies, long labors)

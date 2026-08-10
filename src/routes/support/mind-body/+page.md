@@ -5,6 +5,10 @@ hero: /images/heroes/mind-body.webp
 heroAlt: Zen garden with raked sand circles and smooth stone at center
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 The connection between mind and body isn't mystical—it's biological. Your thoughts, beliefs, and practices affect your physiology. Stress hormones affect symptoms. Relaxation responses affect symptoms. This isn't woo; it's measurable.
 
 What's less clear is which specific practices help with perimenopause symptoms, and how much. Let me walk you through what we actually know.
@@ -50,7 +54,7 @@ CBT is well-established for [depression](/symptoms/mood), [anxiety](/symptoms/mo
 
 **CBT for hot flashes:**
 - Doesn't necessarily reduce hot flash frequency
-- Does reduce how much they bother you
+- <Cite id="cbt-menopause" tooltip="Ayers B, et al. Effectiveness of Group and Self-Help Cognitive Behavior Therapy in Reducing Problematic Menopausal Hot Flushes and Night Sweats (MENOS 2). Menopause. 2012;19(7):749-759.">Does reduce how much they bother you—in the MENOS 2 trial, both group and self-help formats significantly improved how problematic women rated their flushes</Cite>
 - Teaches coping strategies, relaxation techniques
 - Changes the relationship with symptoms
 
@@ -113,7 +117,7 @@ This often gets covered under mind-body or "natural" approaches, but phytoestrog
 
 - **Soy isoflavones**: A 2025 meta-analysis found no significant effect on hot flash frequency overall (Hedges' g = −0.03). The equol hypothesis — that women whose gut bacteria convert isoflavones to equol see more benefit — remains plausible but unproven at scale. Dietary soy may still offer other health benefits.
 - **Black cohosh**: Most-studied herbal remedy. May help hot flashes for some. Does NOT act as a phytoestrogen (mechanism unclear). Standardized extract (Remifemin) has best evidence.
-- **Red clover, hops, dong quai, evening primrose oil**: Mixed or negative evidence in trials.
+- **Red clover, hops, dong quai, evening primrose oil**: <Cite id="phytoestrogens-review" tooltip="Lethaby A, et al. Phytoestrogens for Menopausal Vasomotor Symptoms. Cochrane Database of Systematic Reviews. 2013;(12):CD001395.">Mixed or negative evidence in trials.</Cite>
 
 See [Herbal & Traditional](/support/herbal-traditional) for detailed exploration.
 

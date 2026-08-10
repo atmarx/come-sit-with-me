@@ -23,7 +23,7 @@ Either way: if your menopause came suddenly or early, your experience is likely 
 
 **No gradual adjustment.** Natural perimenopause involves years of fluctuation—highs and lows that, while chaotic, give your body time to adapt. Surgical menopause offers no such transition period.
 
-**Longer time without estrogen.** If you're 35 or 45 when this happens, you face potentially decades without estrogen before reaching natural menopause age. This has health implications beyond symptoms.
+**Longer time without estrogen.** If you're 35 or 45 when this happens, you face potentially decades without estrogen before reaching natural menopause age. <Cite id="premature-menopause-health" tooltip="Shuster LT, et al. Premature Menopause or Early Menopause: Long-Term Health Consequences. Maturitas. 2010;65(2):161-166.">This has health implications beyond symptoms.</Cite>
 
 ## Long-Term Health Considerations
 

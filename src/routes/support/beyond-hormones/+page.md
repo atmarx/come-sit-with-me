@@ -15,7 +15,7 @@ The good news: there are real alternatives. Some are genuinely new—breakthroug
 
 ## The Breakthrough: NK3 Receptor Antagonists
 
-This is exciting. For the first time, we have medications that treat [hot flashes](/symptoms/hot-flashes) by directly targeting the [brain mechanism](/whats-happening/brain) that causes them—the hyperactive KNDy neurons in the hypothalamus.
+This is exciting. For the first time, we have medications that treat [hot flashes](/symptoms/hot-flashes) by directly targeting the [brain mechanism](/whats-happening/brain) that causes them—<Cite id="kndy-thermoregulation-2013" tooltip="Rance NE, et al. Modulation of Body Temperature and LH Secretion by Hypothalamic KNDy Neurons: A Novel Hypothesis on the Mechanism of Hot Flushes. Frontiers in Neuroendocrinology. 2013;34(3):211-227.">the hyperactive KNDy neurons in the hypothalamus</Cite>.
 
 These drugs don't provide estrogen. They don't affect your hormone levels at all. They simply calm the specific neurons that are misfiring.
 
@@ -27,7 +27,7 @@ These drugs don't provide estrogen. They don't affect your hormone levels at all
 - <Cite id="fezolinetant-skylight" tooltip="Johnson KA, et al. Efficacy and Safety of Fezolinetant in Moderate to Severe Vasomotor Symptoms Associated With Menopause. Journal of Clinical Endocrinology & Metabolism. 2023.">About 60% reduction in hot flash frequency</Cite>
 - Works directly on the thermoregulatory neurons
 - 45mg once daily
-- **Important:** Requires liver enzyme monitoring (check before starting and periodically)
+- **Important:** Requires liver enzyme monitoring (check before starting and periodically). <Cite id="fezolinetant-realworld-2026" tooltip="Hsu CD, et al. Utilization of Fezolinetant for the Treatment of Moderate-to-Severe Vasomotor Symptoms of Menopause in a Real-World Setting. Menopause. 2026;33(5):529-535.">In the first large real-world study, fewer than half of the women staying on the drug actually got those liver tests—please don't be one of them</Cite>
 
 For women who can't or won't take hormones but have significant hot flashes, this was the first genuinely new option in decades. <Cite id="fezolinetant-nma-ht-comparison-2024" tooltip="Morga A, et al. Network meta-analysis: fezolinetant vs. HT and non-HT for VMS. Menopause. 2024;31(1):68-76.">A 2024 network meta-analysis found fezolinetant's reduction of hot flash frequency was not significantly different from any US-available hormone therapy—and significantly better than all other non-hormone options studied.</Cite>
 
@@ -40,6 +40,7 @@ For women who can't or won't take hormones but have significant hot flashes, thi
 - May also help [sleep](/symptoms/sleep-wont-come) and possibly [mood](/symptoms/mood) (it affects substance P, which is involved in pain and stress)
 - Can cause drowsiness—which is a feature if you have insomnia
 - Daily dosing
+- <Cite id="elinzanetant-oasis4-2025" tooltip="Cardoso F, et al. Elinzanetant for Vasomotor Symptoms from Endocrine Therapy for Breast Cancer. New England Journal of Medicine. 2025;393(8):753-763.">Also sharply reduced hot flashes caused by breast-cancer endocrine therapy (tamoxifen, aromatase inhibitors) in a major trial—though that use isn't yet FDA-approved in the US</Cite>
 
 ### What's Coming
 
@@ -60,7 +61,7 @@ Some antidepressants—SSRIs and SNRIs—reduce hot flash frequency through mech
 ### Venlafaxine (Effexor)
 
 - SNRI used off-label for hot flashes
-- Some evidence for effectiveness
+- <Cite id="ssri-hot-flashes" tooltip="Loprinzi CL, et al. Venlafaxine in Management of Hot Flashes in Survivors of Breast Cancer: A Randomised Controlled Trial. Lancet. 2000;356(9247):2059-2063.">Reduced hot flash scores by about 60% in a randomized trial of breast cancer survivors, versus 27% with placebo</Cite>
 - May also help [mood symptoms](/symptoms/mood) at higher doses
 - Can be difficult to stop (discontinuation syndrome)
 
@@ -73,6 +74,7 @@ Escitalopram (Lexapro), citalopram (Celexa), and desvenlafaxine (Pristiq) have s
 ### Gabapentin
 
 - Anticonvulsant used off-label for hot flashes
+- <Cite id="gabapentin-hot-flashes" tooltip="Guttuso T Jr, et al. Gabapentin's Effects on Hot Flashes in Postmenopausal Women: A Randomized Controlled Trial. Obstetrics & Gynecology. 2003;101(2):337-345.">Reduced hot flash frequency by 45% versus 29% with placebo in a randomized trial</Cite>
 - Particularly helpful for nighttime symptoms
 - May improve [sleep](/symptoms/sleep-wont-come) as a side benefit
 - Side effects: drowsiness, dizziness, weight gain

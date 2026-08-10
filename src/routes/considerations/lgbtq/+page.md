@@ -81,7 +81,7 @@ If you were assigned male at birth and are on estrogen-based feminizing hormone 
 
 **As you age:**
 - Providers may recommend reducing estrogen doses after age 50, similar to the natural decline in cis women
-- If you've had an orchiectomy, you'll need at least minimal hormone support to prevent bone loss until around age 50
+- <Cite id="trans-health-ucsf" tooltip="UCSF Transgender Care. Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People. 2016, updated 2022.">If you've had an orchiectomy, you'll need at least minimal hormone support to prevent bone loss until around age 50</Cite>
 - Cardiovascular and clotting risks from estrogen increase with age—transdermal delivery (patches/gel) is generally safer than oral
 
 **The conversation with providers:**

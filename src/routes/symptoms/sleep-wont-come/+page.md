@@ -40,6 +40,8 @@ You might notice:
 - Waking too early and not being able to return to sleep
 - Sleep that doesn't refresh you even when you get "enough" hours
 
+<Cite id="swan-sleep-2008" tooltip="Kravitz HM, et al. Sleep Disturbance During the Menopausal Transition in a Multi-Ethnic Community Sample of Women. Sleep. 2008;31(7):979-990.">None of this is imagination: in the SWAN study's multi-ethnic cohort, the odds of trouble falling asleep and trouble staying asleep both rose steadily as women moved through the transition.</Cite>
+
 ## The Cascade
 
 Poor sleep doesn't stay contained. It bleeds into:

@@ -13,7 +13,7 @@ You're exhausted. You're not [sleeping well](/symptoms/sleep-wont-come). You ass
 
 But there's another possibility that often goes unrecognized: sleep apnea.
 
-Before menopause, women have significantly lower rates of sleep apnea than men. After menopause, the gap nearly closes. Something about this transition dramatically increases risk—and many women don't know to look for it.
+<Cite id="sleep-apnea-prevalence-2013" tooltip="Peppard PE, et al. Increased Prevalence of Sleep-Disordered Breathing in Adults. American Journal of Epidemiology. 2013;177(9):1006-1014.">Before menopause, women have significantly lower rates of sleep apnea than men.</Cite> After menopause, the gap nearly closes. Something about this transition dramatically increases risk—and many women don't know to look for it.
 
 ## The Numbers
 
@@ -22,7 +22,7 @@ The statistics are striking:
 <Cite id="sleep-apnea-menopause-prevalence" tooltip="Young T, et al. Menopausal Status and Sleep-Disordered Breathing in the Wisconsin Sleep Cohort Study. American Journal of Respiratory and Critical Care Medicine. 2003.">Sleep apnea is <strong>4.5 times more prevalent</strong> in postmenopausal women than in premenopausal women.</Cite>
 The Wisconsin Sleep Cohort found a 2.6-fold increased risk in postmenopausal versus premenopausal women. <a href="/considerations/surgical-menopause">Surgical menopause</a> carries even higher risk than natural menopause.
 
-This isn't a small increase. This is a fundamental shift in risk profile that coincides with the menopausal transition.
+This isn't a small increase. <Cite id="sleep-apnea-risk" tooltip="Mirer AG, et al. Sleep-Disordered Breathing and the Menopausal Transition Among Participants in the Sleep in Midlife Women Study. Menopause. 2017;24(2):157-162.">This is a fundamental shift in risk profile that comes with the transition itself—breathing disruption climbs with each year deeper into it, independent of aging and body changes.</Cite>
 
 ## Why Menopause Increases Risk
 
@@ -62,7 +62,7 @@ Sleep apnea isn't just about being tired. It's associated with:
 
 Your cardiovascular risk is already changing during menopause as estrogen's protective effects wane. Untreated sleep apnea compounds that risk significantly.
 
-A study from the American Heart Association found that women at high risk for sleep apnea had **three times higher risk** of poor cardiovascular health scores.
+<Cite id="sleep-apnea-aha-cardiovascular" tooltip="Makarem N, et al. Association of Sleep Characteristics with Cardiovascular Health Among Women. Sleep Health. 2019;5(5):501-508.">A study from the American Heart Association's Go Red for Women research network found that women at high risk for sleep apnea had **three times higher odds** of poor cardiovascular health scores.</Cite>
 
 ## When to Suspect Sleep Apnea
 
@@ -98,7 +98,7 @@ Modern CPAP machines are quieter and more comfortable than older versions. Multi
 
 **Positional therapy** may help if your apnea is worse when sleeping on your back.
 
-**Hormone therapy** is interesting here. Research shows HT is associated with reduced sleep apnea prevalence—suggesting that replacing hormones may help restore some of the protective effects. This isn't a reason alone to start HT, but it's part of the picture.
+**Hormone therapy** is interesting here. <Cite id="sleep-apnea-estrogen" tooltip="Shahar E, et al. Hormone Replacement Therapy and Sleep-Disordered Breathing. American Journal of Respiratory and Critical Care Medicine. 2003;167(9):1186-1192.">In the Sleep Heart Health Study, women using hormone therapy had roughly half the prevalence of sleep-disordered breathing of nonusers</Cite>—suggesting that replacing hormones may help restore some of the protective effects. <Cite id="sleep-apnea-ht-bias-2015" tooltip="Mirer AG, et al. Menopausal Hormone Therapy and Sleep-Disordered Breathing: Evidence for a Healthy User Bias. Annals of Epidemiology. 2015;25(10):779-784.">I'll be honest, though: at least part of that association is probably because healthier women were the ones taking hormones, not the hormones themselves.</Cite> This isn't a reason alone to start HT, but it's part of the picture.
 
 **Surgery** is an option in some cases but is usually not first-line treatment.
 
