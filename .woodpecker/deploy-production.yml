@@ -1,10 +1,17 @@
 # Come Sit With Me — Deploy to Production (xdroplet04)
 #
-# SSHs into xdroplet04, syncs the working tree to /opt/projects/come-sit-with-me,
-# pulls the image from Gitea CR, brings the compose stack up, drops the
-# Caddy site config into /opt/caddy-stack/sites/ and reloads Caddy.
+# SSHs into xdroplet04, stages compose + caddy + deploy script, and runs the
+# deploy script by path.  Triggers on tag (production releases only).
 #
-# Triggers on tag (production releases only).
+# COMMAND BUDGET WARNING (2026-08-10): the Woodpecker runner currently
+# truncates this step's generated script around the 10th command / a fixed
+# byte offset — everything after is silently skipped and the step still goes
+# green (pipelines #42, #44-#46; #43's "unterminated quoted string" was the
+# cut landing mid-line).  Keep the real work inside the first ~8 commands,
+# keep every command short, and treat trailing commands as sacrificial.
+# The diag-droplet.sh fail-after invocation is TEMPORARY instrumentation:
+# it exits 1 on purpose so the step goes red and returns logs — remove it
+# (and the padding) once the runner is fixed.
 #
 # Required secrets:
 #   - droplet04_ssh_key:  SSH private key for deploy@xdroplet04
@@ -29,38 +36,16 @@ steps:
         from_secret: droplet04_hostinfo
     commands:
       - apk add --no-cache openssh-client rsync
-      - 'export DROPLET_IP=$(echo "$DROPLET_HOSTINFO" | cut -d"|" -f1)'
       - 'export DROPLET_HOST=$(echo "$DROPLET_HOSTINFO" | cut -d"|" -f2)'
       - mkdir -p ~/.ssh
       - echo "$DROPLET_SSH_KEY" > ~/.ssh/id_ed25519
       - chmod 600 ~/.ssh/id_ed25519
-      - ssh-keyscan -H "$DROPLET_HOST" "$DROPLET_IP" >> ~/.ssh/known_hosts 2>/dev/null
-      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "mkdir -p /opt/projects/come-sit-with-me/caddy /opt/projects/come-sit-with-me/_staged"
-      - rsync -az docker-compose.production.yml deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
-      - rsync -az caddy/come-sit-with-me.caddy deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
-      # The runner mangles stdin-redirect commands: "bash < scripts/deploy-production.sh"
-      # executed as "bash < scripts/deploy-production." on tag pipelines #34, #35,
-      # and #38 (2026-08-10) even though the runner's own echo of the command showed
-      # the full filename.  Redirect-free commands in this same step ran clean every
-      # time.  So: ship the script with rsync (proven above) and run it by path.
-      # --- TEMPORARY v1.2.3 stale-deploy diagnostics (brighid, 2026-08-10). ---
-      # Production kept serving the v1.2.2 image after a fully green pull+up.
-      # Probes live in scripts/diag-droplet.sh (inline quoting broke the
-      # runner's generated script on diag1 — same lesson as the stdin bug:
-      # logic in scripts, YAML stays dumb).  Runs before and after the deploy;
-      # the final intentional exit 1 makes the step logs retrievable.  Remove
-      # once the stale-deploy cause is confirmed.
-      - rsync -az scripts/diag-droplet.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
-      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh
-      - rsync -az scripts/deploy-production.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
-      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/deploy-production.sh
-      # fail-after makes the post-deploy diag exit 1 from inside the script —
-      # trailing YAML commands (diag2's echo + exit 1) were silently dropped
-      # by the runner, so the failure has to come from a command that runs.
-      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh fail-after
-      # Tail padding: the runner drops trailing commands (diag2 and diag3 both
-      # went green with their final commands skipped).  These sacrificial
-      # no-ops keep every real command above the dropped zone.
+      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "mkdir -p /opt/projects/come-sit-with-me/_staged /opt/projects/come-sit-with-me/caddy"
+      - rsync -az docker-compose.production.yml caddy/come-sit-with-me.caddy scripts/deploy-production.sh scripts/diag-droplet.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
+      - ssh deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/deploy-production.sh
+      - ssh deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh fail-after
+      - "true"
+      - "true"
       - "true"
       - "true"
       - "true"
