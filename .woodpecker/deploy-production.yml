@@ -9,9 +9,9 @@
 # green (pipelines #42, #44-#46; #43's "unterminated quoted string" was the
 # cut landing mid-line).  Keep the real work inside the first ~8 commands,
 # keep every command short, and treat trailing commands as sacrificial.
-# The diag-droplet.sh fail-after invocation is TEMPORARY instrumentation:
-# it exits 1 on purpose so the step goes red and returns logs — remove it
-# (and the padding) once the runner is fixed.
+# Confirmed by diag5 (pipeline #47): commands 8 and 9 execute, the cut lands
+# around 10-11.  diag-droplet.sh stays staged as instrumentation for the next
+# incident; run it with fail-after to get a red step with full droplet logs.
 #
 # Required secrets:
 #   - droplet04_ssh_key:  SSH private key for deploy@xdroplet04
@@ -43,7 +43,6 @@ steps:
       - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" "mkdir -p /opt/projects/come-sit-with-me/_staged /opt/projects/come-sit-with-me/caddy"
       - rsync -az docker-compose.production.yml caddy/come-sit-with-me.caddy scripts/deploy-production.sh scripts/diag-droplet.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
       - ssh deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/deploy-production.sh
-      - ssh deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh fail-after
       - "true"
       - "true"
       - "true"
