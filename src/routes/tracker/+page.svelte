@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import PullQuote from '$lib/components/Content/PullQuote.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 
 	interface SymptomEntry {
 		date: string;
@@ -166,13 +167,10 @@
 	});
 </script>
 
-<svelte:head>
-	<title>Symptom Tracker - Come Sit With Me | A Perimenopause Resource</title>
-	<meta
-		name="description"
-		content="Track your perimenopause symptoms privately. All data stays on your device."
-	/>
-</svelte:head>
+<Seo
+	title="Symptom Tracker"
+	description="Track your perimenopause symptoms privately. All data stays on your device."
+/>
 
 <!-- Hero -->
 <div class="hero-full-bleed relative mb-8 overflow-hidden md:rounded-b-2xl">

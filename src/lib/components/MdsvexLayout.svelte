@@ -12,6 +12,7 @@
 
 <script lang="ts">
 	import { page } from '$app/stores';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { Snippet } from 'svelte';
 
 	interface Props {
@@ -24,23 +25,13 @@
 
 	let { title, description, hero, heroAlt, children }: Props = $props();
 
-	let pageTitle = $derived.by(() => {
-		if (!title) return 'Come Sit With Me | A Perimenopause Resource';
-		// Homepage gets simpler format
-		if ($page.url.pathname === '/') {
-			return 'Come Sit With Me | A Perimenopause Resource';
-		}
-		// Subpages get "Page Title - Come Sit With Me | A Perimenopause Resource"
-		return `${title} - Come Sit With Me | A Perimenopause Resource`;
-	});
+	// Pages that are about the site rather than about health — they should not
+	// claim MedicalWebPage in structured data.
+	const NON_MEDICAL = ['/', '/about', '/terms', '/resources', '/resources/references'];
+	let isMedical = $derived(!NON_MEDICAL.includes($page.url.pathname));
 </script>
 
-<svelte:head>
-	<title>{pageTitle}</title>
-	{#if description}
-		<meta name="description" content={description} />
-	{/if}
-</svelte:head>
+<Seo {title} {description} medical={isMedical} />
 
 {#key $page.url.pathname}
 	{#if hero && title}
