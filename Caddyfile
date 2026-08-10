@@ -1,7 +1,17 @@
 :3000 {
     root * /srv
-    file_server
     encode gzip zstd
+
+    # adapter-static emits flat files — /symptoms/hot-flashes.html, and
+    # /symptoms.html *beside* a /symptoms/ directory that has no index.html.
+    # Without this, every extensionless URL 404s: the directory match wins for
+    # /symptoms and nothing matches at all for /symptoms/hot-flashes. Browsing
+    # the site hides it, because SvelteKit routes client-side after hydration —
+    # only direct hits, shared links, and crawlers ever ask the server.
+    # .html must be tried before the bare path so /symptoms.html beats /symptoms/.
+    try_files {path}.html {path} {path}/index.html
+
+    file_server
 
     header {
         X-Content-Type-Options "nosniff"
