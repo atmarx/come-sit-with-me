@@ -14,7 +14,7 @@ The site is written in the voice of Brighid, a persona inspired by the Celtic go
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) v4
 - **Content**: Markdown with [mdsvex](https://mdsvex.pngwn.io/)
 - **Deployment**: Static adapter for static site generation
-- **Analytics**: [GoatCounter](https://www.goatcounter.com/) (privacy-friendly)
+- **Analytics**: [Umami](https://umami.is/), self-hosted at `stats.comesitwith.me` (privacy-friendly)
 
 ## Development
 

@@ -55,11 +55,12 @@ If you find a broken link or a linked resource that seems problematic, please [l
 
 We respect your privacy. Here's exactly what we collect:
 
-**Analytics:** We use [GoatCounter](https://www.goatcounter.com/), a privacy-focused analytics tool. It tells us which pages are visited and roughly where visitors come from (country-level), but:
+**Analytics:** We use [Umami](https://umami.is/), a privacy-focused analytics tool that we host ourselves at `stats.comesitwith.me`. It tells us which pages are visited and roughly where visitors come from (country-level), but:
 - No cookies
 - No personal data collection
 - No tracking across sites
 - No selling data to anyone
+- Nothing leaves our own server—there is no third-party analytics company in the middle
 
 **Local Storage:** If you use features like the symptom tracker or dark mode toggle, that data is stored in your browser's local storage—on your device, not on our servers. We never see it.
 
