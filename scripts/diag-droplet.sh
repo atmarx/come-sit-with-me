@@ -29,3 +29,10 @@ echo "=== DIAG: content probe on 127.0.0.1:3011 ==="
 wget -qO- http://127.0.0.1:3011/resources/references | grep -o 'keeps-trial-2014' | head -1 || echo "V123-MARKER-ABSENT"
 
 echo "=== DIAG done ==="
+
+# When invoked as "diag-droplet.sh fail-after" (the post-deploy run), exit
+# nonzero on purpose: a red step is the only way this runner returns logs.
+if [ "${1:-}" = "fail-after" ]; then
+    echo "DIAG-COMPLETE-INTENTIONAL-FAIL"
+    exit 1
+fi

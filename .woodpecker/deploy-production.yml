@@ -54,8 +54,9 @@ steps:
       - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh
       - rsync -az scripts/deploy-production.sh deploy@"$DROPLET_HOST":/opt/projects/come-sit-with-me/_staged/
       - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/deploy-production.sh
-      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh
-      - echo DIAG-COMPLETE-INTENTIONAL-FAIL
-      - exit 1
+      # fail-after makes the post-deploy diag exit 1 from inside the script —
+      # trailing YAML commands (diag2's echo + exit 1) were silently dropped
+      # by the runner, so the failure has to come from a command that runs.
+      - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh fail-after
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
