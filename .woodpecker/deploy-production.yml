@@ -58,5 +58,14 @@ steps:
       # trailing YAML commands (diag2's echo + exit 1) were silently dropped
       # by the runner, so the failure has to come from a command that runs.
       - ssh -o StrictHostKeyChecking=accept-new deploy@"$DROPLET_HOST" bash /opt/projects/come-sit-with-me/_staged/diag-droplet.sh fail-after
+      # Tail padding: the runner drops trailing commands (diag2 and diag3 both
+      # went green with their final commands skipped).  These sacrificial
+      # no-ops keep every real command above the dropped zone.
+      - "true"
+      - "true"
+      - "true"
+      - "true"
+      - "true"
+      - "true"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
