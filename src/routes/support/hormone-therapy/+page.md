@@ -34,7 +34,7 @@ Here's what got lost in the panic:
 
 Twenty years of subsequent research, including major analyses from Nature, Yale, the Korean Society of Menopause, and the International Menopause Society, have dramatically shifted the picture:
 
-**The timing hypothesis is validated.** <Cite id="whi-reanalysis-2007" tooltip="Rossouw JE, et al. Postmenopausal Hormone Therapy and Risk of Cardiovascular Disease by Age and Years Since Menopause. JAMA. 2007;297(13):1465-1477.">Starting hormone therapy early—within 10 years of menopause, or under age 60—produces different effects than starting late.</Cite> <Cite id="elite-2016" tooltip="Hodis HN, et al. Vascular Effects of Early versus Late Postmenopausal Treatment with Estradiol. New England Journal of Medicine. 2016;374(13):1221-1231.">Early initiation is protective for the heart; late initiation may not be.</Cite>
+**The timing hypothesis is validated.** <Cite id="whi-reanalysis-2007" tooltip="Rossouw JE, et al. Postmenopausal Hormone Therapy and Risk of Cardiovascular Disease by Age and Years Since Menopause. JAMA. 2007;297(13):1465-1477.">Starting hormone therapy early—within 10 years of menopause, or under age 60—produces different effects than starting late.</Cite> <Cite id="elite-2016" tooltip="Hodis HN, et al. Vascular Effects of Early versus Late Postmenopausal Treatment with Estradiol. New England Journal of Medicine. 2016;374(13):1221-1231.">Early initiation is protective for the heart; late initiation may not be.</Cite> <Cite id="keeps-trial-2014" tooltip="Harman SM, et al. Arterial Imaging Outcomes and Cardiovascular Risk Factors in Recently Menopausal Women: A Randomized Trial. Annals of Internal Medicine. 2014;161(4):249-260.">I'll be honest that the trials don't all sing the same note: in KEEPS, four years of hormone therapy started near menopause neither slowed nor sped the thickening of artery walls—no clear protection, but no harm either.</Cite>
 
 **Transdermal estrogen is safer than oral.** Patches, gels, and sprays bypass the liver, don't increase clotting risk, and don't raise blood pressure like oral estrogen can.
 
@@ -46,7 +46,7 @@ Twenty years of subsequent research, including major analyses from Nature, Yale,
 
 | Outcome | Finding | Timing Matters? |
 |---------|---------|----------------|
-| **Cardiovascular** | Protective if started early; potentially harmful if late | Yes—within 10 years of menopause |
+| **Cardiovascular** | Started early: safe for the heart, possibly protective; started late: potentially harmful | Yes—within 10 years of menopause |
 | **Breast cancer** | Small absolute risk increase with combined estrogen + progestin; estrogen-only may not increase risk | Duration matters |
 | **Bone health** | Prevents fractures; effect is maintained while taking HT | Any age |
 | **Cognition** | Largest analyses find no effect on dementia risk—neither protection nor harm | Not a reason to start or avoid |
@@ -63,6 +63,8 @@ Twenty years of subsequent research, including major analyses from Nature, Yale,
 **Oral pills:** Higher risk of blood clots and stroke. Affects liver proteins (including clotting factors). May work better for some women; metabolism varies.
 
 **Vaginal (local):** For [vaginal and urinary symptoms](/symptoms/dryness) specifically. <Cite id="vaginal-estrogen-safety" tooltip="ACOG Committee Opinion No. 659. The Use of Vaginal Estrogen in Women with a History of Estrogen-Dependent Breast Cancer. Obstetrics & Gynecology. 2016;127(3):e93-e96.">Minimal systemic absorption—safe for many women who can't take systemic hormones, including many breast cancer survivors.</Cite> Comes as creams, tablets, rings, or suppositories.
+
+**And a new estrogen is on the horizon.** <Cite id="estetrol-eu-approval-2026" tooltip="Gedeon Richter. Richter Receives European Commission Approval for FYLREVY (Estetrol Tablet) as Hormonal Replacement Therapy. March 27, 2026.">In March 2026, Europe approved the first hormone therapy built on estetrol—a fourth, naturally occurring estrogen.</Cite> <Cite id="estetrol-e4comfort-2026" tooltip="Simoncini T, et al. Estetrol (E4) for the Treatment of Moderate to Severe Vasomotor Symptoms in Postmenopausal Women (E4COMFORT I). Maturitas. 2026;209:108965.">In its phase 3 trial it clearly reduced hot flashes compared to placebo.</Cite> It isn't available in the US, and it was studied in postmenopausal women rather than during perimenopause—but after decades of the same few options, it's good to see genuinely new ones arriving.
 
 ### Progestogen (required if you have a uterus)
 

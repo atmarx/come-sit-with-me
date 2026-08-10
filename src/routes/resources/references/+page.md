@@ -77,9 +77,15 @@ The study that shaped—and complicated—our understanding of hormone therapy.
 
 Studies that helped establish the timing hypothesis for hormone therapy.
 
-<a aria-hidden="true" id="keeps-2012"></a>
+<a aria-hidden="true" id="keeps-trial-2014"></a>
 
-**Harman SM, et al.** ["Timing and Duration of Menopausal Hormone Treatment May Affect Cardiovascular Outcomes."](https://doi.org/10.1016/j.amjmed.2010.09.021) *American Journal of Medicine.* 2011;124(3):199-205.
+**Harman SM, et al.** ["Arterial Imaging Outcomes and Cardiovascular Risk Factors in Recently Menopausal Women: A Randomized Trial."](https://doi.org/10.7326/M14-0353) *Annals of Internal Medicine.* 2014;161(4):249-260.
+*Key finding: KEEPS randomized 727 recently menopausal women to oral or transdermal estrogen or placebo for four years—hormone therapy neither slowed nor accelerated atherosclerosis progression.*
+
+<a aria-hidden="true" id="keeps-imaging-2026"></a>
+
+**Kantarci K, et al.** ["Long-Term Amyloid PET and MRI Outcomes in a Menopausal Hormone Therapy Trial."](https://doi.org/10.1002/alz.71067) *Alzheimer's & Dementia.* 2026;22(2):e71067.
+*Key finding: Ten years after the KEEPS trial ended, amyloid burden and brain structure did not differ between women who had taken hormone therapy and those on placebo.*
 
 <a aria-hidden="true" id="elite-2016"></a>
 
@@ -151,6 +157,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 **Freeman EW, et al.** ["Hormones and Menopausal Status as Predictors of Depression in Women in Transition to Menopause."](https://doi.org/10.1001/archpsyc.61.1.62) *Archives of General Psychiatry.* 2004;61(1):62-70.
 *Key finding: Women with no history of depression were 2-4 times more likely to develop depression during perimenopause.*
 
+<a aria-hidden="true" id="weber-mood-meta-2014"></a>
+
+**Weber MT, et al.** ["Cognition and Mood in Perimenopause: A Systematic Review and Meta-Analysis."](https://doi.org/10.1016/j.jsbmb.2013.06.001) *Journal of Steroid Biochemistry and Molecular Biology.* 2014;142:90-98.
+*Key finding: Meta-analysis found elevated depression risk in perimenopausal and postmenopausal women compared with premenopausal women; verbal-memory differences emerged after menopause, not during the transition.*
+
 <a aria-hidden="true" id="anxiety-perimenopause"></a>
 
 **Bromberger JT, Epperson CN.** ["Depression During and After the Perimenopause: Impact of Hormones, Genetics, and Environmental Determinants of Disease."](https://doi.org/10.1016/j.ogc.2018.07.007) *Obstetrics and Gynecology Clinics of North America.* 2018;45(4):663-678.
@@ -193,11 +204,6 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Naysmith LF, et al.** ["Cognition and the menopause transition: cross-sectional evidence from a large community cohort."](https://doi.org/10.1038/s44294-026-00132-z) *npj Women's Health.* 2026;4:14.
 *Key finding: In 14,234 women aged 45–55, perimenopausal participants reported more cognitive symptoms (brain fog OR=1.31, poor memory OR=1.28) but scored marginally higher on objective cognitive tests than pre- and postmenopausal participants.  Cognitive symptoms were weakly associated with objective performance but moderately associated with psychological symptoms.*
-
-<a aria-hidden="true" id="weber-cognition-2014"></a>
-
-**Weber MT, et al.** ["Cognition and Mood in Perimenopause: A Systematic Review and Meta-Analysis."](https://doi.org/10.1016/j.jsbmb.2013.06.001) *Journal of Steroid Biochemistry and Molecular Biology.* 2014;142:90-98.
-*Key finding: Cognitive difficulties during perimenopause are measurable but generally temporary.*
 
 ---
 
@@ -277,6 +283,11 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **Korytkowski MT, et al.** ["Body Weight Reduction in Women Treated with Tirzepatide by Reproductive Stage: A Post Hoc Analysis from the SURMOUNT Program."](https://pubmed.ncbi.nlm.nih.gov/40074721/) *Diabetes, Obesity & Metabolism.* 2025;27(5):2399-2407.
 *Key finding: Tirzepatide produced approximately 20-23% weight reduction regardless of whether women were pre-, peri-, or postmenopausal.*
+
+<a aria-hidden="true" id="tirzepatide-ht-2026"></a>
+
+**Castaneda R, et al.** ["The Role of Menopause Hormone Therapy in Modulating Tirzepatide-Associated Weight Loss in Postmenopausal Women with Overweight or Obesity: A Retrospective Cohort Study."](https://doi.org/10.1016/S3050-5038(25)00145-1) *The Lancet Obstetrics, Gynaecology, & Women's Health.* 2026;2(2):e118-e128.
+*Key finding: In a Mayo Clinic cohort of 120 postmenopausal women on tirzepatide for at least a year, hormone therapy users lost roughly 35% more weight; 45% vs 24% reached a 20% total body weight reduction. Retrospective—not randomized.*
 
 ---
 
@@ -455,6 +466,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 **National Institute for Health and Care Excellence.** ["Menopause: Diagnosis and Management."](https://www.nice.org.uk/guidance/ng23) NICE Guideline NG23. November 2015, updated April 2026.
 
+<a aria-hidden="true" id="estetrol-eu-approval-2026"></a>
+
+**Gedeon Richter.** ["Richter Receives European Commission Approval for FYLREVY (Estetrol Tablet) as Hormonal Replacement Therapy."](https://www.gedeonrichter.com/en/news/260327) Company announcement. March 27, 2026.
+*First regulatory approval anywhere for an estetrol-based menopausal hormone therapy; authorized in the EEA for estrogen-deficiency symptoms in postmenopausal women. Not FDA-approved.*
+
+<a aria-hidden="true" id="estetrol-e4comfort-2026"></a>
+
+**Simoncini T, et al.** ["Estetrol (E4) for the Treatment of Moderate to Severe Vasomotor Symptoms in Postmenopausal Women—Efficacy and Safety Results from the Phase 3 E4COMFORT I Multicenter, Placebo-Controlled Study."](https://doi.org/10.1016/j.maturitas.2026.108965) *Maturitas.* 2026;209:108965.
+*Key finding: In 640 postmenopausal women, both estetrol doses significantly reduced moderate-to-severe hot flash frequency versus placebo at weeks 4 and 12.*
+
 ---
 
 <a aria-hidden="true" id="herbal"></a>
@@ -565,6 +586,16 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="premature-menopause-health"></a>
 
 **Shuster LT, et al.** ["Premature Menopause or Early Menopause: Long-Term Health Consequences."](https://doi.org/10.1016/j.maturitas.2009.08.003) *Maturitas.* 2010;65(2):161-166.
+
+<a aria-hidden="true" id="surgical-gsm-severity-2026"></a>
+
+**Ozmen S, et al.** ["Genitourinary Syndrome of Menopause in Surgical versus Natural Menopause: Standardized Clinical Scoring."](https://doi.org/10.1097/GME.0000000000002833) *Menopause.* Published online June 9, 2026.
+*Key finding: Among 422 postmenopausal women, the surgical-menopause group scored worse on standardized genitourinary exams—more dryness, dyspareunia, and urinary symptoms—an association that held in multivariate analysis.*
+
+<a aria-hidden="true" id="premature-menopause-hypertension-2026"></a>
+
+**Arrarte V, et al.** ["Premature Menopause Is Associated with the Development of High Blood Pressure: A UK Biobank Cohort Study."](https://doi.org/10.1097/GME.0000000000002834) *Menopause.* Published online July 28, 2026.
+*Key finding: Among 107,836 UK Biobank women, hypertension developed in 22.6% of those with menopause before age 40 versus 16.6% with typical timing—a 12.3% higher adjusted risk. Surgical menopause itself showed no independent association.*
 
 ---
 
