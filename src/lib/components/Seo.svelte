@@ -113,12 +113,14 @@
 	<meta property="og:image" content={`${site.origin}${site.ogImage}`} />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="630" />
+	<meta property="og:image:alt" content={site.ogImageAlt} />
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:url" content={url} />
 	<meta name="twitter:title" content={socialTitle} />
 	<meta name="twitter:description" content={desc} />
 	<meta name="twitter:image" content={`${site.origin}${site.ogImage}`} />
+	<meta name="twitter:image:alt" content={site.ogImageAlt} />
 
 	{@html `<script type="application/ld+json">${schema}<\/script>`}
 </svelte:head>

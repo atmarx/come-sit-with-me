@@ -8,7 +8,7 @@ This is a perimenopause guide—a free, evidence-based resource created by a cou
 
 **Tech Stack:** SvelteKit 2 + Svelte 5, Tailwind CSS 4, mdsvex (Markdown with Svelte components), static adapter for GitHub Pages deployment.
 
-**Content Model:** 38 markdown pages organized into sections:
+**Content Model:** 39 markdown pages organized into sections:
 - `/` — Home
 - `/introduction` — Gateway page
 - `/whats-happening/` — 4 pages on biology (hormones, brain, body, emotions)
@@ -23,7 +23,7 @@ This is a perimenopause guide—a free, evidence-based resource created by a cou
 | File | Purpose |
 |------|---------|
 | `src/routes/**/+page.md` | Content pages (markdown + Svelte components) |
-| `src/routes/resources/references/+page.md` | Central reference repository (101 citations) |
+| `src/routes/resources/references/+page.md` | Central reference repository (127 citations) |
 | `src/lib/components/Content/` | Citation components (Cite, Ref, References, etc.) |
 | `src/lib/config/navigation.ts` | Site navigation structure |
 | `src/app.css` | Theme colors, fonts, Tailwind config |

@@ -11,6 +11,8 @@ export const site = {
 	description:
 		'Evidence-based perimenopause resource integrating conventional and complementary approaches. Free, ad-free, and crafted with love.',
 	ogImage: '/images/og-share.webp',
+	ogImageAlt:
+		'A weathered wooden bench on a woodland path, a knitted throw draped over the seat and a cup of tea steaming on the armrest.',
 	locale: 'en_US'
 } as const;
 
