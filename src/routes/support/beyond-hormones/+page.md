@@ -31,15 +31,15 @@ These drugs don't provide estrogen. They don't affect your hormone levels at all
 
 For women who can't or won't take hormones but have significant hot flashes, this was the first genuinely new option in decades. <Cite id="fezolinetant-nma-ht-comparison-2024" tooltip="Morga A, et al. Network meta-analysis: fezolinetant vs. HT and non-HT for VMS. Menopause. 2024;31(1):68-76.">A 2024 network meta-analysis found fezolinetant's reduction of hot flash frequency was not significantly different from any US-available hormone therapy—and significantly better than all other non-hormone options studied.</Cite>
 
-### Elinzanetant
+### Elinzanetant (Lynkuet)
 
-<Cite id="elinzanetant-approval-2024" tooltip="FDA News Release. FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause. December 2024."><strong>FDA approved December 2024</strong></Cite>
+<Cite id="elinzanetant-approval-2025" tooltip="Bayer press release. U.S. approval of a new hormone-free treatment option for moderate to severe vasomotor symptoms due to menopause. October 24, 2025."><strong>FDA approved October 2025</strong></Cite>
 
 - Dual NK1/NK3 receptor antagonist—blocks two pathways
-- <Cite id="elinzanetant-oasis" tooltip="Depypere H, et al. Efficacy and Safety of Elinzanetant, a Selective Neurokinin Receptor Antagonist for Vasomotor Symptoms. Menopause. 2024.">About 74% reduction in moderate-severe hot flashes by week 12</Cite>
+- <Cite id="elinzanetant-oasis" tooltip="Pinkerton JV, et al. Elinzanetant for the Treatment of Vasomotor Symptoms Associated With Menopause: OASIS 1 and 2 Randomized Clinical Trials. JAMA. 2024;332(16):1343-1354.">About two-thirds fewer moderate-to-severe hot flashes by week 12 (placebo brought a bit under half, which is why the trials matter)</Cite>
 - May also help [sleep](/symptoms/sleep-wont-come) and possibly [mood](/symptoms/mood) (it affects substance P, which is involved in pain and stress)
 - Can cause drowsiness—which is a feature if you have insomnia
-- Daily dosing
+- Once daily, at bedtime
 - <Cite id="elinzanetant-oasis4-2025" tooltip="Cardoso F, et al. Elinzanetant for Vasomotor Symptoms from Endocrine Therapy for Breast Cancer. New England Journal of Medicine. 2025;393(8):753-763.">Also sharply reduced hot flashes caused by breast-cancer endocrine therapy (tamoxifen, aromatase inhibitors) in a major trial—though that use isn't yet FDA-approved in the US</Cite>
 
 ### What's Coming

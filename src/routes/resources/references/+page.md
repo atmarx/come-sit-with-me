@@ -409,16 +409,18 @@ Studies that helped establish the timing hypothesis for hormone therapy.
 
 <a aria-hidden="true" id="elinzanetant-oasis"></a>
 
-**Depypere H, et al.** ["Efficacy and Safety of Elinzanetant, a Selective Neurokinin Receptor Antagonist for Vasomotor Symptoms."](https://doi.org/10.1097/GME.0000000000002265) *Menopause.* 2024;31(1):9-18.
+**Pinkerton JV, et al.** ["Elinzanetant for the Treatment of Vasomotor Symptoms Associated With Menopause: OASIS 1 and 2 Randomized Clinical Trials."](https://doi.org/10.1001/jama.2024.14618) *JAMA.* 2024;332(16):1343-1354.
+*Key finding: By week 12, women taking elinzanetant had about 65–67% fewer moderate-to-severe hot flashes, compared with about 42–46% fewer on placebo; sleep and menopause-related quality of life also improved.*
 
 <a aria-hidden="true" id="elinzanetant-oasis4-2025"></a>
 
 **Cardoso F, et al.** ["Elinzanetant for Vasomotor Symptoms from Endocrine Therapy for Breast Cancer."](https://doi.org/10.1056/NEJMoa2415566) *New England Journal of Medicine.* 2025;393(8):753-763.
 *Key finding: In women with hot flashes caused by breast-cancer endocrine therapy, elinzanetant reduced daily hot flash frequency by about 7.8 episodes at week 12, from a baseline of about 11.4.*
 
-<a aria-hidden="true" id="elinzanetant-approval-2024"></a>
+<a aria-hidden="true" id="elinzanetant-approval-2025"></a>
 
-**FDA News Release.** ["FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause."](https://www.fda.gov/news-events/press-announcements) December 2024.
+**Bayer (manufacturer press release).** ["U.S. approval of a new hormone-free treatment option for moderate to severe vasomotor symptoms due to menopause."](https://www.bayer.com/media/en-us/bayers-lynkuet-elinzanetant-approved-in-the-us-for-treatment-of-moderate-to-severe-vasomotor-symptoms-due-to-menopause/) October 24, 2025.
+*Key finding: FDA approval of elinzanetant (Lynkuet), taken once daily at bedtime, for moderate to severe hot flashes due to menopause.*
 
 <a aria-hidden="true" id="fezolinetant-nma-ht-comparison-2024"></a>
 

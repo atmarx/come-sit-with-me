@@ -28,11 +28,11 @@ For women who can't take hormones, the NK3 receptor antagonists represent the fi
 - About 60% reduction in hot flash frequency
 - Requires liver enzyme monitoring
 
-**Elinzanetant:**
-- FDA approved 2024
+**Elinzanetant (Lynkuet):**
+- FDA approved 2025
 - Also non-hormonal
 - May help with sleep as well as hot flashes
-- About 74% reduction in moderate-severe hot flashes
+- About two-thirds fewer moderate-to-severe hot flashes by week 12
 
 These aren't just "something to try"—they're the first treatments that address hot flashes at the [neurological source](/whats-happening/brain) without involving hormones at all.
 
