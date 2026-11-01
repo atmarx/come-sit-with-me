@@ -25,7 +25,7 @@ This is a perimenopause guide—a free, evidence-based resource created by a cou
 | File | Purpose |
 |------|---------|
 | `src/routes/**/+page.md` | Content pages (markdown + Svelte components) |
-| `src/routes/resources/references/+page.md` | Central reference repository (127 citations) |
+| `src/routes/resources/references/+page.md` | Central reference repository (102 references) |
 | `src/lib/components/Content/` | Citation components (Cite, Ref, References, etc.) |
 | `src/lib/config/navigation.ts` | Site navigation structure |
 | `src/app.css` | Theme colors, fonts, Tailwind config |
