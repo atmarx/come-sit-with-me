@@ -1,6 +1,7 @@
 ---
 title: Symptoms
 description: Understanding what's happening in your body—hot flashes, sleep, mood, brain fog, desire, skin, aches, and more
+summary: "What you're experiencing is real, all of it. Hot flashes, sleep, mood, brain fog, desire, skin, aches, and more: what's happening and why bodies differ."
 hero: /images/heroes/symptoms.webp
 heroAlt: River winding through hills at sunrise, small waterfalls spilling over rocks
 ---

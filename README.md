@@ -19,8 +19,7 @@ Andrew Marx built it while he and his wife Becky go through this together.  He i
 **Not there yet:**
 
 - **The bibliography is wired, not fully verified.**  Every entry is cited and every cite resolves, but that says nothing about whether an entry is true.  Entries have turned out fabricated or garbled, most recently the elinzanetant ones fixed in v1.2.6.  Any entry not individually checked since August 2026 is still suspect, so see [the citation rules](CONTRIBUTING.md#citation-guidelines) before you trust or reuse one.
-- **The public GitHub mirror is stale.**  It stopped at 2026-01-15, more than 40 commits behind, and doesn't carry the citation fixes.  Its Pages site only redirects here.  Gitea is the real repo.
-- **Every page shares one social card**, the bench painting (`static/images/og-share.webp`).  Per-page cards are an open question.
+- **The papers collection is only as full as open access lets it be.**  See [Papers](#papers).
 
 ## Where it runs
 
@@ -31,12 +30,9 @@ It's a static site: SvelteKit prerenders to `build/`, and Caddy serves that from
 | **Production** | xdroplet04, `https://comesitwith.me` | a pushed tag | `docker-compose.production.yml`, `caddy/come-sit-with-me.caddy` |
 | **Internal** | xdocker01, also copied to `/mnt/nas/TheArk/sites/comesitwithme` | a push to `main` | `deploy/compose.yml` |
 
-Source and CI live on Gitea at `git.dev.xram.net/atmarx/come-sit-with-me`, with Woodpecker building the images (`.woodpecker/`).  Analytics are self-hosted [Umami](https://umami.is/) at `stats.comesitwith.me`.
+Source and CI live on Gitea at `git.dev.xram.net/atmarx/come-sit-with-me`, with Woodpecker building the images (`.woodpecker/`).  [GitHub](https://github.com/atmarx/come-sit-with-me) is a public mirror, pushed by hand, and nothing deploys from it.  Analytics are self-hosted [Umami](https://umami.is/) at `stats.comesitwith.me`.
 
-Two leftovers aren't part of the live path:
-
-- `deploy/compose.prod.yml` isn't referenced by anything.
-- `.github/workflows/deploy.yml` is the old GitHub Pages deploy.  It only fires on a push to the GitHub mirror.
+`deploy/compose.prod.yml` is a leftover that nothing references.
 
 ## Deploy
 
@@ -45,6 +41,7 @@ Pushing to `main` updates xdocker01 only.  **Production needs a tag:**
 ```sh
 git tag v1.2.7
 git push origin main v1.2.7
+git push github main    # keep the public mirror current
 ```
 
 Then check that the site really changed.  A green pipeline isn't proof, because this runner has gone green while silently dropping commands.  That's why the deploy step in `.woodpecker/deploy-production.yml` keeps its real work in the first 8 commands and pads the rest with sacrificial `true` lines.  Don't add commands after the padding.
@@ -68,6 +65,20 @@ npm run check     # svelte-check
 ```
 
 Stack: [SvelteKit](https://svelte.dev/docs/kit) 2 with Svelte 5, Tailwind CSS 4, [mdsvex](https://mdsvex.pngwn.io/) for content, `adapter-static`, [Pagefind](https://pagefind.app/) for search.  Pages are `src/routes/**/+page.md`, navigation is `src/lib/config/navigation.ts`, and the bibliography is `src/routes/resources/references/+page.md`.
+
+## Page metadata
+
+Each page's frontmatter does a few different jobs:
+
+- `description` is the short tagline shown over the hero.
+- `summary` is about 150 characters for search results, social cards and `llms.txt`.  It isn't shown on the page.  Without one, `description` is used.
+- `hero` and `heroAlt` are the page art, and also its social card.  Heroes must stay 1536×1024, because `Seo.svelte` declares that size to the platforms, which crop them to about 1.91:1.  The homepage and pages without a hero use the bench painting (`static/images/og-share.webp`).
+
+A summary is a claim like any other: it can't say anything the page doesn't.
+
+## Papers
+
+Copies of cited papers live in `~/Code/come-sit-with-me-papers`, outside this repo, so they can't end up in a commit, an image or the public mirror.  They're for checking citations against the source, and they're never redistributed or served.  See the README in that folder.
 
 ## Contributing
 

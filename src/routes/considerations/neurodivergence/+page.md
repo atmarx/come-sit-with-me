@@ -1,6 +1,7 @@
 ---
 title: Neurodivergence and Perimenopause
 description: How autistic women and others with sensory processing differences may experience perimenopause differently
+summary: "If you're autistic or have ADHD, this transition may hit differently. What the early research shows, the sensory side of it, and what might help."
 hero: /images/heroes/neurodivergence.webp
 heroAlt: Branching network of pale limbs spreading symmetrically, lit with points of starlight
 ---

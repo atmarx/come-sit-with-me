@@ -1,6 +1,7 @@
 ---
 title: Race, Ethnicity & Healthcare
 description: How the menopause experience differs—and how the system fails women of color
+summary: "If you're a woman of color, you may carry a double burden: a transition that can run differently, and a system that too often fails you."
 hero: /images/heroes/race-ethnicity.webp
 heroAlt: Woven tapestry with threads in varied earth tones intertwining
 ---

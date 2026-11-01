@@ -1,6 +1,7 @@
 ---
 title: Contraception in Perimenopause
 description: Understanding fertility, contraceptive options, and how hormonal contraceptives affect the transition
+summary: "Yes, you can still get pregnant in perimenopause. When contraception can stop, your options, and how hormonal methods can mask where you are."
 hero: /images/heroes/contraception.webp
 heroAlt: Dew-covered flower bud not yet open, surrounded by small white blossoms
 ---

@@ -1,6 +1,7 @@
 ---
 title: When Sleep Won't Come
 description: Night sweats, racing thoughts, and why rest becomes elusive
+summary: "3 AM and awake again. Why sleep goes in perimenopause, from night sweats to a racing mind, how it cascades through your days, and what might help."
 hero: /images/heroes/sleep-wont-come.webp
 heroAlt: Night sky glimpsed through bare branches with crescent moon
 ---

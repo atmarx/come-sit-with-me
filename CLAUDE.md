@@ -8,7 +8,7 @@ This is a perimenopause guide—a free, evidence-based resource created by a cou
 
 **Tech Stack:** SvelteKit 2 + Svelte 5, Tailwind CSS 4, mdsvex (Markdown with Svelte components), static adapter, Pagefind search.  Served by Caddy in a container — see [README.md](README.md) for hosts and deploy.
 
-**Deploys:** push to `main` updates xdocker01 only.  Production (xdroplet04) needs a pushed tag.  GitHub Pages is retired, and the GitHub mirror is stale.
+**Deploys:** push to `main` updates xdocker01 only.  Production (xdroplet04) needs a pushed tag.  GitHub is a public mirror: run `git push github main` after each release.  Nothing deploys from it.
 
 **Content Model:** 39 markdown pages organized into sections:
 - `/` — Home
@@ -52,6 +52,8 @@ Citations use a **centralized reference model**:
 
 4. **Verify before citing.**  Check PubMed or the DOI, and read the abstract against the claim.  Wired is not verified — this bibliography has held fabricated entries.  See the citation guidelines in CONTRIBUTING.md.
 
+5. **Source papers** live in `~/Code/come-sit-with-me-papers` (outside the repo, never redistributed).  Check there first, and read its `triage.csv` before auditing.
+
 ## Development Environment
 
 - **Do not build** — the user runs `npm run dev` with live reloading
@@ -82,7 +84,7 @@ heroAlt: Description of the image
 ## Adding Content
 
 1. Create `src/routes/[section]/[page-name]/+page.md`
-2. Add frontmatter: `title`, `description`
+2. Add frontmatter: `title`, `description` (short hero tagline), `summary` (~150 characters for search and social cards, and only what the page actually says)
 3. Import needed components at top of file
 4. Add to navigation in `src/lib/config/navigation.ts`
 5. Add any new citations to `/resources/references/+page.md`

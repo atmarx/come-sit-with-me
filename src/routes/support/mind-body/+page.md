@@ -1,6 +1,7 @@
 ---
 title: Mind-Body Practices
 description: What the evidence says about hypnotherapy, CBT, yoga, acupuncture, and integrative approaches
+summary: "Hypnotherapy, CBT, yoga, acupuncture, mindfulness, and breathwork: what the research actually shows, what's less clear, and how to find what works for you."
 hero: /images/heroes/mind-body.webp
 heroAlt: Zen garden with raked sand circles and smooth stone at center
 ---

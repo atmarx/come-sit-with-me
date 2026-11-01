@@ -1,6 +1,7 @@
 ---
 title: Brain Fog & Memory
 description: When words escape you and thoughts scatter—what's happening and why it usually passes
+summary: "The word is right there and won't come. Brain fog is real. Why it happens, what might help, when to get checked, and the fear that sits underneath it."
 hero: /images/heroes/brain-fog.webp
 heroAlt: Morning mist over a meadow with soft diffuse golden light
 ---

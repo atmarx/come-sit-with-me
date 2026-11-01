@@ -169,7 +169,9 @@
 
 <Seo
 	title="Symptom Tracker"
-	description="Track your perimenopause symptoms privately. All data stays on your device."
+	description="Keep a daily record of your perimenopause symptoms and notes, so you can see your own patterns. It's private: everything stays on your device."
+	image="/images/heroes/tracker.webp"
+	imageAlt="Naturalist's field journal with botanical sketches, handwritten observations, and pressed flowers"
 />
 
 <!-- Hero -->

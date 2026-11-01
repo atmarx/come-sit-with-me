@@ -1,6 +1,7 @@
 ---
 title: For Partners
 description: Understanding, supporting, and staying connected during the perimenopausal transition
+summary: "If you're here, you're trying, and that matters. What's happening to the person you love, what not to do, and how to stay connected and look after yourself."
 hero: /images/heroes/for-partners.webp
 heroAlt: A sturdy oak and a graceful weeping willow growing side by side, their roots deeply entangled beneath the earth
 ---

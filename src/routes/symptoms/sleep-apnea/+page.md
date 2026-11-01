@@ -1,6 +1,7 @@
 ---
 title: Sleep Apnea
 description: The sleep disorder that dramatically increases after menopause—and often goes undiagnosed
+summary: "You blame the hot flashes, but exhaustion can have another cause. Why menopause raises sleep apnea risk, how it looks in women, and how to get diagnosed."
 hero: /images/heroes/sleep-apnea.webp
 heroAlt: Wind moving through tall grass at dawn
 ---

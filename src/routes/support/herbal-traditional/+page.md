@@ -1,6 +1,7 @@
 ---
 title: Herbal & Traditional Approaches
 description: Plant medicines, traditional systems, and what women have done across cultures and centuries
+summary: "What women have used across cultures and centuries: Chinese medicine, Ayurveda, Western herbs, and folk traditions, with honest notes on evidence and safety."
 hero: /images/heroes/herbal-traditional.webp
 heroAlt: Stone mortar and pestle on a wooden table, dried herb bundles hanging above
 ---

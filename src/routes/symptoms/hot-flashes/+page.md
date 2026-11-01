@@ -1,6 +1,7 @@
 ---
 title: Hot Flashes & Night Sweats
 description: Understanding the heat that rises without warning, and what's happening in your brain
+summary: "The heat rises like summer lightning, and it's not in your head. What's happening in your brain, why some have it worse, common triggers, and what helps."
 hero: /images/heroes/hot-flashes.webp
 heroAlt: Steam rising from hot springs pool in morning light
 ---

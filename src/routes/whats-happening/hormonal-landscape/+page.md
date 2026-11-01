@@ -1,6 +1,7 @@
 ---
 title: The Hormonal Landscape
 description: Understanding estradiol, progesterone, FSH, and the complex hormonal changes of perimenopause
+summary: "What you've been told about declining estrogen is probably wrong. It swings rather than fades. Meet estradiol, progesterone, FSH, and where you are in this."
 hero: /images/heroes/hormonal-landscape.webp
 heroAlt: Abstract flowing rivers interweaving in warm coral and sage tones
 ---

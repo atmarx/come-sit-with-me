@@ -1,6 +1,7 @@
 ---
 title: Dryness & Discomfort
 description: Vaginal changes, urinary symptoms, and why this doesn't resolve on its own
+summary: "Vaginal and urinary changes are common, undertreated, and wrapped in silence. What's happening, why it won't resolve on its own, and what actually helps."
 hero: /images/heroes/dryness.webp
 heroAlt: Dew drops on flower petals in soft morning light
 ---

@@ -1,6 +1,7 @@
 ---
 title: Your Whole Body
 description: How perimenopause affects your heart, bones, metabolism, eyes, mouth, skin—everything
+summary: "If it feels like everything is changing at once, it is. How perimenopause reaches your heart, bones, metabolism, brain, eyes, mouth, and skin."
 hero: /images/heroes/whole-body.webp
 heroAlt: Concentric ripples expanding outward in still water
 ---

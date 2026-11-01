@@ -17,13 +17,16 @@
 
 	interface Props {
 		title?: string;
+		/** Short tagline shown in the hero overlay. */
 		description?: string;
+		/** ~150 characters for search results, social cards, and llms.txt. Not shown on the page. */
+		summary?: string;
 		hero?: string;
 		heroAlt?: string;
 		children: Snippet;
 	}
 
-	let { title, description, hero, heroAlt, children }: Props = $props();
+	let { title, description, summary, hero, heroAlt, children }: Props = $props();
 
 	// Pages that are about the site rather than about health — they should not
 	// claim MedicalWebPage in structured data.
@@ -31,7 +34,7 @@
 	let isMedical = $derived(!NON_MEDICAL.includes($page.url.pathname));
 </script>
 
-<Seo {title} {description} medical={isMedical} />
+<Seo {title} description={summary || description} image={hero} imageAlt={heroAlt} medical={isMedical} />
 
 {#key $page.url.pathname}
 	{#if hero && title}

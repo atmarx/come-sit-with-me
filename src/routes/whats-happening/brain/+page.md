@@ -1,6 +1,7 @@
 ---
 title: What Your Brain Is Doing
 description: Why your temperature regulation goes haywire, and the surprising mood-hormone connection
+summary: "Hot flashes aren't mysterious or in your head. How a tiny cluster of neurons drives the heat, and the emerging research that connects them to mood."
 hero: /images/heroes/brain.webp
 heroAlt: A tree with visible root system in morning mist, roots mirroring branches
 ---

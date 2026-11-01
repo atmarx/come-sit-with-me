@@ -1,6 +1,7 @@
 ---
 title: Aches & Joint Pain
 description: Feeling old in your body—and why it's not just aging
+summary: "You wake up stiff, your hands hurt, and you're told it's just age. How estrogen and joints are connected, what actually helps, and when to look further."
 hero: /images/heroes/aches.webp
 heroAlt: Smooth river stones in shallow water with warm morning light
 ---

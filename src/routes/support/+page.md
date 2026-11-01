@@ -1,6 +1,7 @@
 ---
 title: Support & Options
 description: Approaches for navigating perimenopause—hormonal, non-hormonal, herbal, mind-body, and lifestyle
+summary: "You aren't broken, and these aren't fixes. Hormonal, non-hormonal, herbal, mind-body, and lifestyle options, explained honestly so the choice can be yours."
 hero: /images/heroes/support.webp
 heroAlt: Open garden shed door with drying herbs, clay pots and boots, a sunlit path beyond
 ---

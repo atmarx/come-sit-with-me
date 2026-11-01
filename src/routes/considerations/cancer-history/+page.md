@@ -1,6 +1,7 @@
 ---
 title: History of Hormone-Sensitive Cancer
 description: Menopause options for breast cancer survivors and those with hormone-sensitive cancer history
+summary: "A cancer history doesn't mean you have no options. It means a more careful conversation: what changes, the new non-hormonal options, your medical team."
 hero: /images/heroes/cancer-history.webp
 heroAlt: Sunrise over calm water, with grasses and stones along the near shore
 ---

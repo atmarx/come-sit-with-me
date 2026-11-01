@@ -1,6 +1,7 @@
 ---
 title: References
 description: Primary sources, studies, and citations used throughout this guide
+summary: "Every study and source behind this guide, organized by topic, so you can read the research yourself and check what we've told you."
 ---
 
 This page collects the primary research, clinical guidelines, and scholarly sources cited throughout this guide. References are organized by topic with anchor links for easy navigation.

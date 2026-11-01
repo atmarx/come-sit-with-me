@@ -1,6 +1,7 @@
 ---
 title: Pelvic Floor Changes
 description: Incontinence, prolapse, and why you can't see a trampoline without worry
+summary: "You laugh and leak, or feel a heaviness that shouldn't be there. What estrogen has to do with it, what actually helps, and what you shouldn't have to accept."
 hero: /images/heroes/pelvic-floor.webp
 heroAlt: Tree root system reaching deep into earth
 ---

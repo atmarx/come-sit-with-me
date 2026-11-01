@@ -1,6 +1,7 @@
 ---
 title: Hormone Therapy
 description: The WHI controversy, recent reassessment, timing hypothesis, and what you need to know
+summary: "For twenty years a misread study scared women away from hormone therapy. What really happened with the WHI, what we know now, and who can and can't use it."
 hero: /images/heroes/hormone-therapy.webp
 heroAlt: Old apothecary balance scale with brass dishes in soft gold tones
 ---

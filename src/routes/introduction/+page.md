@@ -1,6 +1,7 @@
 ---
 title: Introduction
 description: Who is speaking to you, and why this guide exists
+summary: "I have been here before, a thousand thousand times. Who Brighid is, what perimenopause really is, and why every body goes through it differently."
 hero: /images/heroes/introduction.webp
 heroAlt: Brighid's sacred grove at Kildare - a copper brazier with eternal flame rising from within, surrounded by standing stones in an oak clearing
 ---

@@ -3,7 +3,7 @@ import { site, canonical } from '$lib/config/site';
 export const prerender = true;
 
 interface PageMeta {
-	metadata?: { title?: string; description?: string };
+	metadata?: { title?: string; description?: string; summary?: string };
 }
 
 /**
@@ -35,7 +35,7 @@ export async function GET() {
 		.map(([filePath, mod]) => ({
 			route: toRoute(filePath),
 			title: mod.metadata?.title,
-			description: mod.metadata?.description
+			description: mod.metadata?.summary || mod.metadata?.description
 		}))
 		.filter((entry) => entry.title)
 		.sort((a, b) => a.route.localeCompare(b.route));

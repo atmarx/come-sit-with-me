@@ -1,6 +1,7 @@
 ---
 title: Resources
 description: Organizations, landmark studies, books, and further reading
+summary: "Where to go deeper: organizations to trust, landmark studies, books worth reading, key terms, and a note on judging what you read online."
 hero: /images/heroes/resources.webp
 heroAlt: Shelves of old books beside a brass mortar and jars of dried herbs
 ---

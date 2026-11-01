@@ -1,6 +1,7 @@
 ---
 title: Terms & Conditions
 description: Legal stuff, but the kind that protects both of us
+summary: "The plain version of the legal side: this guide is not medical advice, plus copyright, privacy, third-party links, and the limits of what we can promise."
 hero: /images/heroes/terms.webp
 heroAlt: Barrister's wig beside stacked law books and an open volume with reading glasses
 ---

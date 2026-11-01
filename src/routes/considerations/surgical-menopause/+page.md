@@ -1,6 +1,7 @@
 ---
 title: Surgical and Premature Menopause
 description: When menopause comes suddenly or early—unique challenges and approaches
+summary: "When the ovaries are removed, hormones don't fade, they plummet overnight. What makes surgical and premature menopause different, and finding the right care."
 hero: /images/heroes/surgical-menopause.webp
 heroAlt: Weathered stone archway opening onto a sunlit garden path
 ---

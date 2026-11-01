@@ -8,11 +8,15 @@
 		title?: string;
 		/** Page description from frontmatter. Falls back to the site description. */
 		description?: string;
+		/** Hero image path. Every hero is 1536×1024. Omit to use the site's bench card. */
+		image?: string;
+		/** Alt text for `image`. */
+		imageAlt?: string;
 		/** Set false on utility pages (terms, tracker) that are not health content. */
 		medical?: boolean;
 	}
 
-	let { title, description, medical = true }: Props = $props();
+	let { title, description, image, imageAlt, medical = true }: Props = $props();
 
 	let path = $derived($page.url.pathname);
 	let isHome = $derived(path === '/');
@@ -25,6 +29,17 @@
 	/** Social cards get the bare page title — the site name is already the og:site_name. */
 	let socialTitle = $derived(!title || isHome ? `${site.name} — ${site.tagline}` : title);
 	let desc = $derived(description || site.description);
+
+	/**
+	 * The homepage keeps the bench painting, which is already cropped to the social
+	 * 1200×630. Everywhere else the card is the page's own hero, and platforms crop
+	 * its 3:2 down to 1.91:1 themselves.
+	 */
+	let usesHero = $derived(Boolean(image) && !isHome);
+	let cardImage = $derived(`${site.origin}${usesHero ? image : site.ogImage}`);
+	let cardAlt = $derived(usesHero ? imageAlt || socialTitle : site.ogImageAlt);
+	let cardWidth = $derived(usesHero ? '1536' : '1200');
+	let cardHeight = $derived(usesHero ? '1024' : '630');
 
 	/** Flatten navigation once so breadcrumb lookups are a straight map read. */
 	function flatten(items: NavItem[], into: Map<string, string> = new Map()): Map<string, string> {
@@ -110,17 +125,18 @@
 	<meta property="og:url" content={url} />
 	<meta property="og:title" content={socialTitle} />
 	<meta property="og:description" content={desc} />
-	<meta property="og:image" content={`${site.origin}${site.ogImage}`} />
-	<meta property="og:image:width" content="1200" />
-	<meta property="og:image:height" content="630" />
-	<meta property="og:image:alt" content={site.ogImageAlt} />
+	<meta property="og:image" content={cardImage} />
+	<meta property="og:image:type" content="image/webp" />
+	<meta property="og:image:width" content={cardWidth} />
+	<meta property="og:image:height" content={cardHeight} />
+	<meta property="og:image:alt" content={cardAlt} />
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:url" content={url} />
 	<meta name="twitter:title" content={socialTitle} />
 	<meta name="twitter:description" content={desc} />
-	<meta name="twitter:image" content={`${site.origin}${site.ogImage}`} />
-	<meta name="twitter:image:alt" content={site.ogImageAlt} />
+	<meta name="twitter:image" content={cardImage} />
+	<meta name="twitter:image:alt" content={cardAlt} />
 
 	{@html `<script type="application/ld+json">${schema}<\/script>`}
 </svelte:head>

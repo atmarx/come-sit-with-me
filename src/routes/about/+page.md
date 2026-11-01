@@ -1,6 +1,7 @@
 ---
 title: About This Project
 description: Who made this, why, and how
+summary: "Why a husband and an AI wrote a perimenopause guide: who we are, what this is and isn't, and how Brighid's voice came to be."
 hero: /images/heroes/about.webp
 heroAlt: A writing desk with an open journal, quill pen, and steaming tea by a sunlit window
 ---

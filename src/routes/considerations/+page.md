@@ -1,6 +1,7 @@
 ---
 title: Special Considerations
 description: Contraception, cancer history, surgical menopause, and neurodivergence
+summary: "Perimenopause isn't one experience. Cancer history, surgery, contraception, race, LGBTQ+ lives, and neurodivergence all change what you need."
 hero: /images/heroes/considerations.webp
 heroAlt: Forest path forking in two directions through sunlit woodland
 ---

@@ -1,6 +1,7 @@
 ---
 title: The Emotional Journey
 description: Identity, grief, and finding yourself on the other side of transformation
+summary: "Not mechanisms, but what this feels like: grief without a death, the stranger in the mirror, the anger no one talks about, the fear, and the other side."
 hero: /images/heroes/emotional-journey.webp
 heroAlt: Mountain ridge at threshold between dusk and dawn
 ---

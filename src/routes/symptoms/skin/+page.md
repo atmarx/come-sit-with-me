@@ -1,6 +1,7 @@
 ---
 title: Skin & Hair Changes
 description: Itching, dryness, thinning skin, and the changes you might not have expected
+summary: "Nobody warned you about the itching. Dry skin, thinning skin, hair changes, what might help, and how to tell when it isn't just perimenopause."
 hero: /images/heroes/skin.webp
 heroAlt: Botanical leaves in various stages from spring green to autumn gold
 ---

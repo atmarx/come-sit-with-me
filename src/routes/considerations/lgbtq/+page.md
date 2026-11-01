@@ -1,6 +1,7 @@
 ---
 title: LGBTQ+ Considerations
 description: Navigating perimenopause across the spectrum of gender and sexuality
+summary: "Most menopause resources assume one kind of reader. This one is for lesbian and bisexual women, transgender and nonbinary people, and the care gaps you meet."
 hero: /images/heroes/lgbtq.webp
 heroAlt: Glass prism splitting a beam of light into a rainbow
 ---

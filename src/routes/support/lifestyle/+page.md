@@ -1,6 +1,7 @@
 ---
 title: Lifestyle & Self-Care
 description: Movement, sleep, stress management, and the daily choices that can shift your experience
+summary: "Lifestyle changes won't erase your symptoms, and anyone who says so is selling something. But movement, sleep, food, and stress can shift your experience."
 hero: /images/heroes/lifestyle.webp
 heroAlt: Cup of tea with morning light through window, steam rising gently
 ---

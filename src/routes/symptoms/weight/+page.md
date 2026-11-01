@@ -1,6 +1,7 @@
 ---
 title: Weight & Body Composition
 description: Why your body is redistributing, not just gaining—and what actually helps
+summary: "Your pants don't fit and nothing changed. Why it's redistribution, not just gain, why visceral fat matters, what actually helps, and where GLP-1 drugs fit."
 hero: /images/heroes/weight.webp
 heroAlt: Gentle rolling hills with natural curves in warm earth tones
 ---

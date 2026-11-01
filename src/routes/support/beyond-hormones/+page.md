@@ -1,6 +1,7 @@
 ---
 title: Beyond Hormones
 description: Non-hormonal options—NK3 receptor antagonists, SSRIs, SNRIs, and other pharmaceutical approaches
+summary: "Hormone therapy isn't right for everyone. The real alternatives: the new NK3 receptor antagonists, antidepressants that help hot flashes, and other medications."
 hero: /images/heroes/beyond-hormones.webp
 heroAlt: Various healing plants in soft botanical illustration
 ---

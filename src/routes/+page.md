@@ -1,6 +1,7 @@
 ---
 title: Come Sit With Me
 description: A resource for women crossing the threshold—and those who love them.
+summary: "A free guide to perimenopause, for anyone searching at 3 AM and wondering if what they feel is real. Come sit. Here's what's happening and what can help."
 hero: /images/heroes/home.webp
 heroAlt: A wooden bench with a cream shawl and steaming tea, nestled in a misty forest clearing with wildflowers, a path leading onward through the trees
 ---

@@ -1,6 +1,7 @@
 ---
 title: What's Actually Happening
 description: The hormonal landscape, what your brain is doing, and how your whole body is affected
+summary: "You've been told your hormones are just winding down. That's not what's happening. The truth about your hormones, your brain, your body, and your feelings."
 hero: /images/heroes/whats-happening.webp
 heroAlt: Monarch butterfly newly emerged, resting beside its empty chrysalis on a branch
 ---

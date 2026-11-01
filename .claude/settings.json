@@ -15,6 +15,9 @@
       "Bash(tail:*)",
       "Bash(tree:*)",
       "Bash(cat:*)"
+    ],
+    "additionalDirectories": [
+      "~/Code/come-sit-with-me-papers"
     ]
   }
 }

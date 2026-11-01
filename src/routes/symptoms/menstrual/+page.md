@@ -1,6 +1,7 @@
 ---
 title: Menstrual Changes
 description: How periods change during perimenopause—from shorter cycles to longer gaps
+summary: "Cycles that ran like clockwork suddenly don't. How periods change from the early years to the late ones, where you might be, and when to get checked."
 hero: /images/heroes/menstrual.webp
 heroAlt: Moon phases in soft watercolor, silvers and soft purples
 ---

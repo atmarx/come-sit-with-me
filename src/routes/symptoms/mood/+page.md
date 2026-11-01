@@ -1,6 +1,7 @@
 ---
 title: Mood Changes
 description: Depression risk, anxiety, and the complex relationship between hormones and mood
+summary: "You snapped again, or a darkness settled in that you can't explain. Why this happens, who's most at risk, what actually helps, and how to get care."
 hero: /images/heroes/mood.webp
 heroAlt: Soft watercolor sky with sun breaking through clouds
 ---

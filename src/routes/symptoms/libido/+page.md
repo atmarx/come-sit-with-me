@@ -1,6 +1,7 @@
 ---
 title: Sexual Desire & Libido
 description: Understanding changes in desire, arousal, and the complex relationship between hormones and sexuality
+summary: "Changes in desire are common, painful, and rarely talked about. Spontaneous versus responsive desire, why it's not only hormones, and what might help."
 hero: /images/heroes/libido.webp
 heroAlt: Two candle flames side by side in warm amber tones
 ---

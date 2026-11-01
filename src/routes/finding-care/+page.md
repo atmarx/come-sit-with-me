@@ -1,6 +1,7 @@
 ---
 title: Finding Care
 description: Navigating the provider gap and advocating for yourself
+summary: "Many doctors were never trained in menopause. What good care looks like, credentials to look for, telehealth, and what to do when you're dismissed."
 hero: /images/heroes/finding-care.webp
 heroAlt: Compass rose with a glowing center, drawn on mottled parchment
 ---
