@@ -39,8 +39,8 @@ Source and CI live on Gitea at `git.dev.xram.net/atmarx/come-sit-with-me`, with 
 Pushing to `main` updates xdocker01 only.  **Production needs a tag:**
 
 ```sh
-git tag v1.2.7
-git push origin main v1.2.7
+git tag vX.Y.Z
+git push origin main vX.Y.Z
 git push github main    # keep the public mirror current
 ```
 
