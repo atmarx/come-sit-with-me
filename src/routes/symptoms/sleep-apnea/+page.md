@@ -62,7 +62,7 @@ Sleep apnea isn't just about being tired. It's associated with:
 
 Your cardiovascular risk is already changing during menopause as estrogen's protective effects wane. Untreated sleep apnea compounds that risk significantly.
 
-<Cite id="sleep-apnea-aha-cardiovascular" tooltip="Makarem N, et al. Association of Sleep Characteristics with Cardiovascular Health Among Women. Sleep Health. 2019;5(5):501-508.">A study from the American Heart Association's Go Red for Women research network found that women at high risk for sleep apnea had **three times higher odds** of poor cardiovascular health scores.</Cite>
+<Cite id="sleep-apnea-aha-cardiovascular" tooltip="Makarem N, et al. Association of Sleep Characteristics with Cardiovascular Health Among Women. Sleep Health. 2019;5(5):501-508.">A study from the American Heart Association's Go Red for Women research network found that women at high risk for sleep apnea had <strong>three times higher odds</strong> of poor cardiovascular health scores.</Cite>
 
 ## When to Suspect Sleep Apnea
 
