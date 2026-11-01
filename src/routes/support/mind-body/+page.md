@@ -117,8 +117,8 @@ This is something you can do anywhere, anytime, with no cost. Worth trying.
 This often gets covered under mind-body or "natural" approaches, but phytoestrogens (plant compounds with estrogen-like activity) are really more like [herbal/traditional](/support/herbal-traditional) medicine. The quick summary:
 
 - **Soy isoflavones**: A 2025 meta-analysis found no significant effect on hot flash frequency overall (Hedges' g = −0.03). The equol hypothesis — that women whose gut bacteria convert isoflavones to equol see more benefit — remains plausible but unproven at scale. Dietary soy may still offer other health benefits.
-- **Black cohosh**: Most-studied herbal remedy. May help hot flashes for some. Does NOT act as a phytoestrogen (mechanism unclear). Standardized extract (Remifemin) has best evidence.
-- **Red clover, hops, dong quai, evening primrose oil**: <Cite id="phytoestrogens-review" tooltip="Lethaby A, et al. Phytoestrogens for Menopausal Vasomotor Symptoms. Cochrane Database of Systematic Reviews. 2013;(12):CD001395.">Mixed or negative evidence in trials.</Cite>
+- **Black cohosh**: Most-studied herbal remedy. <Cite id="black-cohosh-review" tooltip="Leach MJ, Moore V. Black Cohosh (Cimicifuga spp.) for Menopausal Symptoms. Cochrane Database of Systematic Reviews. 2012;(9):CD007244.">A Cochrane review found insufficient evidence for it against placebo, and called the safety evidence inconclusive.</Cite>
+- **Red clover and other phytoestrogens**: <Cite id="phytoestrogens-review" tooltip="Lethaby A, et al. Phytoestrogens for Menopausal Vasomotor Symptoms. Cochrane Database of Systematic Reviews. 2013;(12):CD001395.">No conclusive evidence in trials, though high-genistein extracts deserve more study.</Cite>
 
 See [Herbal & Traditional](/support/herbal-traditional) for detailed exploration.
 

@@ -20,17 +20,17 @@ Let me tell you what's actually happening.
 
 ## This Is Real
 
-<Cite id="cognition-perimenopause-meta" tooltip="Kilpi F, et al. Cognitive Functioning in Perimenopause: An Updated Systematic Review and Meta-Analysis. Maturitas. 2025. 26 studies, 9,428 participants.">A 2025 meta-analysis of 26 studies and over 9,000 women confirmed what you already know: perimenopausal women perform measurably worse on memory, concentration, and attention assessments compared to their premenopausal selves.</Cite>
+<Cite id="cognition-perimenopause-meta" tooltip="Bangle A, et al. Cognitive Functioning in Perimenopause. Psychology and Aging. 2026;41(3):303-318. 26 articles, 9,428 participants.">A recent meta-analysis of 26 studies and over 9,000 women found that perimenopausal women had poorer cognitive outcomes overall than premenopausal women—counting both test scores and what women reported themselves—though no single area, like memory or attention, stood out on its own.</Cite>
 
-What's most affected:
-- **Verbal learning**—taking in new information through words
-- **Verbal memory**—retrieving that information later
-- **Word-finding**—accessing the vocabulary you know you have
-- **Processing speed**—how quickly you can work through cognitive tasks
+What women commonly describe:
+- **Taking things in**—new information, especially through words, won't stick
+- **Getting it back**—what you heard or read won't come when you reach for it
+- **Word-finding**—the vocabulary you know you have goes missing
+- **Slower thinking**—working through a task takes longer than it used to
 
-This isn't imagination.  It's not stress (though stress makes it worse).  It's not "just aging."  There's a hormonal component, and we can measure it.
+This isn't imagination.  Stress and low mood can feed it, but that doesn't make it any less real.  It's not "just aging."  There seems to be a hormonal component, though the tests don't all agree.
 
-<Cite id="cognition-menopause-cohort-2026" tooltip="Naysmith LF, et al. Cognition and the menopause transition. npj Women's Health. 2026. n=14,234.">And yet—when researchers gave over 14,000 women objective cognitive tests, perimenopausal women performed just as well as everyone else, and in some areas marginally better.</Cite>  The disconnect between how foggy you *feel* and how well you actually *perform* is striking.  Your brain hasn't broken.  It's working harder to get the same results—and that effort is what you're feeling.
+<Cite id="cognition-menopause-cohort-2026" tooltip="Naysmith LF, et al. Cognition and the menopause transition. npj Women's Health. 2026. n=14,234.">And yet—when researchers gave over 14,000 women objective cognitive tests, perimenopausal women performed just as well as everyone else, and on overall accuracy marginally better.</Cite>  The disconnect between how foggy you *feel* and how well you actually *perform* is striking.  Your brain hasn't broken.  In this study, how foggy women felt tracked their mood and anxiety symptoms more closely than their test scores.
 
 ## Why This Happens
 
@@ -92,7 +92,7 @@ I know what many women fear when the fog rolls in: *Is this the beginning of dem
 
 For the vast majority of women, it is not. The cognitive changes of perimenopause are different from neurodegenerative disease—they're temporary, they're tied to hormonal transition, and they improve.
 
-One more piece of reassurance: <Cite id="ht-dementia-meta-2025" tooltip="Melville M, et al. Menopause Hormone Therapy and Risk of Mild Cognitive Impairment or Dementia: A Systematic Review and Meta-Analysis. The Lancet Healthy Longevity. 2025;6(12):100803.">an analysis of over a million women—the evidence base for the WHO's 2026 dementia-prevention guidelines—found that hormone therapy neither raises nor lowers dementia risk.</Cite> <Cite id="keeps-imaging-2026" tooltip="Kantarci K, et al. Long-Term Amyloid PET and MRI Outcomes in a Menopausal Hormone Therapy Trial. Alzheimer's & Dementia. 2026;22(2):e71067.">And when researchers scanned women's brains ten years after a randomized hormone-therapy trial, they found no difference in Alzheimer's-type plaques or brain structure between those who'd taken hormones and those on placebo.</Cite> Fear of dementia is not a reason to avoid treating your symptoms. And hormone therapy is not a way to prevent dementia, either.
+One more piece of reassurance: <Cite id="ht-dementia-meta-2025" tooltip="Melville M, et al. Menopause Hormone Therapy and Risk of Mild Cognitive Impairment or Dementia: A Systematic Review and Meta-Analysis. The Lancet Healthy Longevity. 2025;6(12):100803.">a review of over a million women, commissioned for the WHO's dementia-prevention guidance, found no evidence that hormone therapy either raises or lowers dementia risk—though most of those studies were observational and the certainty ranged from moderate to very low.</Cite> <Cite id="who-dementia-guideline-2026" tooltip="World Health Organization. Risk Reduction of Cognitive Decline and Dementia: WHO Guidelines. 2nd edition. 2026.">WHO's own guidance says the evidence doesn't yet settle the question for women under 65.</Cite> <Cite id="keeps-imaging-2026" tooltip="Kantarci K, et al. Long-Term Amyloid PET and MRI Outcomes in a Menopausal Hormone Therapy Trial. Alzheimer's & Dementia. 2026;22(2):e71067.">And when researchers scanned women's brains ten years after a randomized hormone-therapy trial, they found no difference in Alzheimer's-type plaques or brain structure between those who'd taken hormones and those on placebo.</Cite> Fear of dementia is not a reason to avoid treating your symptoms. And hormone therapy is not a way to prevent dementia, either.
 
 That said: if you have a family history of Alzheimer's or specific concerns, it's reasonable to discuss them with your doctor. Knowledge is better than fear.
 

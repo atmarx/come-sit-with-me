@@ -60,7 +60,7 @@ Prolapse ranges from mild (barely noticeable) to severe. It's graded on a scale,
 
 ## How Common Is This?
 
-<Cite id="incontinence-prevalence" tooltip="Nygaard I, et al. Prevalence of Symptomatic Pelvic Floor Disorders in US Women. JAMA. 2008;300(11):1311-1316.">Pelvic floor disorders affect up to 40% of postmenopausal women.</Cite> <Cite id="prolapse-prevalence" tooltip="Wu JM, et al. Prevalence and Trends of Symptomatic Pelvic Floor Disorders in U.S. Women. Obstetrics & Gynecology. 2014;123(1):141-148.">In national survey data, about one in six US women has moderate-to-severe urinary leakage, and about 3% have symptomatic prolapse.</Cite> You are not alone, even though it might feel that way—because who talks about this?
+<Cite id="incontinence-prevalence" tooltip="Nygaard I, et al. Prevalence of Symptomatic Pelvic Floor Disorders in US Women. JAMA. 2008;300(11):1311-1316.">Pelvic floor disorders become more common with age: in a national US survey, about 26% of women aged 40-59 and 37% of those aged 60-79 had symptoms of at least one.</Cite> <Cite id="prolapse-prevalence" tooltip="Wu JM, et al. Prevalence and Trends of Symptomatic Pelvic Floor Disorders in U.S. Women. Obstetrics & Gynecology. 2014;123(1):141-148.">In national survey data, about one in six US women has moderate-to-severe urinary leakage, and about 3% have symptomatic prolapse.</Cite> You are not alone, even though it might feel that way—because who talks about this?
 
 Risk factors beyond menopause include:
 - Vaginal childbirth (especially multiple births, large babies, long labors)
@@ -91,7 +91,7 @@ Local estrogen—creams, tablets, rings—can improve the tissue quality of your
 - Improve tissue integrity before or after surgery
 - Make pessary use more comfortable
 
-Because absorption is minimal, vaginal estrogen is an option for many women who can't take systemic hormones—including many [breast cancer survivors](/considerations/cancer-history).
+Vaginal estrogen is a low-dose option for many women who can't take systemic hormones. For [breast cancer survivors](/considerations/cancer-history), it's a conversation to have with your oncologist.
 
 ### Pessaries
 

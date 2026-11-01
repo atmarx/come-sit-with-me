@@ -14,7 +14,7 @@ You snapped at your partner for no reason. Again.
 
 Or you cried at a commercial. Or you felt a darkness settle over you that you can't explain. Or the anxiety that once stayed in its corner now runs the whole show.
 
-<Cite id="weber-mood-meta-2014" tooltip="Weber MT, et al. Cognition and Mood in Perimenopause: A Systematic Review and Meta-Analysis. Journal of Steroid Biochemistry and Molecular Biology. 2014;142:90-98.">If your mood feels like it's been hijacked, you're not imagining things.</Cite> <Cite id="depression-40-percent" tooltip="Freeman EW, et al. Hormones and Menopausal Status as Predictors of Depression in Women in Transition to Menopause. Archives of General Psychiatry. 2004;61(1):62-70.">Depression risk is <strong>40% higher</strong> during perimenopause than before.</Cite> <Cite id="bipolar-first-onset" tooltip="Di Florio A, et al. Exploration of First Onsets of Mania, Schizophrenia Spectrum Disorders and Major Depressive Disorder in Perimenopause. Nature Mental Health. 2024.">First-time bipolar disorder is twice as likely to emerge during this transition than at other times.</Cite> This isn't weakness. It isn't a character flaw. It's biology.
+<Cite id="weber-mood-meta-2014" tooltip="Weber MT, et al. Cognition and Mood in Perimenopause: A Systematic Review and Meta-Analysis. Journal of Steroid Biochemistry and Molecular Biology. 2014;142:90-98.">If your mood feels like it's been hijacked, you're not imagining things.</Cite> <Cite id="depression-odds-meta-2024" tooltip="Badawy Y, et al. The Risk of Depression in the Menopausal Stages: A Systematic Review and Meta-Analysis. Journal of Affective Disorders. 2024;357:126-133.">The odds of depression are about <strong>40% higher</strong> during perimenopause than before.</Cite> <Cite id="bipolar-first-onset" tooltip="Shitomi-Jones LM, et al. Exploration of First Onsets of Mania, Schizophrenia Spectrum Disorders and Major Depressive Disorder in Perimenopause. Nature Mental Health. 2024;2(10):1161-1168.">First-time mania or bipolar disorder is about twice as likely to emerge in the years around your final period as it is 6 to 10 years before it—though it's still rare.</Cite> This isn't weakness. It isn't a character flaw. It's biology.
 
 ## Who's Most at Risk
 
@@ -22,7 +22,7 @@ Some women sail through perimenopause with stable moods. Others struggle profoun
 
 - **Prior depression or anxiety**—your brain may be more sensitive to hormonal shifts
 - **Premenstrual mood sensitivity**—if you experienced significant PMS or PMDD, you're at higher risk
-- **Existing bipolar disorder**—<Cite id="bipolar-menopause-review" tooltip="Perich T, et al. Menopause and Illness Course in Bipolar Disorder: A Systematic Review. Bipolar Disorders. 2017;19(6):434-443.">symptoms often worsen through the transition, with depression the most common flare</Cite>
+- **Existing bipolar disorder**—<Cite id="bipolar-menopause-review" tooltip="Perich T, et al. Menopause and Illness Course in Bipolar Disorder: A Systematic Review. Bipolar Disorders. 2017;19(6):434-443.">early evidence suggests symptoms may worsen through the transition, depression in particular</Cite>
 - **Stressful life circumstances**—perimenopause often coincides with aging parents, teenagers, career pressure, relationship strain
 - **Significant vasomotor symptoms**—[hot flashes](/symptoms/hot-flashes) and mood have a bidirectional relationship. Each makes the other worse.
 - **Longer perimenopause**—the more years of hormonal chaos, the higher the cumulative risk
@@ -58,7 +58,7 @@ That's the hormones talking. You're still in there.
 
 ## What Actually Helps
 
-**[Hormone therapy](/support/hormone-therapy)** can be effective for perimenopausal depression, particularly when symptoms are clearly tied to the menstrual cycle or hormonal changes. Stabilizing estrogen levels calms the chaos that's driving mood symptoms. For some women, this works better than antidepressants. <Cite id="ht-depression-meta-2026" tooltip="Li Y, et al. Efficacy and Safety of Menopausal Hormone Therapy for Depressive Symptoms in Perimenopausal Women: A Systematic Review and Meta-Analysis. Journal of Affective Disorders. 2026;409:121892.">I'll be honest about the size of the effect, though: across a dozen randomized trials, the average benefit was real but modest—worth trying, not a guarantee.</Cite>
+**[Hormone therapy](/support/hormone-therapy)** can be effective for perimenopausal depression, particularly when symptoms are clearly tied to the menstrual cycle or hormonal changes. Stabilizing estrogen levels calms the chaos that's driving mood symptoms. <Cite id="ht-depression-meta-2026" tooltip="Li Y, et al. Efficacy and Safety of Menopausal Hormone Therapy for Depressive Symptoms in Perimenopausal Women: A Systematic Review and Meta-Analysis. Journal of Affective Disorders. 2026;409:121892.">I'll be honest about the size of the effect, though: in a review of a dozen randomized trials, the benefit over placebo was small and the certainty limited—worth trying, not a guarantee.</Cite>
 
 **Antidepressants** (SSRIs, SNRIs) help many women. They work through different mechanisms than hormones and can be used alone or together. Some also help with [hot flashes](/symptoms/hot-flashes). More on this in [Beyond Hormones](/support/beyond-hormones).
 

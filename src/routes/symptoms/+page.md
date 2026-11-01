@@ -9,6 +9,7 @@ heroAlt: River winding through hills at sunrise, small waterfalls spilling over 
 <script>
 	import Card from '$lib/components/Content/Card.svelte';
 	import CardGrid from '$lib/components/Content/CardGrid.svelte';
+	import Cite from '$lib/components/Content/Cite.svelte';
 </script>
 
 What you're experiencing is real. All of it.
@@ -21,15 +22,15 @@ These aren't signs that something is wrong with you. They're signs that your bod
 
 <CardGrid>
 <Card href="/symptoms/hot-flashes" title="Hot Flashes & Night Sweats">
-That sudden heat affects about 75% of us, with a median duration of 7 years. I'll explain what's actually happening in your brain.
+That sudden heat touches somewhere between half and three-quarters of us. Among women with frequent symptoms, the median duration is a little over 7 years. I'll explain what's actually happening in your brain.
 </Card>
 
 <Card href="/symptoms/sleep-wont-come" title="When Sleep Won't Come">
-About 40% of perimenopausal women struggle with sleep. Night sweats, declining progesterone, racing thoughts at 3 AM.
+Somewhere between 40 and 56% of women in the menopausal transition and beyond report trouble sleeping, compared with about 31% before it. Night sweats, declining progesterone, racing thoughts at 3 AM.
 </Card>
 
 <Card href="/symptoms/mood" title="Mood Changes">
-Depression risk rises 40% during this transition. I want you to understand why—and know that you're not failing.
+The odds of depression are about 40% higher during perimenopause than before. I want you to understand why—and know that you're not failing.
 </Card>
 
 <Card href="/symptoms/brain-fog" title="Brain Fog & Memory">
@@ -49,7 +50,7 @@ Feeling old in your body. This isn't just aging—estrogen affects your joints, 
 </Card>
 
 <Card href="/symptoms/dryness" title="Dryness & Discomfort">
-Unlike hot flashes, this doesn't resolve on its own. But it's also one of the most treatable symptoms.
+Unlike hot flashes, this rarely resolves on its own. But it's also one of the most treatable symptoms.
 </Card>
 
 <Card href="/symptoms/menstrual" title="Menstrual Changes">
@@ -57,7 +58,7 @@ From shorter cycles to longer gaps, heavier bleeding to skipped periods entirely
 </Card>
 
 <Card href="/symptoms/weight" title="Weight & Body Composition">
-Why your body redistributes fat regardless of diet. The visceral fat shift, metabolism changes, and what actually helps.
+Why fat gain can speed up even when the scale doesn't. The visceral fat shift, metabolism changes, and what actually helps.
 </Card>
 
 <Card href="/symptoms/pelvic-floor" title="Pelvic Floor Changes">
@@ -65,13 +66,15 @@ Incontinence, prolapse, and why trampolines aren't fun anymore. More common than
 </Card>
 
 <Card href="/symptoms/sleep-apnea" title="Sleep Apnea">
-Risk increases dramatically after menopause—and often goes undiagnosed in women. It's not just snoring.
+Risk rises after menopause—gradually, not overnight—and often goes undiagnosed in women. It's not just snoring.
 </Card>
 
 <Card href="/tracker" title="Symptom Tracker">
 Track your symptoms over time. Find patterns. Bring data to your doctor. Everything stays private on your device.
 </Card>
 </CardGrid>
+
+Where the numbers on these cards come from: <Cite id="vms-management-review-2023" tooltip="Crandall CJ, Mehta JM, Manson JE. Management of Menopausal Symptoms: A Review. JAMA. 2023;329:405-420.">how many of us get hot flashes</Cite>, <Cite id="swan-vasomotor-duration-2015" tooltip="Avis NE, et al. Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition. JAMA Internal Medicine. 2015;175(4):531-539.">how long they last</Cite>, <Cite id="sleep-40-percent" tooltip="Baker FC, et al. Sleep Problems During the Menopausal Transition: Prevalence, Impact, and Management Challenges. Nature and Science of Sleep. 2018;10:73-95.">trouble sleeping</Cite>, and <Cite id="depression-odds-meta-2024" tooltip="Badawy Y, et al. The Risk of Depression in the Menopausal Stages: A Systematic Review and Meta-Analysis. Journal of Affective Disorders. 2024;357:126-133.">the odds of depression</Cite>. Each page has more.
 
 ## Something Important to Understand
 

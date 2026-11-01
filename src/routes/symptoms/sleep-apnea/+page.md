@@ -1,6 +1,6 @@
 ---
 title: Sleep Apnea
-description: The sleep disorder that dramatically increases after menopause—and often goes undiagnosed
+description: The sleep disorder that becomes more common after menopause—and often goes undiagnosed
 summary: "You blame the hot flashes, but exhaustion can have another cause. Why menopause raises sleep apnea risk, how it looks in women, and how to get diagnosed."
 hero: /images/heroes/sleep-apnea.webp
 heroAlt: Wind moving through tall grass at dawn
@@ -14,16 +14,15 @@ You're exhausted. You're not [sleeping well](/symptoms/sleep-wont-come). You ass
 
 But there's another possibility that often goes unrecognized: sleep apnea.
 
-<Cite id="sleep-apnea-prevalence-2013" tooltip="Peppard PE, et al. Increased Prevalence of Sleep-Disordered Breathing in Adults. American Journal of Epidemiology. 2013;177(9):1006-1014.">Before menopause, women have significantly lower rates of sleep apnea than men.</Cite> After menopause, the gap nearly closes. Something about this transition dramatically increases risk—and many women don't know to look for it.
+<Cite id="sleep-apnea-women-2001" tooltip="Bixler EO, et al. Prevalence of Sleep-Disordered Breathing in Women: Effects of Gender. American Journal of Respiratory and Critical Care Medicine. 2001;163(3 Pt 1):608-613.">In one large population study, clinically defined sleep apnea affected 0.6% of premenopausal women and 3.9% of men.  Among postmenopausal women not on hormone therapy it was 2.7%—closer to men, though still lower.</Cite> Something about this transition raises the risk—and many women don't know to look for it.
 
 ## The Numbers
 
 The statistics are striking:
 
-<Cite id="sleep-apnea-menopause-prevalence" tooltip="Young T, et al. Menopausal Status and Sleep-Disordered Breathing in the Wisconsin Sleep Cohort Study. American Journal of Respiratory and Critical Care Medicine. 2003.">Sleep apnea is <strong>4.5 times more prevalent</strong> in postmenopausal women than in premenopausal women.</Cite>
-The Wisconsin Sleep Cohort found a 2.6-fold increased risk in postmenopausal versus premenopausal women. <a href="/considerations/surgical-menopause">Surgical menopause</a> carries even higher risk than natural menopause.
+<Cite id="sleep-apnea-women-2001" tooltip="Bixler EO, et al. Prevalence of Sleep-Disordered Breathing in Women: Effects of Gender. American Journal of Respiratory and Critical Care Medicine. 2001;163(3 Pt 1):608-613.">In that same study, clinically defined sleep apnea affected 2.7% of postmenopausal women not on hormone therapy, against 0.6% of premenopausal women.</Cite> <Cite id="sleep-apnea-menopause-prevalence" tooltip="Young T, et al. Menopausal Status and Sleep-Disordered Breathing in the Wisconsin Sleep Cohort Study. American Journal of Respiratory and Critical Care Medicine. 2003;167(9):1181-1185.">The Wisconsin Sleep Cohort found about 2.6 times the odds of sleep-disordered breathing after menopause, and 3.5 times the odds at the more serious threshold, even after adjusting for age and body size.  Odds during perimenopause itself weren't significantly higher.</Cite>
 
-This isn't a small increase. <Cite id="sleep-apnea-risk" tooltip="Mirer AG, et al. Sleep-Disordered Breathing and the Menopausal Transition Among Participants in the Sleep in Midlife Women Study. Menopause. 2017;24(2):157-162.">This is a fundamental shift in risk profile that comes with the transition itself—breathing disruption climbs with each year deeper into it, independent of aging and body changes.</Cite>
+<Cite id="sleep-apnea-risk" tooltip="Mirer AG, et al. Sleep-Disordered Breathing and the Menopausal Transition Among Participants in the Sleep in Midlife Women Study. Menopause. 2017;24(2):157-162.">The rise is gradual rather than sudden: breathing disruption climbs about 4% with each year deeper into the transition, independent of aging and body changes.</Cite>
 
 ## Why Menopause Increases Risk
 
@@ -76,8 +75,6 @@ Consider getting evaluated if you have:
 - High blood pressure, especially if new or hard to control
 - Any witnessed breathing pauses during sleep
 - Daytime sleepiness severe enough to affect functioning
-
-If you went through surgical menopause or early menopause, your risk is even higher.
 
 ## Getting Diagnosed
 

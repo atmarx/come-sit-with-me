@@ -12,7 +12,7 @@ heroAlt: Botanical leaves in various stages from spring green to autumn gold
 
 Nobody warned you about the itching.
 
-<Cite id="zouboulis-menopause-skin-2022" tooltip="Zouboulis CC, et al. Skin, hair and beyond: the impact of menopause. Climacteric. 2022;25(5):434-442.">Skin changes during perimenopause are real, common, and often dismissed as cosmetic concerns—when they're nothing of the sort.</Cite> Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
+<Cite id="zouboulis-menopause-skin-2022" tooltip="Zouboulis CC, et al. Skin, hair and beyond: the impact of menopause. Climacteric. 2022;25(5):434-442.">Skin and hair changes around menopause are real, and they often get less attention than other symptoms, despite a significant effect on quality of life.</Cite> Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
 
 <Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">Estrogen receptors are woven through your skin—in the outer layers, in the oil glands, in the connective tissue below, and in the mast cells distributed throughout.</Cite> When estrogen fluctuates, your skin notices at every level.
 
@@ -25,7 +25,7 @@ One likely contributor is altered nerve sensitivity. Estrogen receptors are foun
 Other mechanisms feeding the same fire:
 - **Reduced oil production** from sebaceous glands—dry skin has a lower itch threshold
 - **Thinning skin** that becomes more sensitive to pressure, fabrics, and temperature
-- **Histamine changes**—<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">mast cells in the skin have estrogen receptors, and as estrogen shifts, some women's skin becomes more reactive to things that never bothered them before</Cite>
+- **Histamine changes**—<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">mast cells in the skin have estrogen receptors, and as estrogen shifts, some women's skin may become more reactive to things that never bothered them before</Cite>
 
 The itching can be:
 - Generalized (all over) or localized (specific spots)
@@ -52,7 +52,7 @@ What you'll notice:
 
 Collagen and elastin—the scaffolding and spring of your skin—are both estrogen-dependent. Collagen provides structure and thickness. Elastin allows skin to snap back after being stretched or pressed.
 
-<Cite id="brincat-collagen-1987" tooltip="Brincat M, et al. A Study of the Decrease of Skin Collagen Content, Skin Thickness, and Bone Mass in the Postmenopausal Woman. Obstetrics & Gynecology. 1987;70(6):840-845.">Women lose approximately 30% of skin collagen in the first 5 years after menopause</Cite>—and the collagen that remains changes in quality, not just quantity. Elastin declines alongside it.
+<Cite id="brincat-collagen-1987" tooltip="Brincat M, et al. A Study of the Decrease of Skin Collagen Content, Skin Thickness, and Bone Mass in the Postmenopausal Woman. Obstetrics & Gynecology. 1987;70(6):840-845.">In one measured study, skin collagen fell about 1-2% a year after menopause.</Cite> <Cite id="thornton-skin-2013" tooltip="Thornton MJ. Estrogens and aging skin. Dermato-Endocrinology. 2013;5(2):264-270.">One review suggests it's thought to fall by as much as 30% in the first five years, though that review doesn't square the figure with the 2% a year it also gives.</Cite> The collagen that remains changes in quality, not just quantity. Elastin declines alongside it.
 
 What this means in practice:
 - Skin becomes thinner and more fragile at the surface
@@ -66,7 +66,7 @@ This isn't vanity. Skin is your largest organ, and its integrity matters for pro
 
 Hormonal shifts affect hair too—and not in ways anyone prepared you for.
 
-<Cite id="fphl-pathophysiology-2018" tooltip="Fabbrocini G, et al. Female pattern hair loss: A clinical, pathophysiologic, and therapeutic review. International Journal of Women's Dermatology. 2018;4(4):203-211.">**Scalp thinning** is the most distressing for many women. As estrogen falls relative to androgen activity, genetically susceptible follicles may become more vulnerable to androgen signaling, including DHT. Follicles begin to miniaturize; hairs grow in finer and shed faster. Most women see **diffuse thinning across the crown** rather than a receding hairline, though some see both. This is called female pattern hair loss, and it's more common in perimenopause than most people know.</Cite>
+Start with <strong>scalp thinning</strong>. <Cite id="fphl-pathophysiology-2018" tooltip="Fabbrocini G, et al. Female pattern hair loss: A clinical, pathophysiologic, and therapeutic review. International Journal of Women's Dermatology. 2018;4(4):203-211.">Follicles miniaturize, and hairs grow in shorter and finer. Most women see <strong>diffuse thinning across the top of the scalp</strong> with the front hairline preserved, though a receding hairline occasionally happens. This is female pattern hair loss. It becomes more common with age, and androgens are involved in some women, though their role is less clear in women than in men.</Cite>
 
 But it's not only your scalp:
 - **Eyebrows and eyelashes** can thin too—quieter than scalp loss but real, and meaningful if your brows have always been part of your face
@@ -83,7 +83,7 @@ The emotional weight of losing hair that has been part of your identity since ch
 - Avoiding hot showers (they strip what natural oils remain; lukewarm is genuinely better)
 - Colloidal oatmeal products—genuinely soothing for irritated, reactive skin
 - Antihistamines can help if the itching has a histamine component, but they may not fully relieve it—the mechanisms involved go beyond histamine release
-- <Cite id="nams-position-2022" tooltip="The Menopause Society. The 2022 Hormone Therapy Position Statement. Menopause. 2022;29(7):767-794.">[Hormone therapy](/support/hormone-therapy) addresses the underlying hormonal shifts driving skin changes</Cite>—typically considered as part of overall perimenopause management rather than for skin symptoms in isolation
+- <Cite id="nams-position-2022" tooltip="The Menopause Society. The 2022 Hormone Therapy Position Statement. Menopause. 2022;29(7):767-794."><a href="/support/hormone-therapy">Estrogen therapy</a> appears to help skin thickness, elasticity, and collagen when started at menopause</Cite>—typically considered as part of overall perimenopause management rather than for skin symptoms in isolation
 
 **For dryness:**
 - Heavier moisturizers, especially at night—look for ceramides and hyaluronic acid, which support the barrier and restore water-binding capacity
@@ -102,8 +102,8 @@ The emotional weight of losing hair that has been part of your identity since ch
 - Gentle handling—hair is more fragile, and tight hairstyles or heat stress make miniaturization worse
 - Check iron, vitamin D, and thyroid levels (all can drive shedding and are common deficiencies)
 - Consider whether hair products have become too harsh—the scalp is also affected by skin changes
-- <Cite id="fphl-treatment-update-2023" tooltip="Ramos PM, Miot HA. Female-pattern hair loss: therapeutic update. Anais Brasileiros de Dermatologia. 2023;98(4):506-519.">Topical minoxidil is the best-supported first-line treatment for female pattern hair loss</Cite>—a dermatologist can help confirm whether the pattern is androgenetic loss, telogen effluvium, thyroid or iron-related shedding, or something else
-- <Cite id="lllt-pattern-hair-loss-meta-2021" tooltip="Lueangarun S, et al. A systematic review and meta-analysis of randomized controlled trials of FDA-approved low-level light therapy devices for pattern hair loss. Lasers in Medical Science. 2021.">Low-level laser therapy (red light) is FDA-cleared for female pattern hair loss and has reasonable evidence, though results vary by device and consistency of use</Cite>
+- <Cite id="fphl-treatment-update-2023" tooltip="Müller Ramos P, et al. Female-pattern hair loss: therapeutic update. Anais Brasileiros de Dermatologia. 2023;98(4):506-519.">Topical minoxidil is the best-supported first-line treatment for female pattern hair loss</Cite>—a dermatologist can help confirm whether the pattern is androgenetic loss, telogen effluvium, thyroid or iron-related shedding, or something else
+- <Cite id="lllt-pattern-hair-loss-meta-2021" tooltip="Lueangarun S, et al. A Systematic Review and Meta-analysis of Randomized Controlled Trials of United States Food and Drug Administration-Approved, Home-use, Low-Level Light/Laser Therapy Devices for Pattern Hair Loss: Device Design and Technology. Journal of Clinical and Aesthetic Dermatology. 2021;14(11):E64-E75.">Low-level laser therapy (red light) devices are FDA-cleared, and trials show increased hair density in women compared with sham devices, though the trials were short (under 26 weeks) and results differed by light source</Cite>
 - A dermatologist who specializes in hair is worth seeing if loss is significant—they can sequence what to try and help rule out other causes
 
 ## When It's Not "Just" Perimenopause

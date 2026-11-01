@@ -36,7 +36,7 @@ Your path through this transition is yours alone. But you don't have to walk it 
 
 <CardGrid>
 <Card href="/support/hormone-therapy" title="Hormone Therapy">
-The truth about the WHI controversy and the recent reassessment. Why timing matters. Why transdermal is usually better than oral. How to have an informed conversation.
+The truth about the WHI controversy and the recent reassessment. Why timing matters. Why transdermal is often preferred over oral. How to have an informed conversation.
 </Card>
 
 <Card href="/support/beyond-hormones" title="Beyond Hormones">

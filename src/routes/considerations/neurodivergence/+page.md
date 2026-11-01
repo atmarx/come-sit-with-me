@@ -16,16 +16,18 @@ The research is only beginning to catch up to what neurodivergent women have bee
 
 ## What the Research Is Starting to Show
 
-<Cite id="autism-menopause" tooltip="Moseley RL, et al. Autistic Women's Experiences of the Menopause and Perimenopause. Autism. 2024;28(1):254-272.">A 2024 study—one of the first to specifically examine this intersection—found that autistic individuals often experience:</Cite>
+<Cite id="autism-menopause" tooltip="Grant A, et al. Autism and the Menopause Transition: A Mixed-Methods Systematic Review. Autism in Adulthood. 2025.">A 2025 systematic review—still working from a small evidence base—found that autistic people often report:</Cite>
 
-- **More severe menopause symptoms overall**
-- **Intensified sensory experiences** of physical symptoms
+- **More severe menopause symptoms**, on limited quantitative evidence
+- **Heightened sensory sensitivity**
 - **Barriers to getting support and recognition**
-- **Healthcare interactions that don't work** the way they're supposed to
+- **Healthcare appointments that go badly**
 
-This isn't because autistic women are imagining things or being dramatic. It's because sensory processing differences are real, and symptoms that involve the body and its sensations—[hot flashes](/symptoms/hot-flashes), [skin changes](/symptoms/skin), [aches](/symptoms/aches), temperature dysregulation—land differently when your nervous system is wired differently.
+This isn't because autistic women are imagining things or being dramatic. Sensory processing differences are real, and symptoms that involve the body and its sensations—[skin changes](/symptoms/skin), [aches](/symptoms/aches)—can land differently when your nervous system is wired differently.
 
-And it's not only autism. <Cite id="adhd-estrogen" tooltip="Quinn PO, Madhoo M. A Review of Attention-Deficit/Hyperactivity Disorder in Women and Girls: Uncovering This Hidden Diagnosis. Primary Care Companion for CNS Disorders. 2014;16(3):PCC.13r01596.">ADHD is underdiagnosed in women to begin with, and hormonal shifts influence both how symptoms express themselves and how well treatment works.</Cite> If your executive function was already hard-won, the [brain fog](/symptoms/brain-fog) of this transition can feel like losing ground you fought for.
+[Hot flashes](/symptoms/hot-flashes) may be the exception, and you should know that. <Cite id="charlton-autism-symptoms-2025" tooltip="Charlton RA, et al. Journal of Women's Health. 2025;34(5):622-634.">A 2025 study of 342 people found autistic people had higher rates of bothersome psychological and physical menopause symptoms than non-autistic people, but no difference in hot flashes and night sweats.</Cite> It's one study, and it can't tell you how a hot flash feels inside your own skin.
+
+And it's not only autism. <Cite id="adhd-estrogen" tooltip="Quinn PO, Madhoo M. A Review of Attention-Deficit/Hyperactivity Disorder in Women and Girls: Uncovering This Hidden Diagnosis. Primary Care Companion for CNS Disorders. 2014;16(3):PCC.13r01596.">ADHD is underdiagnosed in women to begin with, and early research suggests that hormonal fluctuations across the menstrual cycle may affect both symptoms and how well stimulant medication works—though this review doesn't address menopause itself.</Cite> If your executive function was already hard-won, the <a href="/symptoms/brain-fog">brain fog</a> of this transition can feel like losing ground you fought for.
 
 ## Sensory Aspects
 

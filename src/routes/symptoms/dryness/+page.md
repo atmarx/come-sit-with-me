@@ -1,7 +1,7 @@
 ---
 title: Dryness & Discomfort
-description: Vaginal changes, urinary symptoms, and why this doesn't resolve on its own
-summary: "Vaginal and urinary changes are common, undertreated, and wrapped in silence. What's happening, why it won't resolve on its own, and what actually helps."
+description: Vaginal changes, urinary symptoms, and why this rarely resolves on its own
+summary: "Vaginal and urinary changes are common, undertreated, and wrapped in silence. What's happening, why it rarely resolves on its own, and what actually helps."
 hero: /images/heroes/dryness.webp
 heroAlt: Dew drops on flower petals in soft morning light
 ---
@@ -12,7 +12,7 @@ heroAlt: Dew drops on flower petals in soft morning light
 
 Let's talk about something that doesn't get talked about enough.
 
-The changes to vaginal and urinary tissues that occur during perimenopause and beyond are among the most common symptoms—<Cite id="viva-survey-2012" tooltip="Nappi RE, Kokot-Kierepa M. Vaginal Health: Insights, Views and Attitudes (VIVA) Survey. Climacteric. 2012;15(Suppl 1):36-44.">affecting about 45% of postmenopausal women</Cite>—and among the most undertreated. Wrapped in silence. Wrapped in stigma. When they shouldn't be wrapped in anything but honest conversation and effective treatment.
+The changes to vaginal and urinary tissues that occur during perimenopause and beyond are among the most common symptoms—<Cite id="viva-survey-2012" tooltip="Nappi RE, Kokot-Kierepa M. Vaginal Health: Insights, Views & Attitudes (VIVA) – Results from an International Survey. Climacteric. 2012;15(1):36-44.">with about 45% of postmenopausal women aged 55-65 in one large international survey reporting vaginal symptoms</Cite>—and among the most undertreated. Wrapped in silence. Wrapped in stigma. When they shouldn't be wrapped in anything but honest conversation and effective treatment.
 
 ## What Happens
 
@@ -29,9 +29,9 @@ This constellation of symptoms has a clinical name: Genitourinary Syndrome of Me
 
 ## Why This Is Different
 
-Here's something crucial to understand: <Cite id="gsm-progressive" tooltip="Portman DJ, Gass ML. Genitourinary Syndrome of Menopause: New Terminology for Vulvovaginal Atrophy. Menopause. 2014;21(10):1063-1068."><strong>unlike <a href="/symptoms/hot-flashes">hot flashes</a>, these symptoms typically don't improve on their own.</strong></Cite>
+Here's something crucial to understand: <Cite id="gsm-review-2015" tooltip="Kim HK, et al. The Recent Review of the Genitourinary Syndrome of Menopause. Journal of Menopausal Medicine. 2015;21(2):65-71."><strong>unlike <a href="/symptoms/hot-flashes">hot flashes</a>, these symptoms rarely resolve on their own.</strong></Cite>
 
-Hot flashes, for many women, eventually ease as the body adapts to stable postmenopausal hormone levels. Urogenital symptoms tend to do the opposite—they progressively worsen without intervention. The tissues become thinner and less resilient over time, not more.
+Hot flashes, for many women, eventually ease as the body adapts to stable postmenopausal hormone levels. Urogenital symptoms tend to go the other way—left untreated, they often progress. The tissues become thinner and less resilient over time, not more.
 
 This isn't something to "wait out." If you have these symptoms, they deserve attention now, not later.
 
@@ -50,7 +50,7 @@ The good news: this is one of the most treatable symptoms of menopause.
 **Vaginal estrogen** is the most effective treatment for most women. It comes in creams, tablets, rings, and suppositories. Here's what's important to know:
 
 - It works locally—the estrogen stays in the vaginal tissues and doesn't significantly raise blood levels
-- Because absorption is minimal, it's safe for many women who can't take systemic hormone therapy—including many breast cancer survivors
+- It's a low-dose option for many women who can't take systemic hormone therapy. For breast cancer survivors, it's a conversation to have with your oncologist.
 - It takes time to work (weeks to months for full effect), but it works
 - It can be used long-term
 

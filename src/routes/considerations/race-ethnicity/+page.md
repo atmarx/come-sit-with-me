@@ -16,13 +16,11 @@ Both of these realities matter. Both deserve acknowledgment.
 
 ## What the Research Shows
 
-<Cite id="swan-overview" tooltip="Sowers M, et al. SWAN: A Multicenter, Multiethnic, Community-Based Cohort Study of Women and the Menopausal Transition. In: Menopause: Biology and Pathobiology. Academic Press, 2000.">The Study of Women's Health Across the Nation (SWAN)—the largest, longest-running study of women and menopause—has documented significant differences in how women of different racial and ethnic backgrounds experience this transition.</Cite>
+<Cite id="swan-vasomotor-duration-2015" tooltip="Avis NE, et al. Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition. JAMA Internal Medicine. 2015;175(4):531-539.">The Study of Women's Health Across the Nation (SWAN), a multi-site study following women through this transition, found pronounced racial and ethnic differences in how long hot flashes and night sweats last.</Cite>
 
 ### Timing Differences
 
-<Cite id="swan-race-timing" tooltip="Gold EB, et al. Factors Related to Age at Natural Menopause: Longitudinal Analyses From SWAN. American Journal of Epidemiology. 2013;178(1):70-83."><strong>Black and Hispanic women tend to reach menopause earlier.</strong></Cite> The median age of menopause in the US is about 51. Black women reach menopause around age 49—two years earlier. Hispanic/Latina women similarly experience earlier menopause.
-
-**Chinese and Japanese women tend to reach menopause slightly later** than white women.
+**Whether menopause timing differs by race is still argued over.** <Cite id="swan-race-timing" tooltip="Gold EB, et al. Factors Related to Age at Natural Menopause: Longitudinal Analyses From SWAN. American Journal of Epidemiology. 2013;178(1):70-83.">A 2013 analysis of SWAN found no racial or ethnic difference once social and demographic, lifestyle, and health factors were controlled.</Cite> <Cite id="swan-race-reanalysis-2023" tooltip="Reeves A, et al. Systematic Exclusion at Study Commencement Masks Earlier Menopause for Black Women in the Study of Women's Health Across the Nation (SWAN). International Journal of Epidemiology. 2023;52(5):1612-1623.">A 2023 reanalysis that corrected for who had been excluded from the study found Black women reached natural menopause about 0.4 years earlier than white women, and about 1.2 years earlier overall once surgical menopause was counted. Hispanic women showed a similar trend of about half a year, though that estimate could also mean no difference.</Cite>
 
 Earlier menopause means more years of living with lower estrogen—which affects [bone health](/whats-happening/whole-body), [cardiovascular risk](/whats-happening/whole-body), and other long-term outcomes.
 
@@ -35,10 +33,10 @@ Earlier menopause means more years of living with lower estrogen—which affects
 - These differences persist even after adjusting for other factors
 
 **Duration of symptoms:**
-<Cite id="swan-race-duration-2015" tooltip="Freeman EW, et al. Duration of Menopausal Hot Flushes and Associated Risk Factors. Obstetrics & Gynecology. 2011.">The duration of hot flashes and night sweats varies dramatically:</Cite>
-- White women: average 6.5 years
-- Hispanic/Latina women: average 8.9 years
-- Black women: average **10 years**
+<Cite id="swan-vasomotor-duration-2015" tooltip="Avis NE, et al. Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition. JAMA Internal Medicine. 2015;175(4):531-539.">The duration of hot flashes and night sweats varies dramatically. Among SWAN women with frequent symptoms:</Cite>
+- White women: median 6.5 years
+- Hispanic/Latina women: median 8.9 years
+- Black women: median **10 years**
 
 A decade of hot flashes is not the same experience as six years. This matters.
 
@@ -66,7 +64,7 @@ Here's where I need to be honest about something that may not surprise you if yo
 **The medical system treats you worse.**
 
 Studies show:
-- <Cite id="healthcare-disparities" tooltip="Sriprasert I, et al. Initiation and Duration of Systemic Hormone Therapy for Menopausal Symptoms. Obstetrics & Gynecology. 2026.">Black women are started on [hormone therapy](/support/hormone-therapy) less often than white women—and once started, Black and Hispanic women discontinue it sooner</Cite>
+- <Cite id="healthcare-disparities" tooltip="Sriprasert I, et al. Initiation and Duration of Systemic Hormone Therapy for Menopausal Symptoms. Obstetrics & Gynecology. 2026;148(5):e318-e328.">Black women are started on <a href="/support/hormone-therapy">hormone therapy</a> less often than white women—and once started, Black and Hispanic women discontinue it sooner</Cite>
 - Women of color are more likely to have their symptoms dismissed
 - Pain and discomfort reported by Black women is systematically underestimated by healthcare providers
 - The "classic" presentation of menopause symptoms—developed largely from studies of white women—may not match your experience, leading to missed diagnoses
@@ -75,11 +73,11 @@ If white women struggle to be believed about their perimenopause symptoms—and 
 
 ### Unconscious Bias in the Exam Room
 
-<Cite id="pain-bias" tooltip="Hoffman KM, et al. Racial Bias in Pain Assessment and Treatment Recommendations, and False Beliefs About Biological Differences Between Blacks and Whites. PNAS. 2016;113(16):4296-4301.">Research has documented that healthcare providers:</Cite>
-- Rate Black patients' pain as less severe than white patients' with identical complaints
-- Recommend less pain medication for Black patients
-- Hold false beliefs about biological differences (including myths about pain tolerance)
-- Spend less time with patients of color
+<Cite id="pain-bias" tooltip="Hoffman KM, et al. Racial Bias in Pain Assessment and Treatment Recommendations, and False Beliefs About Biological Differences Between Blacks and Whites. PNAS. 2016;113(16):4296-4301.">In one study, about half of the white medical students and residents surveyed endorsed false beliefs about biological differences between Black and white people. Those who endorsed them:</Cite>
+- Rated a Black patient's pain lower than a white patient's in mock medical cases
+- Made less accurate pain treatment recommendations for the Black patient
+
+That's one study of trainees and mock cases. The same paper points to the wider background: Black Americans are systematically undertreated for pain relative to white Americans.
 
 This isn't about individual bad actors. It's about a system trained on biased data, operating with biased assumptions, producing biased outcomes.
 

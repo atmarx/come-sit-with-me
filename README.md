@@ -10,16 +10,16 @@ Andrew Marx built it while he and his wife Becky go through this together.  He i
 
 **Real and live:**
 
-- Production is release **v1.2.6**, deployed 2026-09-28.
+- Production is release **v1.2.8**, deployed 2026-11-01.
 - 39 markdown pages: biology, 12 symptom pages, 5 support approaches, 6 special topics, partners, finding care, terms.
 - A symptom tracker at `/tracker`, stored only in the reader's browser (`localStorage`).
 - Full-text search (Pagefind), `sitemap.xml` and `llms.txt`.
-- A central bibliography of 102 references.
+- A central bibliography of 111 references, each checked against its source in a November 2026 audit.
 
 **Not there yet:**
 
-- **The bibliography is wired, not fully verified.**  Every entry is cited and every cite resolves, but that says nothing about whether an entry is true.  Entries have turned out fabricated or garbled, most recently the elinzanetant ones fixed in v1.2.6.  Any entry not individually checked since August 2026 is still suspect, so see [the citation rules](CONTRIBUTING.md#citation-guidelines) before you trust or reuse one.
-- **The papers collection is only as full as open access lets it be.**  See [Papers](#papers).
+- **The citation audit found a lot, and it isn't finished.**  In November 2026 we checked all 102 references then on the site against their sources: 26 were fine, 76 weren't.  That included invented papers, DOIs pointing at unrelated studies, and numbers the papers don't contain, and we corrected or removed them in v1.2.8.  A handful still rest on sources nobody here could read in full, and uncited prose wasn't audited at all.  The open list is at `~/Code/come-sit-with-me-papers/audit/OPEN.md`, and [the citation rules](CONTRIBUTING.md#citation-guidelines) apply to anything new.
+- **The papers collection holds abstracts and open full text, not many PDFs.**  See [Papers](#papers).
 
 ## Where it runs
 

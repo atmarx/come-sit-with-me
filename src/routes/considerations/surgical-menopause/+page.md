@@ -30,12 +30,12 @@ Either way: if your menopause came suddenly or early, your experience is likely 
 
 Estrogen does more than prevent hot flashes. Extended time without it increases risk of:
 
-- **Cardiovascular disease** — Estrogen protects blood vessel function; early loss of estrogen increases heart disease risk. <Cite id="premature-menopause-hypertension-2026" tooltip="Arrarte V, et al. Premature Menopause Is Associated with the Development of High Blood Pressure: A UK Biobank Cohort Study. Menopause. 2026.">In over 100,000 UK women, those with menopause before 40 went on to develop high blood pressure at higher rates—about 23% versus 17% with typical timing—so keep blood pressure on your checkup list</Cite>
+- **Cardiovascular disease** — Estrogen protects blood vessel function; early loss of estrogen increases heart disease risk. <Cite id="premature-menopause-hypertension-2026" tooltip="Arrarte V, et al. Premature Menopause Is Associated with the Development of High Blood Pressure: A UK Biobank Cohort Study. Menopause. 2026.">In over 100,000 UK women, those with menopause before 40 went on to develop high blood pressure at higher rates—about 23% versus 17% with typical timing (surgical menopause on its own showed no independent effect)—so keep blood pressure on your checkup list</Cite>
 - **Osteoporosis** — Bone loss accelerates without estrogen; earlier menopause means more years of accelerated loss
 - **Cognitive changes** — <Cite id="surgical-menopause-symptoms" tooltip="Rocca WA, et al. Oophorectomy, Menopause, Estrogen, and Cognitive Aging: The Timing Hypothesis. Neurodegenerative Diseases. 2010;7(1-3):163-166.">Research suggests early surgical menopause may increase dementia risk if estrogen isn't replaced</Cite>
-- **[Genitourinary symptoms](/symptoms/dryness)** — <Cite id="surgical-gsm-severity-2026" tooltip="Ozmen S, et al. Genitourinary Syndrome of Menopause in Surgical versus Natural Menopause: Standardized Clinical Scoring. Menopause. 2026.">These begin earlier, last longer, and tend to run more severe—on standardized exams, women after surgical menopause showed more dryness, pain with sex, and urinary symptoms than women after natural menopause</Cite>
+- **<a href="/symptoms/dryness">Genitourinary symptoms</a>** — <Cite id="surgical-gsm-severity-2026" tooltip="Ozmen S, et al. Genitourinary Syndrome of Menopause in Surgical versus Natural Menopause: Standardized Clinical Scoring. Menopause. 2026.">These can run more severe—in one single-center study, women after surgical menopause scored worse on a standardized exam and more often reported dryness, pain with sex, and urinary symptoms than women after natural menopause</Cite>
 
-These risks are why hormone therapy is particularly important to consider for surgical and premature menopause—not just for symptom relief, but for long-term health protection.
+These risks are why hormone therapy is particularly important to consider for surgical and premature menopause—not just for symptom relief, but for long-term health protection, though it may not eliminate all of the added risk.
 
 ## Hormone Therapy in This Context
 

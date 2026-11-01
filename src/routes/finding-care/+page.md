@@ -10,9 +10,9 @@ heroAlt: Compass rose with a glowing center, drawn on mottled parchment
 	import Cite from '$lib/components/Content/Cite.svelte';
 </script>
 
-Here's something that will make you angry: <Cite id="menopause-education-gap" tooltip="Kling JM, et al. Mayo Clinic Proceedings. 2019; Menopause. 2023.">one in five family medicine, internal medicine, and OB/GYN residents report receiving no menopause lectures during residency—and fewer than 7% feel adequately prepared to manage women experiencing menopause.</Cite> These are the doctors training to treat you.
+Here's something that will make you angry: <Cite id="menopause-education-gap" tooltip="Kling JM, et al. Mayo Clinic Proceedings. 2019; Allen JT, et al. Menopause. 2023.">in one US survey, one in five family medicine, internal medicine, and OB/GYN residents report receiving no menopause lectures during residency—and fewer than 7% feel adequately prepared to manage women experiencing menopause.</Cite> These are the doctors training to treat you.
 
-This means most physicians—including many gynecologists—lack adequate training in perimenopause and menopause. <Cite id="menopause-education-scoping" tooltip="Macpherson BE, Quinton ND. Maturitas. 2022.">Over 90% of trainees feel unprepared to deal with menopause</Cite>, despite this being a transition that affects half the population and lasts years. They may not recognize symptoms. They may not know current evidence. They may default to outdated fears from the WHI era. They may dismiss you.
+This suggests many physicians—including many gynecologists—lack adequate training in perimenopause and menopause, despite this being a transition that affects half the population and lasts years. They may not recognize symptoms. They may not know current evidence. They may default to outdated fears from the WHI era. They may dismiss you.
 
 Finding knowledgeable care is hard. But it's not impossible. And you deserve better than what many women receive.
 

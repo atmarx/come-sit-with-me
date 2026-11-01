@@ -82,7 +82,7 @@ If you were assigned male at birth and are on estrogen-based feminizing hormone 
 
 **As you age:**
 - Providers may recommend reducing estrogen doses after age 50, similar to the natural decline in cis women
-- <Cite id="trans-health-ucsf" tooltip="UCSF Transgender Care. Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People. 2016, updated 2022.">If you've had an orchiectomy, you'll need at least minimal hormone support to prevent bone loss until around age 50</Cite>
+- <Cite id="trans-health-ucsf" tooltip="UCSF Gender Affirming Health Program. Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People. 2nd edition. Deutsch MB, ed. June 2016, with interim updates.">If you've had an orchiectomy, UCSF's guidelines call for keeping estrogen at a dose adequate to maintain bone density; around age 50, it's reasonable to talk with your provider about whether to stop</Cite>
 - Cardiovascular and clotting risks from estrogen increase with age—transdermal delivery (patches/gel) is generally safer than oral
 
 **The conversation with providers:**
@@ -126,7 +126,7 @@ Mainstream menopause support groups may not understand your experience. Seek out
 
 ## A Note on Research
 
-<Cite id="lgbtq-research-gap" tooltip="Bryson MK, et al. Menopause and Aging LGBTQ2S+ Canadians: A Scoping Review. Sociology of Health & Illness. 2023;45(4):778-797.">There is, frankly, a dearth of research on LGBTQ+ experiences of menopause. A literature review in <em>Sociology of Health & Illness</em> highlighted this gap explicitly.</Cite>
+<Cite id="lgbtq-research-gap" tooltip="Westwood S. Lesbian, Gay, Bisexual, Transgender and Queer (LGBTQ+) Menopause: Literature Review, Knowledge Gaps and Research Agenda. Health (London). 2025;29(4):468-488.">There is, frankly, a dearth of research on LGBTQ+ experiences of menopause. A 2025 literature review in the journal <em>Health</em> highlighted this gap explicitly.</Cite>
 
 This means:
 - Clinical recommendations may not account for your specific situation

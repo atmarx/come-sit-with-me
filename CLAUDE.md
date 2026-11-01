@@ -25,7 +25,7 @@ This is a perimenopause guide—a free, evidence-based resource created by a cou
 | File | Purpose |
 |------|---------|
 | `src/routes/**/+page.md` | Content pages (markdown + Svelte components) |
-| `src/routes/resources/references/+page.md` | Central reference repository (102 references) |
+| `src/routes/resources/references/+page.md` | Central reference repository (111 references) |
 | `src/lib/components/Content/` | Citation components (Cite, Ref, References, etc.) |
 | `src/lib/config/navigation.ts` | Site navigation structure |
 | `src/app.css` | Theme colors, fonts, Tailwind config |
@@ -52,7 +52,7 @@ Citations use a **centralized reference model**:
 
 4. **Verify before citing.**  Check PubMed or the DOI, and read the abstract against the claim.  Wired is not verified — this bibliography has held fabricated entries.  See the citation guidelines in CONTRIBUTING.md.
 
-5. **Source papers** live in `~/Code/come-sit-with-me-papers` (outside the repo, never redistributed).  Check there first, and read its `triage.csv` before auditing.
+5. **Source papers** live in `~/Code/come-sit-with-me-papers` (outside the repo, never redistributed).  Check there first, and read `audit/OPEN.md` before auditing.
 
 ## Development Environment
 

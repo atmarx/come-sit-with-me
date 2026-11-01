@@ -28,7 +28,7 @@ Why what's happening is less like a gentle decline and more like a storm. Your e
 </Card>
 
 <Card href="/whats-happening/brain" title="What Your Brain Is Doing">
-We now understand why hot flashes happen, down to the specific neurons involved. This isn't your imagination—there's a reason your internal thermostat has gone haywire.
+Research now points to specific neurons behind hot flashes. This isn't your imagination—there's a reason your internal thermostat has gone haywire.
 </Card>
 
 <Card href="/whats-happening/whole-body" title="Your Whole Body">
@@ -42,7 +42,7 @@ Identity, grief, and finding yourself during transformation. This isn't just phy
 
 ## The Truth They Don't Tell You
 
-Here's what most doctors still get wrong: <Cite id="prior-perimenopause-1998" tooltip="Prior JC. Perimenopause: The Complex Endocrinology of the Menopausal Transition. Endocrine Reviews. 1998;19(4):397-428."><strong>during perimenopause, estradiol levels actually average 20-30% HIGHER than your premenopausal levels in many cycles</strong></Cite>—punctuated by dramatic drops and spikes.
+Here's something you may not have been told: <Cite id="prior-perimenopause-1998" tooltip="Prior JC. Perimenopause: The Complex Endocrinology of the Menopausal Transition. Endocrine Reviews. 1998;19(4):397-428."><strong>one meta-analysis found follicular-phase estradiol averaged roughly 25-30% higher</strong></Cite> <Cite id="prior-estradiol-2011" tooltip="Prior JC. Progesterone for Symptomatic Perimenopause Treatment - Progesterone Politics, Physiology and Potential for Perimenopause. Facts, Views & Vision in ObGyn. 2011;3(2):109-120."><strong>in perimenopausal women than in premenopausal women</strong></Cite>—punctuated by dramatic drops and spikes.
 
 Think of it less as a dimmer switch slowly turning down, and more as a strobe light with increasingly erratic timing.
 

@@ -23,9 +23,9 @@ Estrogen has been quietly protecting your cardiovascular system for decades:
 - It helps maintain healthy cholesterol ratios
 - It reduces inflammation in artery walls
 
-As estrogen fluctuates and eventually declines, that protection changes. <Cite id="cvd-menopause" tooltip="El Khoudary SR, et al. Menopause Transition and Cardiovascular Disease Risk: Implications for Timing of Early Prevention. A Scientific Statement From the American Heart Association. Circulation. 2020;142(25):e506-e532.">After menopause, cardiovascular disease risk rises to match men's.</Cite> This doesn't mean heart disease is inevitable—it means this is a time to pay attention to heart health if you haven't been.
+As estrogen fluctuates and eventually declines, that protection changes. <Cite id="cvd-menopause" tooltip="El Khoudary SR, et al. Menopause Transition and Cardiovascular Disease Risk: Implications for Timing of Early Prevention. A Scientific Statement From the American Heart Association. Circulation. 2020;142(25):e506-e532.">Cardiovascular disease risk rises notably after menopause, and the transition itself is a time of accelerating risk.</Cite> This doesn't mean heart disease is inevitable—it means this is a time to pay attention to heart health if you haven't been.
 
-The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular health is still being studied, but <Cite id="vms-cvd-risk" tooltip="Zhu D, et al. Vasomotor Menopausal Symptoms and Risk of Cardiovascular Disease: A Pooled Analysis of Six Prospective Studies. American Journal of Obstetrics & Gynecology. 2020.">there's growing evidence that frequent hot flashes and night sweats may be markers for cardiovascular risk.</Cite> <Cite id="vms-subclinical-cvd" tooltip="Thurston RC, et al. Hot Flashes and Subclinical Cardiovascular Disease: Findings from the SWAN Heart Study. Circulation. 2008;118(12):1234-1240.">Women with frequent hot flashes show more early, silent vascular changes—vessels that don't dilate as well, and more arterial calcification—even before any disease is diagnosed.</Cite> Another reason to take these symptoms seriously.
+The connection between [hot flashes](/symptoms/hot-flashes) and cardiovascular health is still being studied, but <Cite id="vms-cvd-risk" tooltip="Zhu D, et al. Vasomotor Menopausal Symptoms and Risk of Cardiovascular Disease: A Pooled Analysis of Six Prospective Studies. American Journal of Obstetrics & Gynecology. 2020.">there's growing evidence that severe hot flashes and night sweats may be markers for cardiovascular risk—how bad they are seems to matter more than how often they come.</Cite> <Cite id="vms-subclinical-cvd" tooltip="Thurston RC, et al. Hot Flashes and Subclinical Cardiovascular Disease: Findings from the SWAN Heart Study. Circulation. 2008;118(12):1234-1240.">Women who'd had hot flashes in the previous two weeks showed more early, silent vascular changes—vessels that don't dilate as well, and more calcification in the aorta—even before any disease is diagnosed.</Cite> Another reason to take these symptoms seriously.
 
 ## Your Bones
 
@@ -56,9 +56,9 @@ The reassuring news: for most women, cognitive function stabilizes and often imp
 
 ## Your Eyes
 
-If your eyes feel drier, grittier, more irritated—that's not coincidence. <Cite id="dry-eye-menopause" tooltip="Menopause Society. Dry Eye and Menopause: Mechanisms and Management. 2025. Over 57% of menopausal women report dry eye symptoms.">About 57% of menopausal women experience dry eye symptoms.</Cite> Estrogen affects tear production and tear film composition.
+If your eyes feel drier, grittier, more irritated—you have a lot of company. <Cite id="dry-eye-garcia-alfaro-2021" tooltip="Garcia-Alfaro P, et al. Dry Eye Disease Symptoms and Quality of Life in Perimenopausal and Postmenopausal Women. Climacteric. 2021;24(3):261-266.">Dry eye symptoms are very common at midlife:</Cite> <Cite id="dry-eye-vallibhakara-2025" tooltip="Vallibhakara SA, et al. Dry Eye Symptoms in Midlife Women: A Cross-Sectional Analysis of Prevalence, Risk Factors, and Quality-of-Life Outcomes. Maturitas. 2025;201:108694.">in clinic-based studies using a standard questionnaire, well over half of perimenopausal and postmenopausal women report them.</Cite>
 
-This is one of those symptoms that often gets overlooked or attributed to screens and aging, but the hormonal connection is real.
+This is one of those symptoms that often gets overlooked. Sex hormones play a part in tear production, though how much of this is hormonal and how much is age and screens is still being worked out.
 
 ## Your Mouth
 
@@ -70,7 +70,7 @@ Gum tissue is also estrogen-sensitive. Hormonal shifts can heighten the inflamma
 
 Burning mouth syndrome—a chronic burning or scalding sensation in the mouth, lips, or tongue without any visible cause—is diagnosed significantly more often in perimenopausal and postmenopausal women. If this has started happening to you, it has a name and a recognized mechanism. It isn't in your head.
 
-<Cite id="oral-microbiome-sedghi-2021" tooltip="Sedghi L, et al. The Oral Microbiome: Role of Key Organisms and Complex Networks in Oral Health and Disease. Front Microbiol. 2021. Three documented pathways from oral to systemic health — pathogen translocation, toxin circulation, immune dysregulation — and a bidirectional relationship: systemic and hormonal conditions alter oral microbiome composition.">The oral microbiome that lives in saliva connects, through the gut, to the vaginal microbiome—both shifting in response to the same hormonal changes.</Cite> Three different addresses, one transition. For deep reading on the oral ecosystem and what actually protects it, [Keep Your Teeth](https://keepyourteeth.org) goes there specifically.
+<Cite id="oral-microbiome-sedghi-2021" tooltip="Sedghi L, et al. The Oral Microbiome: Role of Key Organisms and Complex Networks in Oral Health and Disease. Periodontology 2000. 2021;87(1):107-131.">What lives in your mouth doesn't always stay there. Researchers describe three ways oral infection can reach the rest of the body—bacteria slipping into the bloodstream, microbial toxins circulating, and the inflammation your immune system mounts in response. And the road runs both ways: disease elsewhere in the body can change the oral microbiome too.</Cite> For deep reading on the oral ecosystem and what actually protects it, <a href="https://keepyourteeth.org">Keep Your Teeth</a> goes there specifically.
 
 ## Your Skin
 
@@ -86,7 +86,7 @@ This isn't vanity—skin is your largest organ, and its changes reflect what's h
 
 Vaginal and urinary tissues are particularly estrogen-sensitive. Changes here—[dryness](/symptoms/dryness), irritation, increased urinary frequency or urgency, more frequent UTIs—are among the most common and persistent symptoms of menopause.
 
-Unlike [hot flashes](/symptoms/hot-flashes), which often improve over time, urogenital symptoms typically persist or worsen without intervention. They're also among the most treatable. Local estrogen, which stays in the vaginal tissue and doesn't significantly raise blood levels, is safe for most women including many who can't take systemic hormones.
+Unlike [hot flashes](/symptoms/hot-flashes), which often improve over time, urogenital symptoms typically persist or worsen without intervention. They're also among the most treatable. Local estrogen is a low-dose option for many women who can't take systemic hormones. For breast cancer survivors, it's a conversation to have with your oncologist.
 
 ## The Bigger Picture
 

@@ -6,6 +6,10 @@ hero: /images/heroes/cancer-history.webp
 heroAlt: Sunrise over calm water, with grasses and stones along the near shore
 ---
 
+<script>
+	import Cite from '$lib/components/Content/Cite.svelte';
+</script>
+
 If you've had breast cancer or another hormone-sensitive cancer, navigating perimenopause comes with different constraints. Some of the most effective treatments—hormones—may be off the table. Providers may be hesitant to try anything at all.
 
 But having a cancer history doesn't mean you have no options. It means the conversation needs to be more careful. And the recent development of truly non-hormonal treatments has been particularly significant for women in your situation.
@@ -26,14 +30,15 @@ For women who can't take hormones, the NK3 receptor antagonists represent the fi
 - FDA approved 2023
 - Works directly on the brain mechanism causing hot flashes
 - No estrogen, no hormonal effects
-- About 60% reduction in hot flash frequency
+- About 64% fewer moderate-to-severe hot flashes by week 12 on the 45 mg dose (placebo brought about 45%), in a trial of women already past menopause
 - Requires liver enzyme monitoring
 
 **Elinzanetant (Lynkuet):**
 - FDA approved 2025
 - Also non-hormonal
 - May help with sleep as well as hot flashes
-- About two-thirds fewer moderate-to-severe hot flashes by week 12
+- About two-thirds fewer moderate-to-severe hot flashes by week 12 (placebo brought a bit under half)
+- <Cite id="lynkuet-label-2026" tooltip="Bayer HealthCare Pharmaceuticals. LYNKUET (elinzanetant) Prescribing Information. DailyMed.">The label calls for baseline liver tests before starting</Cite>
 
 These aren't just "something to try"—they're the first treatments that address hot flashes at the [neurological source](/whats-happening/brain) without involving hormones at all.
 
@@ -65,7 +70,7 @@ These aren't just "something to try"—they're the first treatments that address
 
 [Vaginal dryness and urinary symptoms](/symptoms/dryness) are particularly common and distressing for cancer survivors—especially those on aromatase inhibitors, which drive estrogen even lower than natural menopause.
 
-**Vaginal estrogen may be an option.** This surprises many women. Local vaginal estrogen—creams, tablets, rings—has minimal systemic absorption. Blood estrogen levels stay very low. For many breast cancer survivors, oncologists now consider low-dose vaginal estrogen acceptable, especially for significant symptoms.
+**Vaginal estrogen may be an option.** This surprises many women. Local vaginal estrogen—creams, tablets, rings—is a low-dose option. <Cite id="vaginal-estrogen-safety" tooltip="ACOG Committee Opinion No. 659. The Use of Vaginal Estrogen in Women with a History of Estrogen-Dependent Breast Cancer. Obstetrics & Gynecology. 2016;127(3):e93-e96.">For breast cancer survivors, it's a conversation to have with your oncologist: nonhormonal options come first, and vaginal estrogen is generally reserved for when those haven't helped. Data so far don't show an increased risk of recurrence, but experts still describe real uncertainty.</Cite>
 
 This is not a blanket statement—it depends on your specific situation and your oncologist's assessment. But "I've had breast cancer" doesn't automatically mean you can never use vaginal estrogen. Ask the question.
 
