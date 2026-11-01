@@ -144,6 +144,10 @@ When citing a new source:
 ### Citation Guidelines
 
 - References should be real, verifiable sources
+- **Check every reference against the source before citing it, and never from memory.** Look it up on PubMed or the DOI, confirm the title, authors, journal, year, and that the DOI resolves to that paper. Then read the abstract and confirm it supports the specific sentence you're wrapping.
+- **Check numbers and dates hardest.** A percentage must appear in the paper. A drug approval date must come from the FDA or the manufacturer's release, and it must be for that drug, not its nearest cousin.
+- **Wired is not verified.** A cite that resolves to an entry only proves the link works. This bibliography has held an invented paper, a real DOI under a made-up byline, and a "74% reduction" no trial reported, all of them looking perfectly tidy. An AI sounds just as sure when it's wrong, and an automated checker that only confirms a paper exists won't catch a claim the paper doesn't make, so nothing replaces reading the abstract.
+- If an existing entry fails, fix it or remove it along with the claim it held up. A plausible wrong citation on a health site is worse than none.
 - When evidence is strong, say so; when it's limited, say that too
 - Traditional knowledge gets respect, not dismissal—but also not false equivalence with clinical trials
 - Cite the specific claim, not general knowledge (wrap just the sentence or phrase that needs attribution)

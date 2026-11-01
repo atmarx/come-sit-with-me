@@ -1,10 +1,10 @@
 # Hero Image DALL-E Prompts
 
-All images should be **1200x400px** (3:1 aspect ratio), saved as **WebP** format, optimized to **<100KB**.
+The images on the site are **1536x1024** (3:2) WebP, not the 3:1 banners these prompts were first written for. Saved as **WebP** format.
 
 ## Style Suffix (append to all prompts)
 
-> Soft watercolor illustration style, muted earth tones (dusty rose, sage, cream, warm browns), gentle and organic, no text, no people, no hands, 3:1 aspect ratio banner
+> Soft watercolor illustration style, muted earth tones (dusty rose, sage, cream, warm browns), gentle and organic, no text, no people, no hands, 3:2 aspect ratio
 
 **Note:** Each prompt needs a concrete compositional anchor—a specific object, landscape feature, or botanical element. Abstract concepts alone drift into vague washes.
 

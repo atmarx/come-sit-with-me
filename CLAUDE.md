@@ -6,17 +6,19 @@ This is a perimenopause guide—a free, evidence-based resource created by a cou
 
 **Production URL:** https://comesitwith.me (NOT comesitwithme.org)
 
-**Tech Stack:** SvelteKit 2 + Svelte 5, Tailwind CSS 4, mdsvex (Markdown with Svelte components), static adapter for GitHub Pages deployment.
+**Tech Stack:** SvelteKit 2 + Svelte 5, Tailwind CSS 4, mdsvex (Markdown with Svelte components), static adapter, Pagefind search.  Served by Caddy in a container — see [README.md](README.md) for hosts and deploy.
+
+**Deploys:** push to `main` updates xdocker01 only.  Production (xdroplet04) needs a pushed tag.  GitHub Pages is retired, and the GitHub mirror is stale.
 
 **Content Model:** 39 markdown pages organized into sections:
 - `/` — Home
 - `/introduction` — Gateway page
 - `/whats-happening/` — 4 pages on biology (hormones, brain, body, emotions)
-- `/symptoms/` — 12 symptom pages + tracker
+- `/symptoms/` — 12 symptom pages (the tracker is a Svelte page at `/tracker`)
 - `/support/` — 5 treatment approach pages
 - `/considerations/` — 6 special topics (race/ethnicity, LGBTQ+, surgical, etc.)
 - `/for-partners/` — Partner-focused content
-- `/finding-care/`, `/resources/`, `/about/`
+- `/finding-care/`, `/resources/`, `/about/`, `/terms/`
 
 ## Key Files
 
@@ -48,12 +50,13 @@ Citations use a **centralized reference model**:
 
 3. **ID format:** `topic-descriptor-year` (e.g., `bone-loss-perimenopause`, `sleep-insomnia-2019`)
 
+4. **Verify before citing.**  Check PubMed or the DOI, and read the abstract against the claim.  Wired is not verified — this bibliography has held fabricated entries.  See the citation guidelines in CONTRIBUTING.md.
+
 ## Development Environment
 
 - **Do not build** — the user runs `npm run dev` with live reloading
-- Node/npm may not be available in shell, but changes can be verified via dev server
 - Static site generates to `/build` on deploy
-- **Flatpak sandbox:** VSCodium runs in a Flatpak container. To run commands outside the sandbox (e.g., `magick`, system tools), use `flatpak-spawn --host <command>`
+- **Flatpak sandbox:** only when working from VSCodium's Flatpak container — run host tools with `flatpak-spawn --host <command>`.  Fleet sessions have `node`, `npm` and `magick` directly; `cwebp` and `flatpak-spawn` aren't there.
 
 ## Content Guidelines (Quick Reference)
 
@@ -66,7 +69,7 @@ Citations use a **centralized reference model**:
 
 ## Image Assets
 
-Source images for import are in `./assets/`:
+Heroes are 1536×1024 WebP.  Source images for import are in `./assets/` (gitignored — it only exists where Andrew puts it, and fleet worktrees don't have it):
 - **Hero images:** `./assets/heros/` → convert with `cwebp -q 80 input.png -o static/images/heroes/output.webp`
 - **Other images:** `./assets/images/` → convert to `static/images/`
 
