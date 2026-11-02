@@ -19,5 +19,20 @@
     "additionalDirectories": [
       "~/Code/come-sit-with-me-papers"
     ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|WebFetch|Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "e=$(git config user.email); [ -z \"$e\" ] && exit 0; if jq -c .tool_input | grep -qiF -- \"$e\"; then echo \"Blocked: this call contains the git user email. Never send it to an outside service: no email=, mailto= or User-Agent contact. Use the anonymous tier.\" >&2; exit 2; fi; exit 0",
+            "timeout": 10,
+            "onFailure": "block"
+          }
+        ]
+      }
+    ]
   }
 }

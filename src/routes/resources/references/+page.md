@@ -103,7 +103,7 @@ Studies that tested the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="prior-perimenopause-1998"></a>
 
 **Prior JC.** ["Perimenopause: The Complex Endocrinology of the Menopausal Transition."](https://doi.org/10.1210/edrv.19.4.0341) *Endocrine Reviews.* 1998;19(4):397-428.
-*Key finding: As the author later summarized it (Prior 2011), one meta-analysis found follicular-phase estradiol averaged roughly 25-30% higher in perimenopausal women than in premenopausal women.*
+*Key finding: Pooling earlier studies as weighted means, follicular-phase estradiol averaged 225 pmol/L in 415 perimenopausal women versus 175 in premenopausal controls (about 29% higher), and premenstrual estradiol 371 versus 304 (about 22%).  About 10% of values exceeded the normal midcycle peak.  The author notes that sampling later in a shortened follicular phase may account for some of the difference, and her reading is contested.*
 
 <a aria-hidden="true" id="prior-estradiol-2011"></a>
 
@@ -297,7 +297,12 @@ Studies that tested the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="tirzepatide-ht-2026"></a>
 
 **Castaneda R, et al.** ["The Role of Menopause Hormone Therapy in Modulating Tirzepatide-Associated Weight Loss in Postmenopausal Women with Overweight or Obesity: A Retrospective Cohort Study."](https://doi.org/10.1016/S3050-5038(25)00145-1) *The Lancet Obstetrics, Gynaecology, & Women's Health.* 2026;2(2):e118-e128.
-*Key finding: In a Mayo Clinic cohort of 120 postmenopausal women on tirzepatide for at least a year, hormone therapy users lost roughly 35% more weight (19.2% vs 14.0% of body weight).  Retrospective—not randomized.*
+*Key finding: In a Mayo Clinic cohort of 120 postmenopausal women on tirzepatide for at least a year, hormone therapy users lost roughly 35% more weight (19.2% vs 14.0% of body weight).  Retrospective—not randomized.  A published letter raised breast cancer history as a confounder; the authors' reply reports the same result after excluding those women.*
+
+<a aria-hidden="true" id="tirzepatide-absorption-reply-2026"></a>
+
+**Hurtado Andrade MD, Castaneda R, Faubion S, Shufelt C.** ["Tirzepatide, Menopause Hormone Therapy, and Oral Hormone Absorption: Authors' Reply."](https://doi.org/10.1016/S3050-5038(26)00182-2) *The Lancet Obstetrics, Gynaecology, & Women's Health.* 2026;2:e674-e675.
+*Key finding: Tirzepatide reduces exposure to oral contraceptives, and its prescribing information advises a non-oral method or added barrier for 4 weeks after starting and after each dose escalation.  No dedicated pharmacokinetic studies exist for menopause hormone therapy.*
 
 ---
 
@@ -326,7 +331,8 @@ Studies that tested the timing hypothesis for hormone therapy.
 
 <a aria-hidden="true" id="vaginal-estrogen-safety"></a>
 
-**ACOG Committee Opinion No. 659.** ["The Use of Vaginal Estrogen in Women with a History of Estrogen-Dependent Breast Cancer."](https://doi.org/10.1097/AOG.0000000000001351) *Obstetrics & Gynecology.* 2016;127(3):e93-e96.
+**ACOG Clinical Consensus No. 2.** ["Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer."](https://doi.org/10.1097/AOG.0000000000004601) *Obstetrics & Gynecology.* 2021;138(6):950-960.
+*Key finding: Nonhormonal methods should be tried first.  If they fail, low-dose vaginal estrogen may be used after discussing risks and benefits, and for people taking aromatase inhibitors, after shared decision making with the gynecologist and oncologist.  Seven studies totaling more than 4,000 survivors saw no increased recurrence, though studies that answer the question definitively are lacking.  Replaces Committee Opinion No. 659.*
 
 ---
 
@@ -347,7 +353,17 @@ Studies that tested the timing hypothesis for hormone therapy.
 <a aria-hidden="true" id="skin-estrogen-biology-2006"></a>
 
 **Verdier-Sévrain S, Bonté F, Gilchrest BA.** ["Biology of estrogens in skin: implications for skin aging."](https://doi.org/10.1111/j.1600-0625.2005.00377.x) *Experimental Dermatology.* 2006;15(2):83-94.
-*Key finding: Estrogen receptors (ER-α and ER-β) are distributed throughout skin — in the epidermis, dermis, sebaceous glands, hair follicles, and mast cells. Estrogen regulates dermal hyaluronic acid synthesis by fibroblasts, and its decline may alter skin hydration, sensitivity, and wound healing capacity.*
+*Key finding: Review: estrogens raise skin collagen, thickness and moisture.  Estrogen receptors are reported in the epidermis, dermal fibroblasts, blood vessels and hair follicles, though the authors call the receptor results controversial.  In animals, estrogen increased dermal glycosaminoglycans within two weeks.*
+
+<a aria-hidden="true" id="rock-hyaluronan-estradiol-2012"></a>
+
+**Röck K, et al.** ["Estradiol Protects Dermal Hyaluronan/Versican Matrix during Photoaging by Release of Epidermal Growth Factor from Keratinocytes."](https://doi.org/10.1074/jbc.M112.353151) *Journal of Biological Chemistry.* 2012;287:20056-20069.
+*Key finding: In ovariectomized hairless mice, estradiol caused a strong increase in dermal hyaluronan, in part through epidermal growth factor from keratinocytes acting on dermal fibroblasts.  An animal study.*
+
+<a aria-hidden="true" id="zierau-mast-cells-2012"></a>
+
+**Zierau O, Zenclussen AC, Jensen F.** ["Role of Female Sex Hormones, Estradiol and Progesterone, in Mast Cell Behavior."](https://doi.org/10.3389/fimmu.2012.00169) *Frontiers in Immunology.* 2012;3:169.
+*Key finding: Review: mast cells express hormone receptors, and estradiol and progesterone induced maturation and degranulation of uterine mast cells.  Much of the evidence is from animals and from asthma, not skin.*
 
 <a aria-hidden="true" id="fphl-pathophysiology-2018"></a>
 

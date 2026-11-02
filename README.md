@@ -14,7 +14,7 @@ Andrew Marx built it while he and his wife Becky go through this together.  He i
 - 39 markdown pages: biology, 12 symptom pages, 5 support approaches, 6 special topics, partners, finding care, terms.
 - A symptom tracker at `/tracker`, stored only in the reader's browser (`localStorage`).
 - Full-text search (Pagefind), `sitemap.xml` and `llms.txt`.
-- A central bibliography of 111 references, each checked against its source in a November 2026 audit.
+- A central bibliography of 114 references, each checked against its source in a November 2026 audit.
 
 **Not there yet:**
 

@@ -14,7 +14,7 @@ Nobody warned you about the itching.
 
 <Cite id="zouboulis-menopause-skin-2022" tooltip="Zouboulis CC, et al. Skin, hair and beyond: the impact of menopause. Climacteric. 2022;25(5):434-442.">Skin and hair changes around menopause are real, and they often get less attention than other symptoms, despite a significant effect on quality of life.</Cite> Living in skin that crawls, itches, or doesn't feel like yours is maddening. And there's a reason it's happening.
 
-<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">Estrogen receptors are woven through your skin—in the outer layers, in the oil glands, in the connective tissue below, and in the mast cells distributed throughout.</Cite> When estrogen fluctuates, your skin notices at every level.
+<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">Estrogen receptors have been found throughout your skin—in the outer layers, in the connective tissue below, in the blood vessels, and in the hair follicles.</Cite> When estrogen fluctuates, your skin notices at every level.
 
 ## The Itching (Formication)
 
@@ -25,7 +25,7 @@ One likely contributor is altered nerve sensitivity. Estrogen receptors are foun
 Other mechanisms feeding the same fire:
 - **Reduced oil production** from sebaceous glands—dry skin has a lower itch threshold
 - **Thinning skin** that becomes more sensitive to pressure, fabrics, and temperature
-- **Histamine changes**—<Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">mast cells in the skin have estrogen receptors, and as estrogen shifts, some women's skin may become more reactive to things that never bothered them before</Cite>
+- **Histamine changes**—<Cite id="zierau-mast-cells-2012" tooltip="Zierau O, et al. Role of Female Sex Hormones, Estradiol and Progesterone, in Mast Cell Behavior. Frontiers in Immunology. 2012;3:169.">mast cells, the cells that release histamine, carry hormone receptors, and estradiol can change how they behave. Most of that work is in animals and other tissues, not human skin</Cite>, so it's a possible reason, not an established one, that some women's skin becomes more reactive to things that never bothered them before
 
 The itching can be:
 - Generalized (all over) or localized (specific spots)
@@ -38,9 +38,9 @@ You're not imagining it. This is a real phenomenon with a real, layered cause.
 
 Estrogen does two things for skin moisture, and most people only know about one.
 
-The first is oil production—estrogen regulates sebaceous glands, and as levels drop, skin produces less natural oil. But the second is deeper: <Cite id="skin-estrogen-biology-2006" tooltip="Verdier-Sévrain S, et al. Biology of estrogens in skin: implications for skin aging. Experimental Dermatology. 2006;15(2):83-94.">estrogen tells your skin's fibroblasts to produce **hyaluronic acid**, a molecule that binds water in the dermis from the inside.</Cite> The same HA that's used in injectable fillers is naturally present in healthy skin—and it's estrogen-dependent.
+The first is oil production—<Cite id="thornton-skin-2013" tooltip="Thornton MJ. Estrogens and Aging Skin. Dermato-Endocrinology. 2013;5(2):264-270.">estrogen acts on the sebaceous glands</Cite>, and as levels drop, many women find their skin makes less natural oil. But the second is deeper: <Cite id="rock-hyaluronan-estradiol-2012" tooltip="Röck K, et al. Estradiol Protects Dermal Hyaluronan/Versican Matrix during Photoaging by Release of Epidermal Growth Factor from Keratinocytes. Journal of Biological Chemistry. 2012;287:20056-20069.">in mice, estradiol sharply raised <strong>hyaluronic acid</strong> in the dermis, by way of a signal from the outer skin to the fibroblasts below.</Cite> Hyaluronic acid binds water from the inside. The same HA that's used in injectable fillers is naturally present in healthy skin.
 
-As estrogen declines, the skin tends to produce and retain less hyaluronic acid. Your skin loses its ability to hold moisture even when you're well-hydrated. This is why drinking more water alone doesn't fix it. This is why products that worked for twenty years suddenly aren't enough. You're working around a structural change.
+As estrogen declines, your skin may hold less of it. That step hasn't been pinned down in women, but the dryness after menopause has. Your skin can lose some of its ability to hold moisture even when you're well-hydrated, which is why drinking more water alone often doesn't fix it, and why products that worked for twenty years can suddenly fall short. You're working around a structural change.
 
 What you'll notice:
 - Skin that feels tight, uncomfortable, almost papery
